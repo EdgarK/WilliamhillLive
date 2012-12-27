@@ -1,0 +1,1463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish-->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved.-->
+<oxip version="7.1" created="2012-12-26 15:36:23" lastMsgId="4548290430"  requestTime="0.5248">
+<response request="getHierarchyByMarketType" code="001" message="success" debug="">
+<williamhill>
+<class id="46" name="European Major Leagues" maxRepDate="2012-12-26" maxRepTime="15:35:41">
+<type
+id="182"
+name="Northern Irish Premiership"
+url="http://sports.williamhill.com/bet/betting/t/182"
+lastUpdateDate="2012-11-05"
+lastUpdateTime="05:39:42">
+<market
+id="52886790"
+name="Linfield v Glentoran - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798247/Linfield%2dv%2dGlentoran"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:28"
+>
+<participant
+name="Glentoran 4-1"
+id="215345041"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Glentoran 2-0"
+id="215345035"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Glentoran 4-2"
+id="215345042"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215345030"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215345031"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215345029"
+odds="3/1"
+oddsDecimal="4.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Glentoran 3-2"
+id="215345039"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Glentoran 2-1"
+id="215345036"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Glentoran 3-0"
+id="215345037"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Glentoran 3-1"
+id="215345038"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Glentoran 1-0"
+id="215345034"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Glentoran 4-0"
+id="215345040"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Linfield 3-2"
+id="215345003"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:38"
+handicap=""/>
+<participant
+name="Glentoran 4-3"
+id="215345043"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:38"
+handicap=""/>
+<participant
+name="Linfield 4-3"
+id="215345007"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:57"
+handicap=""/>
+<participant
+name="Linfield 4-1"
+id="215345005"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:57"
+handicap=""/>
+<participant
+name="Linfield 5-1"
+id="215345009"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:57"
+handicap=""/>
+<participant
+name="Linfield 5-3"
+id="215345011"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:21:10"
+handicap=""/>
+<participant
+name="Linfield 6-1"
+id="215345014"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:57"
+handicap=""/>
+<participant
+name="Linfield 4-2"
+id="215345006"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:37"
+handicap=""/>
+<participant
+name="Linfield 5-2"
+id="215345010"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:37"
+handicap=""/>
+<participant
+name="Linfield 6-2"
+id="215345015"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:58"
+handicap=""/>
+<participant
+name="Linfield 2-1"
+id="215345000"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:58"
+handicap=""/>
+<participant
+name="Linfield 3-1"
+id="215345002"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+</market>
+<market
+id="52886791"
+name="Linfield v Glentoran - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798247/Linfield%2dv%2dGlentoran"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:08:04"
+>
+<participant
+name="Glentoran 2-0"
+id="215345102"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Glentoran 2-1"
+id="215345103"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215345097"
+odds="7/2"
+oddsDecimal="4.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Linfield 2-1"
+id="215345078"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Linfield 3-1"
+id="215345080"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215345098"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Glentoran 1-0"
+id="215345101"
+odds="1/5"
+oddsDecimal="1.20"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+</market>
+</type>
+<type
+id="322"
+name="Italian Serie B"
+url="http://sports.williamhill.com/bet/betting/t/322"
+lastUpdateDate="2012-10-28"
+lastUpdateTime="18:14:55">
+<market
+id="52832313"
+name="Ascoli v Cittadella - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798254/Ascoli%2dv%2dCittadella"
+date="2012-12-26"
+time="14:00:00"
+betTillDate="2012-12-26"
+betTillTime="14:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:04:22"
+>
+<participant
+name="Ascoli 3-1"
+id="215173322"
+odds="17/20"
+oddsDecimal="1.85"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:39"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215173351"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:44"
+handicap=""/>
+<participant
+name="Ascoli 4-2"
+id="215173326"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:44"
+handicap=""/>
+<participant
+name="Ascoli 4-3"
+id="215173327"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:44"
+handicap=""/>
+<participant
+name="Ascoli 4-1"
+id="215173325"
+odds="21/10"
+oddsDecimal="3.10"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:44"
+handicap=""/>
+<participant
+name="Ascoli 3-2"
+id="215173323"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:44"
+handicap=""/>
+<participant
+name="Ascoli 7-1"
+id="215173339"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:44"
+handicap=""/>
+<participant
+name="Ascoli 6-2"
+id="215173335"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:44"
+handicap=""/>
+<participant
+name="Ascoli 5-3"
+id="215173331"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:39"
+handicap=""/>
+<participant
+name="Ascoli 5-1"
+id="215173329"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:39"
+handicap=""/>
+<participant
+name="Ascoli 6-1"
+id="215173334"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:39"
+handicap=""/>
+<participant
+name="Ascoli 5-2"
+id="215173330"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:39"
+handicap=""/>
+</market>
+<market
+id="52832451"
+name="Bari v Grosseto - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798261/Bari%2dv%2dGrosseto"
+date="2012-12-26"
+time="14:00:00"
+betTillDate="2012-12-26"
+betTillTime="14:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:38"
+>
+<participant
+name="Grosseto 1-0"
+id="215176330"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:23"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215176325"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:23"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215176324"
+odds="1/2"
+oddsDecimal="1.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:23"
+handicap=""/>
+<participant
+name="Bari 3-0"
+id="215176297"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Bari 1-0"
+id="215176294"
+odds="12/5"
+oddsDecimal="3.40"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:03"
+handicap=""/>
+<participant
+name="Bari 2-0"
+id="215176295"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:03"
+handicap=""/>
+<participant
+name="Grosseto 2-0"
+id="215176331"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:03"
+handicap=""/>
+<participant
+name="Bari 2-1"
+id="215176296"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:23"
+handicap=""/>
+</market>
+<market
+id="52837128"
+name="Padova v Ternana - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798251/Padova%2dv%2dTernana"
+date="2012-12-26"
+time="14:00:00"
+betTillDate="2012-12-26"
+betTillTime="14:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:03:07"
+>
+<participant
+name="Draw 1-1"
+id="215171897"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Ternana 1-0"
+id="215171902"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:18"
+handicap=""/>
+<participant
+name="Ternana 2-0"
+id="215171903"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:18"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215171896"
+odds="3/10"
+oddsDecimal="1.30"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Padova 3-0"
+id="215171869"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Padova 2-1"
+id="215171868"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Padova 2-0"
+id="215171867"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Padova 1-0"
+id="215171866"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Ternana 2-1"
+id="215171904"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+</market>
+<market
+id="52837266"
+name="Livorno v Sassuolo - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798252/Livorno%2dv%2dSassuolo"
+date="2012-12-26"
+time="14:00:00"
+betTillDate="2012-12-26"
+betTillTime="14:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:35"
+>
+<participant
+name="Livorno 6-2"
+id="215172367"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:56"
+handicap=""/>
+<participant
+name="Livorno 5-3"
+id="215172363"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:56"
+handicap=""/>
+<participant
+name="Sassuolo 4-3"
+id="215172395"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:55"
+handicap=""/>
+<participant
+name="Livorno 3-2"
+id="215172355"
+odds="1/2"
+oddsDecimal="1.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:55"
+handicap=""/>
+<participant
+name="Draw 4-4"
+id="215172384"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:56"
+handicap=""/>
+<participant
+name="Livorno 4-2"
+id="215172358"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:56"
+handicap=""/>
+<participant
+name="Livorno 4-3"
+id="215172359"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:56"
+handicap=""/>
+<participant
+name="Livorno 5-2"
+id="215172362"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:56"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215172383"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:56"
+handicap=""/>
+<participant
+name="Sassuolo 5-3"
+id="215172399"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:56"
+handicap=""/>
+</market>
+<market
+id="52837404"
+name="Lanciano v Novara - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798253/Lanciano%2dv%2dNovara"
+date="2012-12-26"
+time="14:00:00"
+betTillDate="2012-12-26"
+betTillTime="14:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:47"
+>
+<participant
+name="Novara 2-0"
+id="215172686"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:21"
+handicap=""/>
+<participant
+name="Lanciano 1-0"
+id="215172649"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:20"
+handicap=""/>
+<participant
+name="Novara 2-1"
+id="215172687"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Lanciano 2-1"
+id="215172651"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215172680"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:21"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215172679"
+odds="1/4"
+oddsDecimal="1.25"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:21"
+handicap=""/>
+<participant
+name="Novara 1-0"
+id="215172685"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:21"
+handicap=""/>
+<participant
+name="Lanciano 2-0"
+id="215172650"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:21"
+handicap=""/>
+</market>
+<market
+id="52837542"
+name="Juve Stabia v Crotone - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798255/Juve%2dStabia%2dv%2dCrotone"
+date="2012-12-26"
+time="14:00:00"
+betTillDate="2012-12-26"
+betTillTime="14:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:06:11"
+>
+<participant
+name="Juve Stabia 3-1"
+id="215173621"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:21"
+handicap=""/>
+<participant
+name="Juve Stabia 4-1"
+id="215173624"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Crotone 3-1"
+id="215173657"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Juve Stabia 3-2"
+id="215173622"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Juve Stabia 2-1"
+id="215173619"
+odds="29/10"
+oddsDecimal="3.90"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215173648"
+odds="8/13"
+oddsDecimal="1.62"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:59"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215173649"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:59"
+handicap=""/>
+<participant
+name="Crotone 2-1"
+id="215173655"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:21"
+handicap=""/>
+<participant
+name="Crotone 3-2"
+id="215173658"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:21"
+handicap=""/>
+<participant
+name="Juve Stabia 4-2"
+id="215173625"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:01"
+handicap=""/>
+</market>
+<market
+id="52837680"
+name="Reggina v Vicenza - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798256/Reggina%2dv%2dVicenza"
+date="2012-12-26"
+time="14:00:00"
+betTillDate="2012-12-26"
+betTillTime="14:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:00"
+>
+<participant
+name="Draw 2-2"
+id="215174493"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:39"
+handicap=""/>
+<participant
+name="Vicenza 2-1"
+id="215174502"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:39"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215174492"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:39"
+handicap=""/>
+<participant
+name="Reggina 3-1"
+id="215174454"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:59"
+handicap=""/>
+<participant
+name="Reggina 2-1"
+id="215174451"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:39"
+handicap=""/>
+<participant
+name="Vicenza 3-1"
+id="215174505"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:39"
+handicap=""/>
+<participant
+name="Reggina 3-0"
+id="215174453"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:39"
+handicap=""/>
+<participant
+name="Reggina 4-0"
+id="215174457"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:39"
+handicap=""/>
+<participant
+name="Reggina 2-0"
+id="215174450"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:39"
+handicap=""/>
+<participant
+name="Reggina 1-0"
+id="215174448"
+odds="1/2"
+oddsDecimal="1.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:39"
+handicap=""/>
+</market>
+<market
+id="52838094"
+name="Empoli v Verona - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798259/Empoli%2dv%2dVerona"
+date="2012-12-26"
+time="14:00:00"
+betTillDate="2012-12-26"
+betTillTime="14:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:54"
+>
+<participant
+name="Empoli 1-0"
+id="215175611"
+odds="11/20"
+oddsDecimal="1.55"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:58"
+handicap=""/>
+<participant
+name="Empoli 2-1"
+id="215175615"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:00"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215175657"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:00"
+handicap=""/>
+<participant
+name="Verona 2-1"
+id="215175663"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:00"
+handicap=""/>
+<participant
+name="Verona 3-1"
+id="215175665"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:58"
+handicap=""/>
+<participant
+name="Empoli 4-0"
+id="215175620"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:58"
+handicap=""/>
+<participant
+name="Empoli 3-1"
+id="215175617"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:58"
+handicap=""/>
+<participant
+name="Empoli 3-0"
+id="215175616"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:58"
+handicap=""/>
+<participant
+name="Empoli 2-0"
+id="215175613"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:58"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215175656"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:58"
+handicap=""/>
+</market>
+<market
+id="52841224"
+name="Modena v Spezia - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798260/Modena%2dv%2dSpezia"
+date="2012-12-26"
+time="14:00:00"
+betTillDate="2012-12-26"
+betTillTime="14:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:03:02"
+>
+<participant
+name="Modena 1-0"
+id="215187267"
+odds="19/5"
+oddsDecimal="4.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="Modena 2-0"
+id="215187268"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="Spezia 2-0"
+id="215187304"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:00"
+handicap=""/>
+<participant
+name="Modena 3-0"
+id="215187270"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="Modena 2-1"
+id="215187269"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215187297"
+odds="2/5"
+oddsDecimal="1.40"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215187298"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="Spezia 2-1"
+id="215187305"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="Spezia 1-0"
+id="215187303"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:00"
+handicap=""/>
+</market>
+</type>
+<type
+id="4435"
+name="Israel Premier League Cup"
+url="http://sports.williamhill.com/bet/betting/t/4435"
+lastUpdateDate="2012-12-22"
+lastUpdateTime="16:36:41">
+<market
+id="52958036"
+name="Hapoel Ramat Gan v Hapoel Be&amp;apos;er Sheva FC - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3877777/Hapoel%2dRamat%2dGan%2dv%2dHapoel%2dBe%2der%2dSheva%2dFC"
+date="2012-12-26"
+time="15:30:00"
+betTillDate="2012-12-26"
+betTillTime="15:30:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:54"
+>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 1-0"
+id="215619464"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215619459"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:53"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215619460"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:53"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215619461"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:53"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 4-3"
+id="215619437"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:54"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 5-0"
+id="215619438"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:54"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 5-1"
+id="215619439"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:54"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 4-2"
+id="215619472"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:54"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 3-2"
+id="215619469"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:54"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 5-2"
+id="215619476"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:54"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 4-3"
+id="215619473"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:54"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 5-0"
+id="215619474"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:54"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 2-1"
+id="215619466"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:54"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 2-0"
+id="215619465"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:22"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215619458"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:22"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 4-1"
+id="215619435"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:22"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 4-2"
+id="215619436"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:22"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 3-2"
+id="215619433"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:22"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 4-0"
+id="215619434"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:22"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 4-1"
+id="215619471"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:22"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 4-0"
+id="215619470"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:22"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 5-1"
+id="215619475"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:22"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 1-0"
+id="215619428"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:22"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 3-1"
+id="215619468"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:22"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 3-0"
+id="215619467"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:22"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 2-1"
+id="215619430"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:22"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 2-0"
+id="215619429"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:22"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 3-0"
+id="215619431"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:22"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 3-1"
+id="215619432"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:22"
+handicap=""/>
+</market>
+<market
+id="52958037"
+name="Hapoel Ramat Gan v Hapoel Be&amp;apos;er Sheva FC - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3877777/Hapoel%2dRamat%2dGan%2dv%2dHapoel%2dBe%2der%2dSheva%2dFC"
+date="2012-12-26"
+time="15:30:00"
+betTillDate="2012-12-26"
+betTillTime="15:30:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:53"
+>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 3-0"
+id="215619534"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:41"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 2-1"
+id="215619533"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:41"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 2-0"
+id="215619532"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:41"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 3-1"
+id="215619535"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:41"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 3-1"
+id="215619510"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:53"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 1-0"
+id="215619506"
+odds="18/5"
+oddsDecimal="4.60"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:53"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 2-0"
+id="215619507"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:53"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215619527"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:41"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215619528"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:41"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC 1-0"
+id="215619531"
+odds="18/5"
+oddsDecimal="4.60"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:41"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215619526"
+odds="11/10"
+oddsDecimal="2.10"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:41"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 3-0"
+id="215619509"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:41"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan 2-1"
+id="215619508"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:41"
+handicap=""/>
+</market>
+</type>
+</class>
+<disclaimer>
+WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place, Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;) relating to information contained on its main trading website. By using the Website You agree to these full Terms of Use available at http://developer.williamhill.com
+</disclaimer>
+</williamhill>
+</response>
+</oxip>

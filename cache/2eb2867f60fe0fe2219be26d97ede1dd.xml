@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish-->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved.-->
+<oxip version="7.1" created="2012-12-26 15:36:53" lastMsgId="4548296038"  requestTime="0.0209">
+<response request="getHierarchyByMarketType" code="001" message="success" debug="">
+<williamhill>
+<class id="320" name="Volleyball" maxRepDate="2012-12-26" maxRepTime="15:35:04">
+<type
+id="10440"
+name="Qatar Federation Cup"
+url="http://sports.williamhill.com/bet/betting/t/10440"
+lastUpdateDate="2012-11-25"
+lastUpdateTime="18:15:58">
+<market
+id="52997068"
+name="AL Rayyan v Al Ahli - Match Betting Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3878097/AL%2dRayyan%2dv%2dAl%2dAhli"
+date="2012-12-26"
+time="14:15:01"
+betTillDate="2012-12-26"
+betTillTime="14:15:01"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:14:55"
+>
+<participant
+name="Al Ahli"
+id="215734666"
+odds="6/4"
+oddsDecimal="2.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:05"
+handicap=""/>
+<participant
+name="AL Rayyan"
+id="215734665"
+odds="1/2"
+oddsDecimal="1.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+</market>
+<market
+id="52997151"
+name="AL Rayyan v Al Ahli - 3rd Set - Point 33 Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3878097/AL%2dRayyan%2dv%2dAl%2dAhli"
+date="2012-12-26"
+time="14:15:01"
+betTillDate="2012-12-26"
+betTillTime="14:15:01"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:05"
+>
+<participant
+name="AL Rayyan"
+id="215734848"
+odds="17/20"
+oddsDecimal="1.85"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Al Ahli"
+id="215734849"
+odds="17/20"
+oddsDecimal="1.85"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+</market>
+<market
+id="52997152"
+name="AL Rayyan v Al Ahli - 3rd Set - Point 32 Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3878097/AL%2dRayyan%2dv%2dAl%2dAhli"
+date="2012-12-26"
+time="14:15:01"
+betTillDate="2012-12-26"
+betTillTime="14:15:01"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:37"
+>
+<participant
+name="Al Ahli"
+id="215734851"
+odds="17/20"
+oddsDecimal="1.85"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:36"
+handicap=""/>
+<participant
+name="AL Rayyan"
+id="215734850"
+odds="17/20"
+oddsDecimal="1.85"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:36"
+handicap=""/>
+</market>
+<market
+id="52997157"
+name="AL Rayyan v Al Ahli - 3rd Set - Point 31 Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3878097/AL%2dRayyan%2dv%2dAl%2dAhli"
+date="2012-12-26"
+time="14:15:01"
+betTillDate="2012-12-26"
+betTillTime="14:15:01"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:04"
+>
+<participant
+name="Al Ahli"
+id="215734861"
+odds="17/20"
+oddsDecimal="1.85"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:04"
+handicap=""/>
+<participant
+name="AL Rayyan"
+id="215734860"
+odds="17/20"
+oddsDecimal="1.85"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:04"
+handicap=""/>
+</market>
+<market
+id="52997264"
+name="AL Rayyan v Al Ahli - 4th Set Winner Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3878097/AL%2dRayyan%2dv%2dAl%2dAhli"
+date="2012-12-26"
+time="14:15:01"
+betTillDate="2012-12-26"
+betTillTime="14:15:01"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:18:22"
+>
+<participant
+name="AL Rayyan"
+id="215735123"
+odds="8/11"
+oddsDecimal="1.73"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:00"
+handicap=""/>
+<participant
+name="Al Ahli"
+id="215735124"
+odds="1/1"
+oddsDecimal="2.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:00"
+handicap=""/>
+</market>
+<market
+id="52997270"
+name="AL Rayyan v Al Ahli - 3rd Set Winner Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3878097/AL%2dRayyan%2dv%2dAl%2dAhli"
+date="2012-12-26"
+time="14:15:01"
+betTillDate="2012-12-26"
+betTillTime="14:15:01"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:42:26"
+>
+<participant
+name="AL Rayyan"
+id="215735135"
+odds="2/7"
+oddsDecimal="1.29"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:05"
+handicap=""/>
+<participant
+name="Al Ahli"
+id="215735136"
+odds="5/2"
+oddsDecimal="3.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:05"
+handicap=""/>
+</market>
+<market
+id="52997302"
+name="AL Rayyan v Al Ahli - 4th Set Race To 20 Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3878097/AL%2dRayyan%2dv%2dAl%2dAhli"
+date="2012-12-26"
+time="14:15:01"
+betTillDate="2012-12-26"
+betTillTime="14:15:01"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:18:22"
+>
+<participant
+name="Al Ahli"
+id="215735201"
+odds="1/1"
+oddsDecimal="2.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:18:22"
+handicap=""/>
+<participant
+name="AL Rayyan"
+id="215735200"
+odds="8/11"
+oddsDecimal="1.73"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:18:22"
+handicap=""/>
+</market>
+<market
+id="52997308"
+name="AL Rayyan v Al Ahli - 3rd Set Race To 20 Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3878097/AL%2dRayyan%2dv%2dAl%2dAhli"
+date="2012-12-26"
+time="14:15:01"
+betTillDate="2012-12-26"
+betTillTime="14:15:01"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:42:26"
+>
+<participant
+name="Al Ahli"
+id="215735213"
+odds="7/2"
+oddsDecimal="4.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:05"
+handicap=""/>
+<participant
+name="AL Rayyan"
+id="215735212"
+odds="1/6"
+oddsDecimal="1.17"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:05"
+handicap=""/>
+</market>
+<market
+id="52997316"
+name="AL Rayyan v Al Ahli - 4th Set Race To 15 Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3878097/AL%2dRayyan%2dv%2dAl%2dAhli"
+date="2012-12-26"
+time="14:15:01"
+betTillDate="2012-12-26"
+betTillTime="14:15:01"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:18:22"
+>
+<participant
+name="AL Rayyan"
+id="215735232"
+odds="8/11"
+oddsDecimal="1.73"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:18:22"
+handicap=""/>
+<participant
+name="Al Ahli"
+id="215735233"
+odds="1/1"
+oddsDecimal="2.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:18:22"
+handicap=""/>
+</market>
+<market
+id="52997325"
+name="AL Rayyan v Al Ahli - 4th Set Race To 10 Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3878097/AL%2dRayyan%2dv%2dAl%2dAhli"
+date="2012-12-26"
+time="14:15:01"
+betTillDate="2012-12-26"
+betTillTime="14:15:01"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:18:22"
+>
+<participant
+name="AL Rayyan"
+id="215735250"
+odds="8/11"
+oddsDecimal="1.73"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:18:22"
+handicap=""/>
+<participant
+name="Al Ahli"
+id="215735251"
+odds="1/1"
+oddsDecimal="2.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:18:22"
+handicap=""/>
+</market>
+<market
+id="52997336"
+name="AL Rayyan v Al Ahli - 4th Set Race To 5 Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3878097/AL%2dRayyan%2dv%2dAl%2dAhli"
+date="2012-12-26"
+time="14:15:01"
+betTillDate="2012-12-26"
+betTillTime="14:15:01"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:18:22"
+>
+<participant
+name="Al Ahli"
+id="215735274"
+odds="1/1"
+oddsDecimal="2.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:04"
+handicap=""/>
+<participant
+name="AL Rayyan"
+id="215735273"
+odds="8/11"
+oddsDecimal="1.73"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:04"
+handicap=""/>
+</market>
+</type>
+</class>
+<disclaimer>
+WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place, Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;) relating to information contained on its main trading website. By using the Website You agree to these full Terms of Use available at http://developer.williamhill.com
+</disclaimer>
+</williamhill>
+</response>
+</oxip>
