@@ -8,7 +8,7 @@ class WilliamhillLive
   LIVE_LINE_NAME = /LIVE Betting In-running/
   SPORT_NAME_PATTERN = /(Football)|(Hockey)/
   SPORT_NAME_TRANSLATION = {'Football' => 'soccer'}
-  PASS_TYPES_PATTERN = /([0-9]+(th|st).* Min(ute|s)|Before\/After [0-9]+ Mins|Goal|Puck|Correct Score|Total Pts|Winning Margin|Live Score|minutes|Easy As 1-2-3|To Win To Nil|Highest Scoring Period Live|Clean Sheet|To Score Both Halves|Win To Deuce)/
+  PASS_TYPES_PATTERN = /([0-9]+(th|st).* Min(ute|s)|Before\/After [0-9]+ Mins|Goal|Puck|Correct Score|Total Pts|Winning Margin|Live Score|minutes|Easy As 1-2-3|To Win To Nil|Highest Scoring Period Live|Clean Sheet|To Score Both Halves)/
 
   def parse()
     xmls = get_xmls
@@ -28,14 +28,13 @@ class WilliamhillLive
           home_team, away_team = teams.split(' v ')
           if market_type == 'Both Teams To Score Live'
             parse_both_teams_to_score()
-          elsif market_type =~ /Corners/
+          elsif market_type == 'Corners'
+            #'1st Half Corners Live'
             parse_total_corners()
           elsif market_type == 'Total Match Goals Odd/Even Live' || market_type =~ /Total Games Odd\/Even/
             parse_total_odd_even()
           elsif market_type == 'Draw No Bet Live'
             parse_draw_no_bet()
-          elsif market_type == 'Double Result Live' || market_type =~ /Set Winner/
-            parse_winner()
           else
             puts "Home => #{home_team} ; Away => #{away_team}    -----     #{market_type}"
             n+=1
@@ -47,10 +46,6 @@ class WilliamhillLive
     end
     puts "total_not_parsed => #{n}"
 
-  end
-
-  def parse_winner()
-    puts "!!!!!!!!!!1 X 2 1X X2 12!!!!!!!!!!!!"
   end
 
   def parse_draw_no_bet()
