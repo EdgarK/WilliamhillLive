@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish-->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved.-->
+<oxip version="7.1" created="2012-12-28 14:47:40" lastMsgId="4558046580"  requestTime="0.0160">
+<response request="getHierarchyByMarketType" code="001" message="success" debug="">
+<williamhill>
+<class id="274" name="Other League Football" maxRepDate="2012-12-28" maxRepTime="14:46:54">
+<type
+id="1420"
+name="Algerian Cup"
+url="http://sports.williamhill.com/bet/betting/t/1420"
+lastUpdateDate="2012-10-27"
+lastUpdateTime="15:26:11">
+<market
+id="52993860"
+name="MC Oran v Irb El Hadjar - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3878049/MC%2dOran%2dv%2dIrb%2dEl%2dHadjar"
+date="2012-12-28"
+time="14:00:00"
+betTillDate="2012-12-28"
+betTillTime="14:00:00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:01:59"
+>
+<participant
+name="MC Oran 3-1"
+id="215724553"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:23:19"
+handicap=""/>
+<participant
+name="MC Oran 5-2"
+id="215724561"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:36:26"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215724581"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:40:26"
+handicap=""/>
+<participant
+name="MC Oran 5-1"
+id="215724560"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:43:26"
+handicap=""/>
+<participant
+name="MC Oran 4-0"
+id="215724555"
+odds="3/1"
+oddsDecimal="4.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:43:26"
+handicap=""/>
+<participant
+name="MC Oran 8-0"
+id="215724573"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:08"
+handicap=""/>
+<participant
+name="MC Oran 7-1"
+id="215724570"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:08"
+handicap=""/>
+<participant
+name="MC Oran 7-0"
+id="215724569"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:08"
+handicap=""/>
+<participant
+name="MC Oran 5-0"
+id="215724559"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:08"
+handicap=""/>
+<participant
+name="MC Oran 6-1"
+id="215724565"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:08"
+handicap=""/>
+<participant
+name="MC Oran 4-1"
+id="215724556"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:08"
+handicap=""/>
+<participant
+name="MC Oran 4-2"
+id="215724557"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:08"
+handicap=""/>
+<participant
+name="MC Oran 2-1"
+id="215724551"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:08"
+handicap=""/>
+<participant
+name="MC Oran 3-0"
+id="215724552"
+odds="19/10"
+oddsDecimal="2.90"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:08"
+handicap=""/>
+<participant
+name="MC Oran 3-2"
+id="215724554"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:08"
+handicap=""/>
+<participant
+name="MC Oran 2-0"
+id="215724550"
+odds="10/3"
+oddsDecimal="4.33"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:08"
+handicap=""/>
+<participant
+name="MC Oran 6-0"
+id="215724564"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:08"
+handicap=""/>
+</market>
+<market
+id="53057737"
+name="NA Hussein Dey v ASB Merouana - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3882644/NA%2dHussein%2dDey%2dv%2dASB%2dMerouana"
+date="2012-12-28"
+time="14:00:00"
+betTillDate="2012-12-28"
+betTillTime="14:00:00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:05:40"
+>
+<participant
+name="NA Hussein Dey 4-1"
+id="216027307"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:47:15"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="216027332"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:47:15"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="216027331"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:47:15"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="216027330"
+odds="19/10"
+oddsDecimal="2.90"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:47:15"
+handicap=""/>
+<participant
+name="ASB Merouana 1-0"
+id="216027336"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:47:15"
+handicap=""/>
+<participant
+name="NA Hussein Dey 2-1"
+id="216027302"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:47:15"
+handicap=""/>
+<participant
+name="NA Hussein Dey 3-0"
+id="216027303"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:47:15"
+handicap=""/>
+<participant
+name="NA Hussein Dey 1-0"
+id="216027300"
+odds="9/4"
+oddsDecimal="3.25"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:47:15"
+handicap=""/>
+<participant
+name="NA Hussein Dey 2-0"
+id="216027301"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:47:15"
+handicap=""/>
+<participant
+name="NA Hussein Dey 4-0"
+id="216027306"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:47:15"
+handicap=""/>
+<participant
+name="NA Hussein Dey 5-0"
+id="216027310"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:47:15"
+handicap=""/>
+<participant
+name="NA Hussein Dey 3-1"
+id="216027304"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:47:15"
+handicap=""/>
+<participant
+name="NA Hussein Dey 3-2"
+id="216027305"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:47:15"
+handicap=""/>
+<participant
+name="ASB Merouana 2-0"
+id="216027337"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:35:15"
+handicap=""/>
+<participant
+name="ASB Merouana 3-0"
+id="216027339"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:35:15"
+handicap=""/>
+<participant
+name="ASB Merouana 2-1"
+id="216027338"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:35:15"
+handicap=""/>
+<participant
+name="ASB Merouana 3-1"
+id="216027340"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:35:15"
+handicap=""/>
+</market>
+</type>
+<type
+id="10493"
+name="Kuwait Federation Cup"
+url="http://sports.williamhill.com/bet/betting/t/10493"
+lastUpdateDate="2012-11-30"
+lastUpdateTime="12:22:19">
+<market
+id="52993614"
+name="AL Jahra v Khaitan - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3878047/AL%2dJahra%2dv%2dKhaitan"
+date="2012-12-28"
+time="13:10:00"
+betTillDate="2012-12-28"
+betTillTime="13:10:00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:14:33"
+>
+<participant
+name="Draw 2-2"
+id="215723673"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:54"
+handicap=""/>
+<participant
+name="Khaitan 2-0"
+id="215723678"
+odds="4/7"
+oddsDecimal="1.57"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:54"
+handicap=""/>
+<participant
+name="Khaitan 3-0"
+id="215723680"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:54"
+handicap=""/>
+<participant
+name="Khaitan 2-1"
+id="215723679"
+odds="29/10"
+oddsDecimal="3.90"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:54"
+handicap=""/>
+<participant
+name="Khaitan 3-2"
+id="215723682"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:54"
+handicap=""/>
+<participant
+name="Khaitan 3-1"
+id="215723681"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:54"
+handicap=""/>
+<participant
+name="Khaitan 4-1"
+id="215723684"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:54"
+handicap=""/>
+<participant
+name="Khaitan 4-0"
+id="215723683"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:54"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215723674"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:54"
+handicap=""/>
+<participant
+name="AL Jahra 3-2"
+id="215723646"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:54"
+handicap=""/>
+</market>
+</type>
+</class>
+<disclaimer>
+WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place, Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;) relating to information contained on its main trading website. By using the Website You agree to these full Terms of Use available at http://developer.williamhill.com
+</disclaimer>
+</williamhill>
+</response>
+</oxip>

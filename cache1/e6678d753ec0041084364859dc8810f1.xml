@@ -19,9 +19,21 @@
 				
 					
 						<tr>
-							<td>European Basketball</td>
+							<td>Challenger Tennis</td>
 							<td>--</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=273&marketSort=--&filterBIR=Y">XML</a></td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=424&marketSort=--&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>Challenger Tennis</td>
+							<td>Correct score</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=424&marketSort=CS&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>Challenger Tennis</td>
+							<td>Win/win</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=424&marketSort=HH&filterBIR=Y">XML</a></td>
 						</tr>
 					
 						<tr>
@@ -74,12 +86,6 @@
 					
 						<tr>
 							<td>European Ice Hockey</td>
-							<td>Double chance</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=283&marketSort=DC&filterBIR=Y">XML</a></td>
-						</tr>
-					
-						<tr>
-							<td>European Ice Hockey</td>
 							<td>Draw no bet</td>
 							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=283&marketSort=DN&filterBIR=Y">XML</a></td>
 						</tr>
@@ -103,15 +109,69 @@
 						</tr>
 					
 						<tr>
-							<td>Greyhounds - Specials</td>
+							<td>European Major Leagues</td>
 							<td>--</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=386&marketSort=--&filterBIR=Y">XML</a></td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=46&marketSort=--&filterBIR=Y">XML</a></td>
 						</tr>
 					
 						<tr>
-							<td>International Cricket</td>
-							<td>Win/win</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=42&marketSort=HH&filterBIR=Y">XML</a></td>
+							<td>European Major Leagues</td>
+							<td>C3</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=46&marketSort=C3&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>European Major Leagues</td>
+							<td>Correct score</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=46&marketSort=CS&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>European Major Leagues</td>
+							<td>Draw no bet</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=46&marketSort=DN&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>European Major Leagues</td>
+							<td>Half-time/full-time</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=46&marketSort=HF&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>European Major Leagues</td>
+							<td>Higher/lower</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=46&marketSort=HL&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>European Major Leagues</td>
+							<td>HT</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=46&marketSort=HT&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>European Major Leagues</td>
+							<td>Western handicap</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=46&marketSort=MH&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>European Major Leagues</td>
+							<td>Match result</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=46&marketSort=MR&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>European Major Leagues</td>
+							<td>Odd/even</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=46&marketSort=OE&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>Greyhounds - Specials</td>
+							<td>--</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=386&marketSort=--&filterBIR=Y">XML</a></td>
 						</tr>
 					
 						<tr>
@@ -121,87 +181,105 @@
 						</tr>
 					
 						<tr>
-							<td>Mens Tennis</td>
-							<td>--</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=43&marketSort=--&filterBIR=Y">XML</a></td>
-						</tr>
-					
-						<tr>
-							<td>Mens Tennis</td>
+							<td>International Ice Hockey</td>
 							<td>Correct score</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=43&marketSort=CS&filterBIR=Y">XML</a></td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=401&marketSort=CS&filterBIR=Y">XML</a></td>
 						</tr>
 					
 						<tr>
-							<td>Mens Tennis</td>
-							<td>Win/win</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=43&marketSort=HH&filterBIR=Y">XML</a></td>
-						</tr>
-					
-						<tr>
-							<td>Mens Tennis</td>
-							<td>Odd/even</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=43&marketSort=OE&filterBIR=Y">XML</a></td>
-						</tr>
-					
-						<tr>
-							<td>Other League Football</td>
-							<td>--</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=274&marketSort=--&filterBIR=Y">XML</a></td>
-						</tr>
-					
-						<tr>
-							<td>Other League Football</td>
-							<td>Correct score</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=274&marketSort=CS&filterBIR=Y">XML</a></td>
-						</tr>
-					
-						<tr>
-							<td>Other League Football</td>
+							<td>International Ice Hockey</td>
 							<td>Draw no bet</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=274&marketSort=DN&filterBIR=Y">XML</a></td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=401&marketSort=DN&filterBIR=Y">XML</a></td>
 						</tr>
 					
 						<tr>
-							<td>Other League Football</td>
+							<td>International Ice Hockey</td>
 							<td>Higher/lower</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=274&marketSort=HL&filterBIR=Y">XML</a></td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=401&marketSort=HL&filterBIR=Y">XML</a></td>
 						</tr>
 					
 						<tr>
-							<td>Other League Football</td>
-							<td>HT</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=274&marketSort=HT&filterBIR=Y">XML</a></td>
-						</tr>
-					
-						<tr>
-							<td>Other League Football</td>
-							<td>Western handicap</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=274&marketSort=MH&filterBIR=Y">XML</a></td>
-						</tr>
-					
-						<tr>
-							<td>Other League Football</td>
+							<td>International Ice Hockey</td>
 							<td>Match result</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=274&marketSort=MR&filterBIR=Y">XML</a></td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=401&marketSort=MR&filterBIR=Y">XML</a></td>
 						</tr>
 					
 						<tr>
-							<td>Other League Football</td>
+							<td>International Ice Hockey</td>
+							<td>Western (US-style) handicap</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=401&marketSort=WH&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>UK Football</td>
+							<td>--</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=1&marketSort=--&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>UK Football</td>
+							<td>C3</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=1&marketSort=C3&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>UK Football</td>
+							<td>Correct score</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=1&marketSort=CS&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>UK Football</td>
+							<td>Draw no bet</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=1&marketSort=DN&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>UK Football</td>
+							<td>Half-time/full-time</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=1&marketSort=HF&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>UK Football</td>
+							<td>Higher/lower</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=1&marketSort=HL&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>UK Football</td>
+							<td>HT</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=1&marketSort=HT&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>UK Football</td>
+							<td>Western handicap</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=1&marketSort=MH&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>UK Football</td>
+							<td>Match result</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=1&marketSort=MR&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>UK Football</td>
 							<td>Odd/even</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=274&marketSort=OE&filterBIR=Y">XML</a></td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=1&marketSort=OE&filterBIR=Y">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>UK Football</td>
+							<td>Winning margin</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=1&marketSort=WM&filterBIR=Y">XML</a></td>
 						</tr>
 					
 						<tr>
 							<td>Volleyball</td>
 							<td>--</td>
 							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=320&marketSort=--&filterBIR=Y">XML</a></td>
-						</tr>
-					
-						<tr>
-							<td>Volleyball</td>
-							<td>Correct score</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=320&marketSort=CS&filterBIR=Y">XML</a></td>
 						</tr>
 					
 						<tr>
@@ -316,6 +394,18 @@
 							<td>Cycling</td>
 							<td>--</td>
 							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=301&marketSort=--&filterBIR=N">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>Darts Specials</td>
+							<td>--</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=384&marketSort=--&filterBIR=N">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>Darts Specials</td>
+							<td>Higher/lower</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=384&marketSort=HL&filterBIR=N">XML</a></td>
 						</tr>
 					
 						<tr>
@@ -535,12 +625,6 @@
 						</tr>
 					
 						<tr>
-							<td>Football Specials</td>
-							<td>Win/win</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=276&marketSort=HH&filterBIR=N">XML</a></td>
-						</tr>
-					
-						<tr>
 							<td>Formula 1</td>
 							<td>--</td>
 							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=5&marketSort=--&filterBIR=N">XML</a></td>
@@ -598,12 +682,6 @@
 							<td>Greyhounds - Live</td>
 							<td>--</td>
 							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=3&marketSort=--&filterBIR=N">XML</a></td>
-						</tr>
-					
-						<tr>
-							<td>Greyhounds - Trap Challenge</td>
-							<td>--</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=280&marketSort=--&filterBIR=N">XML</a></td>
 						</tr>
 					
 						<tr>
@@ -733,33 +811,33 @@
 						</tr>
 					
 						<tr>
-							<td>International Tennis</td>
-							<td>--</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=6&marketSort=--&filterBIR=N">XML</a></td>
-						</tr>
-					
-						<tr>
-							<td>International Tennis</td>
-							<td>Correct score</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=6&marketSort=CS&filterBIR=N">XML</a></td>
-						</tr>
-					
-						<tr>
-							<td>International Tennis</td>
-							<td>Win/win</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=6&marketSort=HH&filterBIR=N">XML</a></td>
-						</tr>
-					
-						<tr>
-							<td>International Tennis</td>
-							<td>Odd/even</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=6&marketSort=OE&filterBIR=N">XML</a></td>
-						</tr>
-					
-						<tr>
 							<td>Mens Golf</td>
 							<td>--</td>
 							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=40&marketSort=--&filterBIR=N">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>Mens Tennis</td>
+							<td>--</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=43&marketSort=--&filterBIR=N">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>Mens Tennis</td>
+							<td>Correct score</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=43&marketSort=CS&filterBIR=N">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>Mens Tennis</td>
+							<td>Win/win</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=43&marketSort=HH&filterBIR=N">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>Mens Tennis</td>
+							<td>Odd/even</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=43&marketSort=OE&filterBIR=N">XML</a></td>
 						</tr>
 					
 						<tr>
@@ -872,8 +950,44 @@
 					
 						<tr>
 							<td>Rugby Union</td>
+							<td>AG</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=7&marketSort=AG&filterBIR=N">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>Rugby Union</td>
+							<td>First scorer</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=7&marketSort=FS&filterBIR=N">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>Rugby Union</td>
 							<td>Half-time/full-time</td>
 							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=7&marketSort=HF&filterBIR=N">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>Rugby Union</td>
+							<td>Higher/lower</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=7&marketSort=HL&filterBIR=N">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>Rugby Union</td>
+							<td>Hat-trick</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=7&marketSort=HS&filterBIR=N">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>Rugby Union</td>
+							<td>Last scorer</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=7&marketSort=LS&filterBIR=N">XML</a></td>
+						</tr>
+					
+						<tr>
+							<td>Rugby Union</td>
+							<td>MG</td>
+							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=7&marketSort=MG&filterBIR=N">XML</a></td>
 						</tr>
 					
 						<tr>
@@ -892,18 +1006,6 @@
 							<td>Rugby Union</td>
 							<td>Western (US-style) handicap</td>
 							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=7&marketSort=WH&filterBIR=N">XML</a></td>
-						</tr>
-					
-						<tr>
-							<td>Ski Jumping</td>
-							<td>--</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=316&marketSort=--&filterBIR=N">XML</a></td>
-						</tr>
-					
-						<tr>
-							<td>Ski Jumping</td>
-							<td>Win/win</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=316&marketSort=HH&filterBIR=N">XML</a></td>
 						</tr>
 					
 						<tr>
@@ -1090,12 +1192,6 @@
 							<td>UK Football</td>
 							<td>GT</td>
 							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=1&marketSort=GT&filterBIR=N">XML</a></td>
-						</tr>
-					
-						<tr>
-							<td>UK Football</td>
-							<td>GX</td>
-							<td><a href="http://pricefeeds.williamhill.com/oxipubserver?action=template&template=getHierarchyByMarketType&classId=1&marketSort=GX&filterBIR=N">XML</a></td>
 						</tr>
 					
 						<tr>

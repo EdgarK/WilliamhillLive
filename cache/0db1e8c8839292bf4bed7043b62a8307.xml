@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- OXi dbPublish-->
 <!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved.-->
-<oxip version="7.1" created="2012-12-26 15:36:15" lastMsgId="4548287107"  requestTime="0.1058">
+<oxip version="7.1" created="2012-12-28 14:47:28" lastMsgId="4558045050"  requestTime="0.1318">
 <response request="getHierarchyByMarketType" code="001" message="success" debug="">
 <williamhill>
-<class id="283" name="European Ice Hockey" maxRepDate="2012-12-26" maxRepTime="15:18:28">
+<class id="283" name="European Ice Hockey" maxRepDate="2012-12-28" maxRepTime="14:34:06">
 <type
 id="620"
 name="Kontinental Hockey League"
@@ -12,983 +12,1291 @@ url="http://sports.williamhill.com/bet/betting/t/620"
 lastUpdateDate="2012-11-11"
 lastUpdateTime="19:25:39">
 <market
-id="52997890"
-name="SKA St. Petersbourg v CSKA Moscow - Correct Score Live"
-url="http://sports.williamhill.com/bet/en-gb/betting/e/3878457/SKA%2dSt%2e%2dPetersbourg%2dv%2dCSKA%2dMoscow"
-date="2012-12-26"
-time="15:30:01"
-betTillDate="2012-12-26"
-betTillTime="15:30:01"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
+id="53107912"
+name="Avtomobilist Yekaterinburg v Sibir Novosibirsk - Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3885707/Avtomobilist%2dYekaterinburg%2dv%2dSibir%2dNovosibirsk"
+date="2012-12-28"
+time="13:00:01"
+betTillDate="2012-12-28"
+betTillTime="13:00:01"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="13:28:28"
 >
 <participant
-name="CSKA Moscow 6-1"
-id="215739353"
-odds="150/1"
-oddsDecimal="151.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 10-1"
-id="215739382"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="CSKA Moscow 9-7"
-id="215739383"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="CSKA Moscow 9-8"
-id="215739384"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="CSKA Moscow 10-5"
-id="215739385"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="CSKA Moscow 10-4"
-id="215739386"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="CSKA Moscow 10-3"
-id="215739387"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="CSKA Moscow 9-6"
-id="215739378"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 8-7"
-id="215739312"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="CSKA Moscow 9-5"
-id="215739377"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 9-0"
-id="215739313"
+name="Sibir Novosibirsk 7-0"
+id="216196730"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="13:28:56"
 handicap=""/>
 <participant
-name="CSKA Moscow 9-4"
-id="215739380"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="CSKA Moscow 9-3"
-id="215739379"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="CSKA Moscow 10-0"
-id="215739381"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 9-7"
-id="215739320"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 9-8"
-id="215739321"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 8-1"
-id="215739318"
-odds="125/1"
-oddsDecimal="126.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 8-2"
-id="215739319"
-odds="125/1"
-oddsDecimal="126.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 8-3"
-id="215739316"
-odds="150/1"
-oddsDecimal="151.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 8-4"
-id="215739317"
+name="Avtomobilist Yekaterinburg 6-1"
+id="216196793"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="13:55:07"
 handicap=""/>
 <participant
-name="SKA St. Petersbourg 8-5"
-id="215739314"
+name="Sibir Novosibirsk 5-4"
+id="216196722"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="13:55:09"
 handicap=""/>
 <participant
-name="SKA St. Petersbourg 8-6"
-id="215739315"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="CSKA Moscow 8-4"
-id="215739372"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="CSKA Moscow 8-7"
-id="215739375"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="CSKA Moscow 9-0"
-id="215739376"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="CSKA Moscow 9-1"
-id="215739373"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="CSKA Moscow 9-2"
-id="215739374"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="CSKA Moscow 8-5"
-id="215739369"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="CSKA Moscow 8-1"
-id="215739368"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 9-5"
-id="215739322"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 9-6"
-id="215739323"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 9-3"
-id="215739324"
+name="Sibir Novosibirsk 9-1"
+id="216196743"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
 handicap=""/>
 <participant
-name="CSKA Moscow 8-6"
-id="215739370"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 10-6"
-id="215739329"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 10-5"
-id="215739330"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 10-4"
-id="215739331"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 9-4"
-id="215739325"
+name="Sibir Novosibirsk 9-2"
+id="216196744"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
 handicap=""/>
 <participant
-name="SKA St. Petersbourg 9-1"
-id="215739326"
+name="Sibir Novosibirsk 8-3"
+id="216196741"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
 handicap=""/>
 <participant
-name="SKA St. Petersbourg 9-2"
-id="215739327"
+name="Sibir Novosibirsk 8-4"
+id="216196742"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
 handicap=""/>
 <participant
-name="SKA St. Petersbourg 10-7"
-id="215739328"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="Draw 9-9"
-id="215739406"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:15"
-handicap=""/>
-<participant
-name="Draw 10-10"
-id="215739407"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 4-3"
-id="215739409"
-odds="25/1"
-oddsDecimal="26.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="Draw 8-8"
-id="215739405"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 4-1"
-id="215739294"
-odds="12/1"
-oddsDecimal="13.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 4-2"
-id="215739295"
-odds="14/1"
-oddsDecimal="15.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 3-2"
-id="215739292"
-odds="14/1"
-oddsDecimal="15.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 4-0"
-id="215739293"
-odds="28/1"
-oddsDecimal="29.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 6-5"
-id="215739298"
-odds="150/1"
-oddsDecimal="151.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 6-2"
-id="215739297"
-odds="40/1"
-oddsDecimal="41.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="Draw 7-7"
-id="215739397"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="Draw 6-6"
-id="215739398"
+name="Sibir Novosibirsk 9-6"
+id="216196748"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 9-5"
+id="216196747"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 9-0"
+id="216196746"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 8-7"
+id="216196745"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 10-5"
+id="216196821"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 10-4"
+id="216196822"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 9-4"
+id="216196750"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 10-3"
+id="216196823"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 9-3"
+id="216196749"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 10-2"
+id="216196824"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 10-1"
+id="216196825"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 10-9"
+id="216196827"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 10-8"
+id="216196828"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 9-8"
+id="216196812"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 9-5"
+id="216196813"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 9-7"
+id="216196811"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 9-4"
+id="216196816"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
 handicap=""/>
 <participant
 name="Draw 3-3"
-id="215739393"
-odds="14/1"
-oddsDecimal="15.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="Draw 2-2"
-id="215739394"
-odds="9/1"
-oddsDecimal="10.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 10-6"
-id="215739392"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 10-7"
-id="215739391"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 10-8"
-id="215739390"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 10-9"
-id="215739389"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 10-2"
-id="215739388"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 6-1"
-id="215739302"
-odds="40/1"
-oddsDecimal="41.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 6-0"
-id="215739303"
-odds="70/1"
-oddsDecimal="71.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 7-5"
-id="215739304"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 7-4"
-id="215739305"
-odds="125/1"
-oddsDecimal="126.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 8-0"
-id="215739306"
+id="216196763"
 odds="150/1"
 oddsDecimal="151.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:03"
 handicap=""/>
 <participant
-name="SKA St. Petersbourg 7-6"
-id="215739307"
+name="Avtomobilist Yekaterinburg 9-1"
+id="216196817"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
 handicap=""/>
 <participant
-name="SKA St. Petersbourg 7-0"
-id="215739309"
-odds="125/1"
-oddsDecimal="126.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 10-0"
-id="215739335"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 10-9"
-id="215739336"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 10-2"
-id="215739333"
+name="Avtomobilist Yekaterinburg 9-6"
+id="216196814"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
 handicap=""/>
 <participant
-name="SKA St. Petersbourg 10-1"
-id="215739334"
+name="Avtomobilist Yekaterinburg 9-3"
+id="216196815"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
 handicap=""/>
 <participant
-name="CSKA Moscow 2-1"
-id="215739340"
-odds="22/1"
-oddsDecimal="23.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 10-8"
-id="215739337"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 3-2"
-id="215739343"
-odds="20/1"
-oddsDecimal="21.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 3-1"
-id="215739342"
-odds="25/1"
-oddsDecimal="26.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 5-0"
-id="215739410"
-odds="45/1"
-oddsDecimal="46.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 5-1"
-id="215739411"
-odds="22/1"
-oddsDecimal="23.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 7-3"
-id="215739361"
+name="Avtomobilist Yekaterinburg 10-6"
+id="216196820"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
 handicap=""/>
 <participant
-name="CSKA Moscow 7-1"
-id="215739359"
+name="Avtomobilist Yekaterinburg 9-2"
+id="216196818"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
 handicap=""/>
 <participant
-name="CSKA Moscow 7-0"
-id="215739360"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 6-2"
-id="215739356"
-odds="125/1"
-oddsDecimal="126.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 8-0"
-id="215739365"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 7-4"
-id="215739364"
+name="Avtomobilist Yekaterinburg 10-7"
+id="216196819"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
 handicap=""/>
 <participant
-name="CSKA Moscow 7-5"
-id="215739363"
+name="Avtomobilist Yekaterinburg 7-3"
+id="216196801"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
 handicap=""/>
 <participant
-name="CSKA Moscow 7-2"
-id="215739362"
+name="Avtomobilist Yekaterinburg 7-2"
+id="216196802"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
 handicap=""/>
 <participant
-name="CSKA Moscow 5-0"
-id="215739348"
-odds="150/1"
-oddsDecimal="151.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 5-1"
-id="215739349"
-odds="90/1"
-oddsDecimal="91.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 5-2"
-id="215739350"
-odds="55/1"
-oddsDecimal="56.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 4-0"
-id="215739344"
-odds="100/1"
-oddsDecimal="101.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 4-1"
-id="215739345"
-odds="40/1"
-oddsDecimal="41.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 4-2"
-id="215739346"
-odds="28/1"
-oddsDecimal="29.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
-handicap=""/>
-<participant
-name="CSKA Moscow 6-0"
-id="215739354"
+name="Avtomobilist Yekaterinburg 8-3"
+id="216196807"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:30:14"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 8-4"
+id="216196808"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 8-1"
+id="216196809"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 8-2"
+id="216196810"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 8-7"
+id="216196803"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 8-5"
+id="216196805"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 8-6"
+id="216196806"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 5-4"
+id="216196791"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 7-6"
+id="216196798"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 7-1"
+id="216196799"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 7-4"
+id="216196796"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 7-5"
+id="216196795"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 6-5"
+id="216196789"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 6-4"
+id="216196790"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 6-2"
+id="216196788"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 6-3"
+id="216196787"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 6-4"
+id="216196728"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:47"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 6-5"
+id="216196727"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Draw 10-10"
+id="216196777"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Draw 9-9"
+id="216196776"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Draw 8-8"
+id="216196775"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 7-4"
+id="216196734"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 7-5"
+id="216196733"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 7-6"
+id="216196736"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 8-0"
+id="216196735"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 7-2"
+id="216196732"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 7-3"
+id="216196731"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 8-1"
+id="216196738"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Draw 7-7"
+id="216196767"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 8-2"
+id="216196737"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Draw 6-6"
+id="216196768"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
 handicap=""/>
 <participant
 name="Draw 5-5"
-id="215739399"
-odds="100/1"
-oddsDecimal="101.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:35:23"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 5-4"
-id="215739300"
-odds="66/1"
-oddsDecimal="67.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:35:23"
-handicap=""/>
-<participant
-name="CSKA Moscow 1-0"
-id="215739338"
-odds="55/1"
-oddsDecimal="56.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:35:22"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 5-2"
-id="215739412"
-odds="20/1"
-oddsDecimal="21.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:35:22"
-handicap=""/>
-<participant
-name="CSKA Moscow 6-4"
-id="215739358"
-odds="150/1"
-oddsDecimal="151.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:35:22"
-handicap=""/>
-<participant
-name="CSKA Moscow 6-3"
-id="215739355"
-odds="125/1"
-oddsDecimal="126.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:35:22"
-handicap=""/>
-<participant
-name="CSKA Moscow 5-3"
-id="215739351"
-odds="65/1"
-oddsDecimal="66.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:35:22"
-handicap=""/>
-<participant
-name="CSKA Moscow 4-3"
-id="215739347"
-odds="40/1"
-oddsDecimal="41.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:35:22"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 7-2"
-id="215739311"
-odds="80/1"
-oddsDecimal="81.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:34:20"
-handicap=""/>
-<participant
-name="CSKA Moscow 8-2"
-id="215739367"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:34:20"
-handicap=""/>
-<participant
-name="CSKA Moscow 8-3"
-id="215739371"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:34:20"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 1-0"
-id="215739408"
-odds="40/1"
-oddsDecimal="41.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:34:20"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 3-0"
-id="215739403"
-odds="18/1"
-oddsDecimal="19.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:34:20"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 2-0"
-id="215739401"
-odds="22/1"
-oddsDecimal="23.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:34:20"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 6-3"
-id="215739296"
-odds="50/1"
-oddsDecimal="51.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:34:20"
-handicap=""/>
-<participant
-name="Draw 1-1"
-id="215739395"
-odds="14/1"
-oddsDecimal="15.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:34:20"
-handicap=""/>
-<participant
-name="Draw 0-0"
-id="215739396"
-odds="70/1"
-oddsDecimal="71.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:34:20"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 7-1"
-id="215739308"
-odds="80/1"
-oddsDecimal="81.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:34:20"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 7-3"
-id="215739310"
-odds="100/1"
-oddsDecimal="101.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:34:20"
-handicap=""/>
-<participant
-name="CSKA Moscow 2-0"
-id="215739339"
-odds="45/1"
-oddsDecimal="46.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:34:20"
-handicap=""/>
-<participant
-name="SKA St. Petersbourg 10-3"
-id="215739332"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:34:20"
-handicap=""/>
-<participant
-name="CSKA Moscow 6-5"
-id="215739357"
+id="216196769"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:34:20"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
 handicap=""/>
 <participant
-name="CSKA Moscow 7-6"
-id="215739366"
-odds="250/1"
-oddsDecimal="251.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:33:21"
+name="Sibir Novosibirsk 8-6"
+id="216196740"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
 handicap=""/>
 <participant
-name="SKA St. Petersbourg 2-1"
-id="215739402"
-odds="14/1"
-oddsDecimal="15.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:33:21"
+name="Sibir Novosibirsk 8-5"
+id="216196739"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
 handicap=""/>
 <participant
-name="SKA St. Petersbourg 3-1"
-id="215739404"
-odds="11/1"
-oddsDecimal="12.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:33:21"
+name="Sibir Novosibirsk 10-6"
+id="216196762"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 10-7"
+id="216196761"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 10-8"
+id="216196760"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 10-2"
+id="216196758"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 10-9"
+id="216196759"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 10-4"
+id="216196756"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 10-3"
+id="216196757"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 10-5"
+id="216196755"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 9-8"
+id="216196754"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 9-7"
+id="216196753"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 10-1"
+id="216196752"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 10-0"
+id="216196751"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:10:48"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 7-1"
+id="216196729"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:12:26"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 6-3"
+id="216196725"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:12:47"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 5-1"
+id="216196781"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:14:13"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 5-3"
+id="216196792"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:15:18"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 6-2"
+id="216196726"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:18:25"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 5-3"
+id="216196721"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:19:25"
 handicap=""/>
 <participant
 name="Draw 4-4"
-id="215739400"
+id="216196770"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:19:25"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 5-2"
+id="216196782"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:22:29"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 6-1"
+id="216196723"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:22:45"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 6-0"
+id="216196724"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:39:11"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 4-3"
+id="216196779"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:39:11"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 4-3"
+id="216196717"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:41:09"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 5-0"
+id="216196718"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:43:19"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 5-2"
+id="216196720"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:43:19"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 5-1"
+id="216196719"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:43:19"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 3-1"
+id="216196712"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:45:03"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 4-2"
+id="216196716"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:45:03"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 4-2"
+id="216196786"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:45:03"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 3-1"
+id="216196774"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:45:23"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="216196765"
+odds="3/1"
+oddsDecimal="4.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:45:23"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 1-0"
+id="216196708"
+odds="21/10"
+oddsDecimal="3.10"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:03"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 2-0"
+id="216196709"
+odds="12/5"
+oddsDecimal="3.40"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:03"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 2-1"
+id="216196710"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:03"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 3-0"
+id="216196711"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:03"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 4-0"
+id="216196714"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:03"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 3-2"
+id="216196713"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:03"
+handicap=""/>
+<participant
+name="Sibir Novosibirsk 4-1"
+id="216196715"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:03"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 3-2"
+id="216196783"
+odds="100/1"
+oddsDecimal="101.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:03"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 4-1"
+id="216196785"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:03"
+handicap=""/>
+<participant
+name="Avtomobilist Yekaterinburg 2-1"
+id="216196772"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:03"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="216196764"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:03"
+handicap=""/>
+</market>
+<market
+id="53123305"
+name="HC Yurga v Atlant Moscow Oblast - Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3885780/HC%2dYurga%2dv%2dAtlant%2dMoscow%2dOblast"
+date="2012-12-28"
+time="13:00:01"
+betTillDate="2012-12-28"
+betTillTime="13:00:01"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:45:48"
+>
+<participant
+name="Atlant Moscow Oblast 9-6"
+id="216238764"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:40:27"
+handicap=""/>
+<participant
+name="HC Yurga 8-6"
+id="216238914"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:12"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 5-3"
+id="216238694"
+odds="5/2"
+oddsDecimal="3.50"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:12"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 5-4"
+id="216238697"
+odds="15/4"
+oddsDecimal="4.75"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:12"
+handicap=""/>
+<participant
+name="HC Yurga 7-5"
+id="216238884"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:12"
+handicap=""/>
+<participant
+name="HC Yurga 7-6"
+id="216238892"
+odds="100/1"
+oddsDecimal="101.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:12"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 6-3"
+id="216238705"
+odds="16/5"
+oddsDecimal="4.20"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:12"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 6-5"
+id="216238710"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:12"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 7-3"
+id="216238721"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:12"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 7-4"
+id="216238728"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:12"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 7-5"
+id="216238726"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:12"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 8-4"
+id="216238748"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:12"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 8-3"
+id="216238746"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:12"
+handicap=""/>
+<participant
+name="Draw 6-6"
+id="216238815"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:12"
+handicap=""/>
+<participant
+name="Draw 5-5"
+id="216238816"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:12"
+handicap=""/>
+<participant
+name="HC Yurga 6-5"
+id="216238868"
 odds="33/1"
 oddsDecimal="34.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:33:21"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:46:12"
 handicap=""/>
 <participant
-name="SKA St. Petersbourg 6-4"
-id="215739299"
+name="Atlant Moscow Oblast 8-5"
+id="216238741"
 odds="90/1"
 oddsDecimal="91.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:33:21"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:45:15"
 handicap=""/>
 <participant
-name="SKA St. Petersbourg 5-3"
-id="215739301"
-odds="33/1"
-oddsDecimal="34.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:33:21"
+name="Atlant Moscow Oblast 7-6"
+id="216238733"
+odds="100/1"
+oddsDecimal="101.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:45:15"
 handicap=""/>
 <participant
-name="CSKA Moscow 3-0"
-id="215739341"
-odds="55/1"
-oddsDecimal="56.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:33:21"
+name="Atlant Moscow Oblast 9-5"
+id="216238761"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:45:15"
 handicap=""/>
 <participant
-name="CSKA Moscow 5-4"
-id="215739352"
-odds="90/1"
-oddsDecimal="91.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:33:21"
+name="Atlant Moscow Oblast 6-4"
+id="216238713"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:43:26"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 9-3"
+id="216238767"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:43:26"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 9-4"
+id="216238769"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:42:30"
+handicap=""/>
+<participant
+name="Draw 7-7"
+id="216238813"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:41:24"
+handicap=""/>
+<participant
+name="HC Yurga 8-5"
+id="216238911"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:40:47"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 8-6"
+id="216238743"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:40:27"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 10-3"
+id="216238788"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:19:21"
+handicap=""/>
+<participant
+name="HC Yurga 8-7"
+id="216238905"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:31"
+handicap=""/>
+<participant
+name="HC Yurga 9-8"
+id="216238930"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:31"
+handicap=""/>
+<participant
+name="HC Yurga 9-7"
+id="216238927"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:31"
+handicap=""/>
+<participant
+name="HC Yurga 10-9"
+id="216238970"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:31"
+handicap=""/>
+<participant
+name="HC Yurga 10-8"
+id="216238973"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:31"
+handicap=""/>
+<participant
+name="HC Yurga 9-6"
+id="216238935"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:31"
+handicap=""/>
+<participant
+name="HC Yurga 9-5"
+id="216238932"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:31"
+handicap=""/>
+<participant
+name="HC Yurga 10-5"
+id="216238954"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:31"
+handicap=""/>
+<participant
+name="HC Yurga 10-6"
+id="216238951"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:31"
+handicap=""/>
+<participant
+name="HC Yurga 10-7"
+id="216238949"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:31"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 8-7"
+id="216238756"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:31"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 10-6"
+id="216238800"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:30"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 10-7"
+id="216238798"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:30"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 10-8"
+id="216238795"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:30"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 10-9"
+id="216238793"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:30"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 9-7"
+id="216238777"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:30"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 9-8"
+id="216238780"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:30"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 10-5"
+id="216238782"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:30"
+handicap=""/>
+<participant
+name="Atlant Moscow Oblast 10-4"
+id="216238785"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:30"
+handicap=""/>
+<participant
+name="Draw 10-10"
+id="216238836"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:30"
+handicap=""/>
+<participant
+name="Draw 8-8"
+id="216238830"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:30"
+handicap=""/>
+<participant
+name="Draw 9-9"
+id="216238833"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:07:30"
 handicap=""/>
 </market>
 </type>
@@ -999,735 +1307,895 @@ url="http://sports.williamhill.com/bet/betting/t/676"
 lastUpdateDate="2012-11-11"
 lastUpdateTime="19:32:50">
 <market
-id="52996777"
-name="HC Fribourg-Gotteron v Salavat Yulaev Ufa - Correct Score Live"
-url="http://sports.williamhill.com/bet/en-gb/betting/e/3878095/HC%2dFribourg%2dGotteron%2dv%2dSalavat%2dYulaev%2dUfa"
-date="2012-12-26"
+id="53124288"
+name="HC Fribourg-Gotteron v HC Vitkovice Steel - Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3885811/HC%2dFribourg%2dGotteron%2dv%2dHC%2dVitkovice%2dSteel"
+date="2012-12-28"
 time="14:00:01"
-betTillDate="2012-12-26"
+betTillDate="2012-12-28"
 betTillTime="14:00:01"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:14:03"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="13:59:48"
 >
 <participant
-name="HC Fribourg-Gotteron 2-1"
-id="215733620"
-odds="6/1"
-oddsDecimal="7.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:28"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 4-3"
-id="215733627"
-odds="25/1"
-oddsDecimal="26.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:28"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 4-3"
-id="215733565"
-odds="33/1"
-oddsDecimal="34.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:28"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 5-2"
-id="215733568"
-odds="55/1"
-oddsDecimal="56.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:28"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 4-2"
-id="215733564"
-odds="20/1"
-oddsDecimal="21.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:28"
-handicap=""/>
-<participant
-name="Draw 2-2"
-id="215733612"
-odds="7/2"
-oddsDecimal="4.50"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:28"
-handicap=""/>
-<participant
-name="Draw 3-3"
-id="215733611"
-odds="8/1"
-oddsDecimal="9.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:28"
-handicap=""/>
-<participant
-name="Draw 4-4"
-id="215733618"
-odds="45/1"
-oddsDecimal="46.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:28"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 5-3"
-id="215733640"
-odds="55/1"
-oddsDecimal="56.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:28"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 5-4"
-id="215733639"
-odds="125/1"
-oddsDecimal="126.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:28"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 5-3"
-id="215733569"
-odds="65/1"
-oddsDecimal="66.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:28"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 7-1"
-id="215733647"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:28"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 6-2"
-id="215733636"
-odds="100/1"
-oddsDecimal="101.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:28"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 6-3"
-id="215733635"
-odds="125/1"
-oddsDecimal="126.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:28"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 3-2"
-id="215733561"
-odds="10/1"
-oddsDecimal="11.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:07"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 6-1"
-id="215733641"
-odds="100/1"
-oddsDecimal="101.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:07"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 5-4"
-id="215733570"
-odds="125/1"
-oddsDecimal="126.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:07"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 5-2"
-id="215733630"
-odds="25/1"
-oddsDecimal="26.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:07"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 4-1"
-id="215733633"
-odds="17/2"
-oddsDecimal="9.50"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:17:10"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 4-2"
-id="215733634"
-odds="10/1"
-oddsDecimal="11.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:17:10"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 5-1"
-id="215733629"
-odds="35/1"
-oddsDecimal="36.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:17:10"
-handicap=""/>
-<participant
-name="Draw 5-5"
-id="215733617"
+name="HC Vitkovice Steel 6-4"
+id="216251606"
 odds="150/1"
 oddsDecimal="151.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:14:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 7-3"
-id="215733649"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:14:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 7-2"
-id="215733650"
-odds="150/1"
-oddsDecimal="151.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:14:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 6-3"
-id="215733573"
-odds="125/1"
-oddsDecimal="126.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:14:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 6-4"
-id="215733638"
-odds="150/1"
-oddsDecimal="151.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:14:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 6-4"
-id="215733576"
-odds="150/1"
-oddsDecimal="151.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:11:46"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 6-2"
-id="215733574"
-odds="150/1"
-oddsDecimal="151.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:11:46"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 3-2"
-id="215733631"
-odds="6/1"
-oddsDecimal="7.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:11:46"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 7-4"
-id="215733644"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:07:49"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 7-2"
-id="215733580"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:07:06"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 7-3"
-id="215733579"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:07:06"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 6-5"
-id="215733575"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:06:53"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 7-4"
-id="215733582"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:06:53"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 6-5"
-id="215733637"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:06:53"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 8-2"
-id="215733658"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:01:28"
-handicap=""/>
-<participant
-name="Draw 6-6"
-id="215733616"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:59:02"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 7-5"
-id="215733581"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:59:02"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 7-5"
-id="215733643"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:57:58"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 8-3"
-id="215733655"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:57:25"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 8-2"
-id="215733585"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:27:41"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 8-3"
-id="215733589"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:24:54"
-handicap=""/>
-<participant
-name="Draw 8-8"
-id="215733623"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Draw 9-9"
-id="215733624"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Draw 10-10"
-id="215733625"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 10-6"
-id="215733610"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 10-7"
-id="215733609"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Draw 7-7"
-id="215733615"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 9-7"
-id="215733601"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 10-8"
-id="215733608"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 10-2"
-id="215733606"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 10-9"
-id="215733607"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 10-4"
-id="215733604"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 10-3"
-id="215733605"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 9-8"
-id="215733602"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 10-5"
-id="215733603"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 8-4"
-id="215733590"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 9-5"
-id="215733595"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 9-6"
-id="215733596"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 9-3"
-id="215733597"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 9-4"
-id="215733598"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 9-2"
-id="215733592"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="Salavat Yulaev Ufa 8-7"
-id="215733593"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 9-6"
-id="215733662"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 9-3"
-id="215733663"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 9-8"
-id="215733660"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 9-5"
-id="215733661"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 9-2"
-id="215733666"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 10-7"
-id="215733667"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 9-4"
-id="215733664"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 9-1"
-id="215733665"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 9-7"
-id="215733659"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 10-6"
-id="215733668"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 8-7"
-id="215733651"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 8-5"
-id="215733653"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 8-6"
-id="215733654"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 8-4"
-id="215733656"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 10-8"
-id="215733676"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:06"
 handicap=""/>
 <participant
 name="HC Fribourg-Gotteron 10-3"
-id="215733671"
+id="216251580"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 10-4"
-id="215733670"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 10-5"
-id="215733669"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 10-9"
-id="215733675"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
-handicap=""/>
-<participant
-name="HC Fribourg-Gotteron 10-1"
-id="215733673"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="13:59:48"
 handicap=""/>
 <participant
 name="HC Fribourg-Gotteron 10-2"
-id="215733672"
+id="216251581"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="13:59:48"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 10-1"
+id="216251582"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="13:59:48"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 9-4"
+id="216251573"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="13:59:48"
 handicap=""/>
 <participant
 name="HC Fribourg-Gotteron 7-6"
-id="215733646"
+id="216251555"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="13:59:48"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 9-1"
+id="216251574"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:15:30"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 5-0"
+id="216251596"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 10-6"
+id="216251577"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 10-7"
+id="216251576"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 10-5"
+id="216251578"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 10-4"
+id="216251579"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 10-9"
+id="216251584"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 10-8"
+id="216251585"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="Draw 10-10"
+id="216251655"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="Draw 9-9"
+id="216251654"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="Draw 8-8"
+id="216251653"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 9-8"
+id="216251569"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 9-5"
+id="216251570"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 9-7"
+id="216251568"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 9-6"
+id="216251571"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="Draw 7-7"
+id="216251645"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 8-7"
+id="216251560"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 8-6"
+id="216251563"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:11"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 10-6"
+id="216251640"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 10-8"
+id="216251638"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 10-7"
+id="216251639"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 10-2"
+id="216251636"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 10-9"
+id="216251637"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 10-4"
+id="216251634"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 10-5"
+id="216251633"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 10-3"
+id="216251635"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 10-0"
+id="216251629"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 10-1"
+id="216251630"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 9-7"
+id="216251631"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 9-8"
+id="216251632"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 9-6"
+id="216251626"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 9-3"
+id="216251627"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 9-4"
+id="216251628"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 9-5"
+id="216251625"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 9-0"
+id="216251624"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 8-7"
+id="216251623"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 9-2"
+id="216251622"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 8-1"
+id="216251616"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 8-5"
+id="216251617"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 8-4"
+id="216251620"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 9-1"
+id="216251621"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 8-6"
+id="216251618"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 8-3"
+id="216251619"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 7-6"
+id="216251614"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 8-0"
+id="216251613"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 8-2"
+id="216251615"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 7-0"
+id="216251608"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:16:12"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 8-5"
+id="216251562"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:18:33"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 7-5"
+id="216251611"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:18:33"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 7-1"
+id="216251607"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:20:33"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 6-1"
+id="216251601"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-28"
 lastUpdateTime="14:22:03"
 handicap=""/>
 <participant
-name="Salavat Yulaev Ufa 7-6"
-id="215733584"
-odds="200/1"
-oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
+name="HC Vitkovice Steel 3-2"
+id="216251591"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:22:24"
 handicap=""/>
 <participant
-name="Salavat Yulaev Ufa 8-5"
-id="215733587"
+name="HC Fribourg-Gotteron 9-2"
+id="216251575"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:22:24"
 handicap=""/>
 <participant
-name="Salavat Yulaev Ufa 8-6"
-id="215733588"
+name="HC Fribourg-Gotteron 9-3"
+id="216251572"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:22:03"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:22:24"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 8-2"
+id="216251567"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:27:25"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 7-1"
+id="216251556"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:27:25"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 8-4"
+id="216251565"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:27:25"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 3-1"
+id="216251590"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:29:26"
+handicap=""/>
+<participant
+name="Draw 6-6"
+id="216251646"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:29:26"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="216251641"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:29:26"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 7-4"
+id="216251612"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:29:26"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 6-5"
+id="216251546"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:29:26"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 7-5"
+id="216251552"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:29:26"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 6-0"
+id="216251602"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:30:25"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 2-1"
+id="216251588"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:30:25"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 3-2"
+id="216251540"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:30:25"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 7-3"
+id="216251609"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:30:25"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 5-2"
+id="216251598"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:31:26"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 6-5"
+id="216251605"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:31:27"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 6-3"
+id="216251603"
+odds="100/1"
+oddsDecimal="101.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:31:27"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 4-3"
+id="216251595"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:31:27"
+handicap=""/>
+<participant
+name="Draw 4-4"
+id="216251648"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:31:27"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 4-3"
+id="216251536"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:31:27"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="216251643"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:31:27"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 7-2"
+id="216251610"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:31:27"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 6-2"
+id="216251604"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:32:52"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 4-1"
+id="216251542"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:32:53"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 4-1"
+id="216251593"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:33:31"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 4-2"
+id="216251594"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:33:31"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 3-0"
+id="216251589"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:33:31"
 handicap=""/>
 <participant
 name="HC Fribourg-Gotteron 8-1"
-id="215733657"
+id="216251566"
 odds="200/1"
 oddsDecimal="201.00"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="14:01:07"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:33:31"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 5-2"
+id="216251539"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:33:31"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 5-1"
+id="216251538"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:33:31"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 4-2"
+id="216251543"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:33:31"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 6-2"
+id="216251545"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:33:31"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 5-1"
+id="216251597"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:05"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 5-3"
+id="216251599"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:05"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 5-4"
+id="216251600"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:05"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 2-0"
+id="216251587"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:05"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 1-0"
+id="216251586"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:05"
+handicap=""/>
+<participant
+name="HC Vitkovice Steel 4-0"
+id="216251592"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:05"
+handicap=""/>
+<participant
+name="Draw 5-5"
+id="216251647"
+odds="100/1"
+oddsDecimal="101.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:05"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 2-1"
+id="216251650"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:05"
 handicap=""/>
 <participant
 name="HC Fribourg-Gotteron 3-1"
-id="215733622"
-odds="24/5"
-oddsDecimal="5.80"
-lastUpdateDate="2012-12-26"
-lastUpdateTime="15:18:28"
+id="216251652"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:05"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 6-3"
+id="216251544"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:05"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 7-2"
+id="216251559"
+odds="100/1"
+oddsDecimal="101.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:05"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 7-3"
+id="216251558"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:05"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="216251642"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:06"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 8-3"
+id="216251564"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:06"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 6-4"
+id="216251547"
+odds="100/1"
+oddsDecimal="101.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:06"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 7-4"
+id="216251553"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:06"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 5-3"
+id="216251549"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:06"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 5-4"
+id="216251548"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:06"
+handicap=""/>
+<participant
+name="HC Fribourg-Gotteron 6-1"
+id="216251550"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-28"
+lastUpdateTime="14:34:06"
 handicap=""/>
 </market>
 </type>
