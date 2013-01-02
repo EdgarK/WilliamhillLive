@@ -24,29 +24,13 @@ class WilliamhillLive
     @league_name = name
   end
 
-  def puts(str, place=0)
-    if place==-1
-      super(str)
-      return
-    end
 
-    @logs ||= []
-    @logs[place] ||= ""
-    @logs[place] += "#{str}\n"
-  end
-  def print_log()
-    @logs.each do |log|
-      puts log, -1    if log
-      puts ("_"*50), -1 if log
-    end
-  end
 
 
 
   def parse()
     xmls = get_xmls
 
-    n = 0
     xmls.each do |xml|
       test = Nokogiri::XML.parse(xml)
       sport = test.xpath('//williamhill/class').first
@@ -82,16 +66,13 @@ class WilliamhillLive
           elsif market_type =~ /Handicap [0-9+-]+ Live/
             parse_handicap()
           else
-            puts "Home => #{home_team} ; Away => #{away_team}    -----     #{market_type}"
-            n+=1
+            #puts "Home => #{home_team} ; Away => #{away_team}    -----     #{market_type}"
           end
         end
 
       end
     end
-    puts "total_not_parsed => #{n}",5
-    puts @result.inspect, 6
-    print_log
+    puts @result.inspect
   end
 
   def parse_evt_name
@@ -116,7 +97,6 @@ class WilliamhillLive
     val = market_type.match(/Handicap ([0-9+-]+)/)[1]
     koefF1 = market.xpath("participant[@name='#{home_team}']").first['oddsDecimal']
     koefF2 = market.xpath("participant[@name='#{away_team}']").first['oddsDecimal']
-    #puts "period => #{period}, val => #{val}, F1 => #{koefF1}, F2 => #{koefF2}", 1
     add_to_result [period, 'F1', val, koefF1]
     add_to_result [period, 'F2', val, koefF2]
   end
@@ -124,7 +104,6 @@ class WilliamhillLive
 
   def parse_under_over()
     #puts "!!!!!!!!!! TU TO !!!!!!!!!!!!!!"
-    #period = parse_periods(market_type)
     val = market_type.match(/Under\/Over ([0-9.]+)/)[1]
 
     market.xpath('participant').each do |participant|
@@ -141,7 +120,6 @@ class WilliamhillLive
       end
 
       isxod = "#{name}T#{participant['name'].match(/(Under|Over)/)[0][0]}"
-      #puts "isxod => #{isxod}, val => #{val}, koef => #{participant['oddsDecimal']}, period => #{period}", 1
       add_to_result [period, isxod, val, participant['oddsDecimal']]
     end
 
@@ -149,7 +127,6 @@ class WilliamhillLive
 
   def parse_winner()
     #puts "!!!!!!!!!!1 X 2 1X X2 12!!!!!!!!!!!!"
-    #period = parse_periods(market_type)
     market.xpath('participant').each do |participant|
       name = participant['name']
       has_x = (market.xpath("participant[@name='Draw']").first || market.xpath("participant[@name='Draw/Draw']").first)
@@ -160,7 +137,6 @@ class WilliamhillLive
         name = "ML#{name}"
       end
       koef = participant['oddsDecimal']
-      #puts "isxod => #{name}, period => #{period}, koef => #{koef}", 1
       add_to_result [period, name, nil, koef]
     end
   end
@@ -169,7 +145,6 @@ class WilliamhillLive
     #puts "!!!!!!!DNB1 DNB2!!!!!!!"
     koefDNB1 = market.xpath("participant[@name='#{home_team}']").first['oddsDecimal']
     koefDNB2 = market.xpath("participant[@name='#{away_team}']").first['oddsDecimal']
-    #puts "DNB1 => #{koefDNB1}, DNB2 => #{koefDNB2}", 1
     add_to_result [period, 'DNB1', nil, koefDNB1]
     add_to_result [period, 'DNB2', nil, koefDNB2]
   end
@@ -177,7 +152,6 @@ class WilliamhillLive
   def parse_total_odd_even()
     koefODD = market.xpath('participant[@name="Odd"]').first['oddsDecimal']
     koefEVEN = market.xpath('participant[@name="Even"]').first['oddsDecimal']
-    #puts "ODD => #{koefODD}, EVEN => #{koefEVEN}, period => #{period}", 1
     add_to_result [period, 'ODD', nil, koefODD]
     add_to_result [period, 'EVEN', nil, koefEVEN]
   end
@@ -189,7 +163,6 @@ class WilliamhillLive
       isxod = (participant['name'].match(pattern)[1] == 'Under')? 'CNR_TU' : 'CNR_TO'
       val = participant['name'].match(pattern)[2]
       koef = participant['oddsDecimal']
-      #puts "#{isxod}  val => #{val} koef => #{koef}, period => #{period}", 1
       add_to_result [period, isxod, val, koef]
     end
   end
@@ -197,7 +170,6 @@ class WilliamhillLive
   def parse_both_teams_to_score()
     koefBTS_Y = market.xpath("participant[@name='Yes']").first['oddsDecimal']
     koefBTS_N = market.xpath("participant[@name='No']").first['oddsDecimal']
-    #puts "BTS_Y => #{koefBTS_Y} BTS_N => #{koefBTS_N}", 1
     add_to_result [period, 'BTS_Y', nil, koefBTS_Y]
     add_to_result [period, 'BTS_N', nil, koefBTS_N]
   end
@@ -207,8 +179,6 @@ class WilliamhillLive
     #puts "!!!!!!!!!!  BTS_Y  !!!!!!!!!!!!", 1
     koefBTS_Y = market.xpath("participant[@name='Both Teams']").first
     koefBTS_N = market.xpath("participant[@name='Neither']").first
-    #puts "BTS_Y => #{koefBTS_Y['oddsDecimal']}", 1 if koefBTS_Y
-    #puts "BTS_N => #{koefBTS_N['oddsDecimal']}", 1 if koefBTS_N
     add_to_result [period, 'BTS_Y', nil, koefBTS_Y] if koefBTS_Y
     add_to_result [period, 'BTS_N', nil, koefBTS_N] if koefBTS_N
   end
@@ -219,14 +189,13 @@ class WilliamhillLive
       period = match[1]
     else
       period = (sport_name =~ UNUSUAL_MAIN_LINE_NUMBERS_PATTERN)? '-1' : '0'
-      #puts market_type, 6
     end
     self.period=period
     period
   end
 
   def get_xmls()
-    body = UriCache.get(URL)
+    body = get(URL)
     nodeset = Nokogiri.parse(body)
     main_table = nodeset.css('table')
     rows = main_table.css('tr')
@@ -241,9 +210,28 @@ class WilliamhillLive
       end
       next if row.css('th').length > 0
       xml_uri = row.css('td')[2].css('a')[0]['href']
-      #redir = UriCache.get(xml_uri).match(/http:\/\/[^"]+/).to_s
-      xmls << UriCache.get(xml_uri)
+      xmls << get(xml_uri)
     end
     xmls
+  end
+
+  private
+
+  def get(uri)
+    response = Net::HTTP.get_response(URI.parse(uri))
+    if response.kind_of?(Net::HTTPRedirection)
+      body = Net::HTTP.get(URI.parse(redirect_url(response)))
+    else
+      body = response.body
+    end
+    body
+  end
+
+  def redirect_url(response)
+    if response['location'].nil?
+      response.body.match(/<a href=\"([^>]+)\">/i)[1]
+    else
+      response['location']
+    end
   end
 end
