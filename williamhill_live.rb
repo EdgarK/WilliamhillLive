@@ -1,7 +1,6 @@
 require "rubygems"
 require "net/http"
 require "nokogiri"
-require_relative "uri_cache"
 
 class WilliamhillLive
   attr_accessor :sport_name, :home_team, :away_team, :market_type, :league_name, :market, :result, :period
