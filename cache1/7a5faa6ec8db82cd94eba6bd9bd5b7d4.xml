@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish-->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved.-->
+<oxip version="7.1" created="2012-12-26 15:35:45" lastMsgId="4548279915"  requestTime="0.0179">
+<response request="getHierarchyByMarketType" code="001" message="success" debug="">
+<williamhill>
+<class id="401" name="International Ice Hockey" maxRepDate="2012-12-26" maxRepTime="14:02:20">
+<type
+id="996"
+name="U20 World Championship"
+url="http://sports.williamhill.com/bet/betting/t/996"
+lastUpdateDate="2012-11-25"
+lastUpdateTime="19:22:29">
+<market
+id="52997037"
+name="Slovakia U20 v Russia U20 - Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3878096/Slovakia%2dU20%2dv%2dRussia%2dU20"
+date="2012-12-26"
+time="14:00:01"
+betTillDate="2012-12-26"
+betTillTime="14:00:01"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:02:20"
+>
+<participant
+name="Slovakia U20 4-3"
+id="215734451"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:17"
+handicap=""/>
+<participant
+name="Slovakia U20 3-2"
+id="215734455"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:17"
+handicap=""/>
+<participant
+name="Russia U20 5-1"
+id="215734512"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:17"
+handicap=""/>
+<participant
+name="Russia U20 4-2"
+id="215734509"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:17"
+handicap=""/>
+<participant
+name="Russia U20 4-1"
+id="215734508"
+odds="15/4"
+oddsDecimal="4.75"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:17"
+handicap=""/>
+<participant
+name="Russia U20 3-1"
+id="215734505"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:17"
+handicap=""/>
+<participant
+name="Draw 5-5"
+id="215734441"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:17"
+handicap=""/>
+<participant
+name="Russia U20 3-2"
+id="215734506"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:17"
+handicap=""/>
+<participant
+name="Draw 4-4"
+id="215734442"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:17"
+handicap=""/>
+<participant
+name="Russia U20 7-1"
+id="215734522"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:16"
+handicap=""/>
+<participant
+name="Slovakia U20 4-2"
+id="215734458"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:16"
+handicap=""/>
+<participant
+name="Russia U20 6-1"
+id="215734516"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:16"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215734436"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:16"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215734435"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:16"
+handicap=""/>
+<participant
+name="Russia U20 8-1"
+id="215734531"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:16"
+handicap=""/>
+<participant
+name="Russia U20 8-2"
+id="215734530"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:16"
+handicap=""/>
+<participant
+name="Russia U20 9-1"
+id="215734536"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:16"
+handicap=""/>
+<participant
+name="Slovakia U20 5-4"
+id="215734463"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:16"
+handicap=""/>
+<participant
+name="Slovakia U20 5-3"
+id="215734464"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:16"
+handicap=""/>
+<participant
+name="Russia U20 2-1"
+id="215734503"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:49"
+handicap=""/>
+<participant
+name="Russia U20 5-2"
+id="215734513"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:49"
+handicap=""/>
+<participant
+name="Russia U20 5-4"
+id="215734515"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:49"
+handicap=""/>
+<participant
+name="Russia U20 5-3"
+id="215734514"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:49"
+handicap=""/>
+<participant
+name="Russia U20 4-3"
+id="215734510"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:49"
+handicap=""/>
+<participant
+name="Russia U20 6-3"
+id="215734518"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:48"
+handicap=""/>
+<participant
+name="Russia U20 6-2"
+id="215734519"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:48"
+handicap=""/>
+<participant
+name="Russia U20 7-2"
+id="215734525"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:48"
+handicap=""/>
+<participant
+name="Russia U20 8-3"
+id="215734534"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:48"
+handicap=""/>
+<participant
+name="Russia U20 7-4"
+id="215734527"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:48"
+handicap=""/>
+<participant
+name="Russia U20 6-4"
+id="215734521"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:49"
+handicap=""/>
+<participant
+name="Russia U20 7-3"
+id="215734524"
+odds="125/1"
+oddsDecimal="126.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:49"
+handicap=""/>
+<participant
+name="Russia U20 9-2"
+id="215734537"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:49"
+handicap=""/>
+<participant
+name="Slovakia U20 5-2"
+id="215734454"
+odds="150/1"
+oddsDecimal="151.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:26"
+handicap=""/>
+<participant
+name="Russia U20 10-1"
+id="215734545"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:26"
+handicap=""/>
+<participant
+name="Russia U20 9-3"
+id="215734542"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:23:13"
+handicap=""/>
+<participant
+name="Russia U20 10-2"
+id="215734551"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:23:13"
+handicap=""/>
+<participant
+name="Russia U20 8-4"
+id="215734535"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:29"
+handicap=""/>
+<participant
+name="Russia U20 10-3"
+id="215734550"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:41:21"
+handicap=""/>
+<participant
+name="Russia U20 9-4"
+id="215734543"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:39:45"
+handicap=""/>
+<participant
+name="Russia U20 6-5"
+id="215734520"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:38:29"
+handicap=""/>
+<participant
+name="Russia U20 7-5"
+id="215734526"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:34:09"
+handicap=""/>
+<participant
+name="Slovakia U20 8-4"
+id="215734480"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:58"
+handicap=""/>
+<participant
+name="Slovakia U20 8-3"
+id="215734479"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:58"
+handicap=""/>
+<participant
+name="Slovakia U20 8-2"
+id="215734482"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:58"
+handicap=""/>
+<participant
+name="Slovakia U20 10-8"
+id="215734500"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:58"
+handicap=""/>
+<participant
+name="Slovakia U20 10-9"
+id="215734499"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:58"
+handicap=""/>
+<participant
+name="Slovakia U20 8-6"
+id="215734478"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:58"
+handicap=""/>
+<participant
+name="Slovakia U20 8-5"
+id="215734477"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:58"
+handicap=""/>
+<participant
+name="Draw 9-9"
+id="215734448"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:58"
+handicap=""/>
+<participant
+name="Slovakia U20 10-2"
+id="215734496"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:58"
+handicap=""/>
+<participant
+name="Slovakia U20 7-3"
+id="215734473"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:57"
+handicap=""/>
+<participant
+name="Draw 10-10"
+id="215734449"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:57"
+handicap=""/>
+<participant
+name="Slovakia U20 7-2"
+id="215734474"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:57"
+handicap=""/>
+<participant
+name="Slovakia U20 10-4"
+id="215734494"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:57"
+handicap=""/>
+<participant
+name="Slovakia U20 8-7"
+id="215734475"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:57"
+handicap=""/>
+<participant
+name="Slovakia U20 10-3"
+id="215734495"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:57"
+handicap=""/>
+<participant
+name="Slovakia U20 10-5"
+id="215734493"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:56"
+handicap=""/>
+<participant
+name="Slovakia U20 10-6"
+id="215734492"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:56"
+handicap=""/>
+<participant
+name="Slovakia U20 10-7"
+id="215734491"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:56"
+handicap=""/>
+<participant
+name="Slovakia U20 9-2"
+id="215734490"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:56"
+handicap=""/>
+<participant
+name="Slovakia U20 9-4"
+id="215734488"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Slovakia U20 9-3"
+id="215734487"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Slovakia U20 9-5"
+id="215734485"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Slovakia U20 9-6"
+id="215734486"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Slovakia U20 9-7"
+id="215734483"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Draw 7-7"
+id="215734439"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Slovakia U20 9-8"
+id="215734484"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Draw 8-8"
+id="215734447"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Russia U20 10-6"
+id="215734434"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Russia U20 10-7"
+id="215734433"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Russia U20 7-6"
+id="215734529"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Russia U20 8-6"
+id="215734533"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Slovakia U20 7-6"
+id="215734470"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Slovakia U20 7-4"
+id="215734468"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Slovakia U20 7-5"
+id="215734467"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Russia U20 9-8"
+id="215734547"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Russia U20 9-7"
+id="215734546"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Russia U20 9-6"
+id="215734541"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Russia U20 8-7"
+id="215734538"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Russia U20 10-9"
+id="215734552"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Russia U20 10-8"
+id="215734553"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Russia U20 10-5"
+id="215734548"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:32:55"
+handicap=""/>
+<participant
+name="Slovakia U20 6-2"
+id="215734460"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:31:25"
+handicap=""/>
+<participant
+name="Russia U20 8-5"
+id="215734532"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:21:37"
+handicap=""/>
+<participant
+name="Russia U20 10-4"
+id="215734549"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:19:20"
+handicap=""/>
+<participant
+name="Draw 6-6"
+id="215734440"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:14:03"
+handicap=""/>
+<participant
+name="Slovakia U20 6-5"
+id="215734461"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:02:20"
+handicap=""/>
+<participant
+name="Slovakia U20 6-4"
+id="215734462"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:02:20"
+handicap=""/>
+<participant
+name="Russia U20 9-5"
+id="215734540"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:02:20"
+handicap=""/>
+<participant
+name="Slovakia U20 6-3"
+id="215734459"
+odds="200/1"
+oddsDecimal="201.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:02:20"
+handicap=""/>
+</market>
+</type>
+</class>
+<disclaimer>
+WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place, Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;) relating to information contained on its main trading website. By using the Website You agree to these full Terms of Use available at http://developer.williamhill.com
+</disclaimer>
+</williamhill>
+</response>
+</oxip>

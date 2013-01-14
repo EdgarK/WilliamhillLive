@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish-->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved.-->
+<oxip version="7.1" created="2012-12-26 15:35:31" lastMsgId="4548276367"  requestTime="0.0149">
+<response request="getHierarchyByMarketType" code="001" message="success" debug="">
+<williamhill>
+<class id="424" name="Challenger Tennis" maxRepDate="2012-12-26" maxRepTime="15:34:43">
+<type
+id="6870"
+name="ITF Tour - Istanbul"
+url="http://sports.williamhill.com/bet/betting/t/6870"
+lastUpdateDate="2012-11-06"
+lastUpdateTime="11:26:39">
+<market
+id="52957681"
+name="B Botusharova/J Stamatova v E Gorgodze/S Kvatsabaia - Match Betting Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3877775/B%2dBotusharova%2fJ%2dStamatova%2dv%2dE%2dGorgodze%2fS%2dKvatsabaia"
+date="2012-12-26"
+time="13:30:00"
+betTillDate="2012-12-26"
+betTillTime="13:30:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:33"
+>
+<participant
+name="B Botusharova/J Stamatova"
+id="215618012"
+odds="6/4"
+oddsDecimal="2.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:43"
+handicap=""/>
+<participant
+name="E Gorgodze/S Kvatsabaia"
+id="215618013"
+odds="1/2"
+oddsDecimal="1.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:43"
+handicap=""/>
+</market>
+<market
+id="52957682"
+name="B Botusharova/J Stamatova v E Gorgodze/S Kvatsabaia - 1st Set Betting Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3877775/B%2dBotusharova%2fJ%2dStamatova%2dv%2dE%2dGorgodze%2fS%2dKvatsabaia"
+date="2012-12-26"
+time="13:30:00"
+betTillDate="2012-12-26"
+betTillTime="13:30:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:33"
+>
+<participant
+name="B Botusharova/J Stamatova"
+id="215618014"
+odds="8/11"
+oddsDecimal="1.73"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:43"
+handicap=""/>
+<participant
+name="E Gorgodze/S Kvatsabaia"
+id="215618015"
+odds="1/1"
+oddsDecimal="2.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:43"
+handicap=""/>
+</market>
+<market
+id="52957724"
+name="B Botusharova/J Stamatova v E Gorgodze/S Kvatsabaia - 1st Set - Game 8"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3877775/B%2dBotusharova%2fJ%2dStamatova%2dv%2dE%2dGorgodze%2fS%2dKvatsabaia"
+date="2012-12-26"
+time="13:30:00"
+betTillDate="2012-12-26"
+betTillTime="13:30:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:05"
+>
+<participant
+name="E Gorgodze/S Kvatsabaia"
+id="215618179"
+odds="4/9"
+oddsDecimal="1.44"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:09:52"
+handicap=""/>
+<participant
+name="B Botusharova/J Stamatova"
+id="215618178"
+odds="13/8"
+oddsDecimal="2.62"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:09:52"
+handicap=""/>
+</market>
+<market
+id="52957728"
+name="B Botusharova/J Stamatova v E Gorgodze/S Kvatsabaia - 1st Set - Game 9"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3877775/B%2dBotusharova%2fJ%2dStamatova%2dv%2dE%2dGorgodze%2fS%2dKvatsabaia"
+date="2012-12-26"
+time="13:30:00"
+betTillDate="2012-12-26"
+betTillTime="13:30:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:32"
+>
+<participant
+name="E Gorgodze/S Kvatsabaia"
+id="215618195"
+odds="1/1"
+oddsDecimal="2.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:43"
+handicap=""/>
+<participant
+name="B Botusharova/J Stamatova"
+id="215618194"
+odds="8/11"
+oddsDecimal="1.73"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:43"
+handicap=""/>
+</market>
+<market
+id="52957732"
+name="B Botusharova/J Stamatova v E Gorgodze/S Kvatsabaia - 1st Set - Game 10"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3877775/B%2dBotusharova%2fJ%2dStamatova%2dv%2dE%2dGorgodze%2fS%2dKvatsabaia"
+date="2012-12-26"
+time="13:30:00"
+betTillDate="2012-12-26"
+betTillTime="13:30:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:32"
+>
+<participant
+name="B Botusharova/J Stamatova"
+id="215618210"
+odds="13/8"
+oddsDecimal="2.62"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:09:52"
+handicap=""/>
+<participant
+name="E Gorgodze/S Kvatsabaia"
+id="215618211"
+odds="4/9"
+oddsDecimal="1.44"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:09:52"
+handicap=""/>
+</market>
+<market
+id="52957812"
+name="B Botusharova/J Stamatova v E Gorgodze/S Kvatsabaia - 1st Set - Race To 5 Games"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3877775/B%2dBotusharova%2fJ%2dStamatova%2dv%2dE%2dGorgodze%2fS%2dKvatsabaia"
+date="2012-12-26"
+time="13:30:00"
+betTillDate="2012-12-26"
+betTillTime="13:30:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:33"
+>
+<participant
+name="B Botusharova/J Stamatova"
+id="215618589"
+odds="4/11"
+oddsDecimal="1.36"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:43"
+handicap=""/>
+<participant
+name="E Gorgodze/S Kvatsabaia"
+id="215618590"
+odds="2/1"
+oddsDecimal="3.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:43"
+handicap=""/>
+</market>
+</type>
+</class>
+<disclaimer>
+WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place, Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;) relating to information contained on its main trading website. By using the Website You agree to these full Terms of Use available at http://developer.williamhill.com
+</disclaimer>
+</williamhill>
+</response>
+</oxip>

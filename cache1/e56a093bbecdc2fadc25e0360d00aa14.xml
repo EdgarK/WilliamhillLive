@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish-->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved.-->
+<oxip version="7.1" created="2012-12-26 15:36:32" lastMsgId="4548291036"  requestTime="0.0181">
+<response request="getHierarchyByMarketType" code="001" message="success" debug="">
+<williamhill>
+<class id="386" name="Greyhounds - Specials" maxRepDate="2012-12-26" maxRepTime="15:31:54">
+<type
+id="6775"
+name="Hotbox"
+url="http://sports.williamhill.com/bet/betting/t/6775"
+lastUpdateDate="2012-11-11"
+lastUpdateTime="18:01:23">
+<market
+id="52994333"
+name="Newcastle Hotbox - Outright - Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3878050/Newcastle%2dHotbox"
+date="2012-12-26"
+time="13:06:00"
+betTillDate="2012-12-26"
+betTillTime="13:06:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:54"
+>
+<participant
+name="Trap 6"
+id="215727451"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:21"
+handicap=""/>
+<participant
+name="Trap 3"
+id="215726535"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:14"
+handicap=""/>
+<participant
+name="Trap 4"
+id="215726536"
+odds="10/11"
+oddsDecimal="1.91"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:11"
+handicap=""/>
+<participant
+name="Trap 1"
+id="215726515"
+odds="5/6"
+oddsDecimal="1.83"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:04"
+handicap=""/>
+</market>
+</type>
+</class>
+<disclaimer>
+WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place, Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;) relating to information contained on its main trading website. By using the Website You agree to these full Terms of Use available at http://developer.williamhill.com
+</disclaimer>
+</williamhill>
+</response>
+</oxip>

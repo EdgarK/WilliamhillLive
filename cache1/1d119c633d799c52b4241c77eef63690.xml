@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish-->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved.-->
+<oxip version="7.1" created="2012-12-26 15:36:52" lastMsgId="4548295945"  requestTime="1.4349">
+<response request="getHierarchyByMarketType" code="001" message="success" debug="">
+<williamhill>
+<class id="1" name="UK Football" maxRepDate="2012-12-26" maxRepTime="15:35:57">
+<type
+id="292"
+name="English Championship"
+url="http://sports.williamhill.com/bet/betting/t/292"
+lastUpdateDate="2012-11-05"
+lastUpdateTime="05:15:50">
+<market
+id="52832848"
+name="Cardiff v Crystal Palace - Winning Margin Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798313/Cardiff%2dv%2dC%2dPalace"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:26"
+>
+<participant
+name="Crystal Palace By 3 Goals"
+id="215157032"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:18"
+handicap=""/>
+<participant
+name="Crystal Palace By 2 Goals"
+id="215157031"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:25:49"
+handicap=""/>
+<participant
+name="Cardiff By 4 Or More Goals"
+id="215157028"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:00"
+handicap=""/>
+<participant
+name="Cardiff By 1 Goal"
+id="215157025"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:00"
+handicap=""/>
+<participant
+name="Cardiff By 3 Goals"
+id="215157027"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:18"
+handicap=""/>
+<participant
+name="Cardiff By 2 Goals"
+id="215157026"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:18"
+handicap=""/>
+<participant
+name="Draw"
+id="215157029"
+odds="11/5"
+oddsDecimal="3.20"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:18"
+handicap=""/>
+<participant
+name="Crystal Palace By 1 Goal"
+id="215157030"
+odds="2/1"
+oddsDecimal="3.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:18"
+handicap=""/>
+<participant
+name="Crystal Palace By 4 Or More Goals"
+id="215157033"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:18"
+handicap=""/>
+</market>
+<market
+id="52833262"
+name="Middlesbrough v Blackburn - Winning Margin Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798314/Middlesbrough%2dv%2dBlackburn"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:26"
+>
+<participant
+name="Draw"
+id="215158483"
+odds="17/10"
+oddsDecimal="2.70"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:19"
+handicap=""/>
+<participant
+name="Middlesbrough By 3 Goals"
+id="215158481"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Middlesbrough By 2 Goals"
+id="215158480"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Middlesbrough By 4 Or More Goals"
+id="215158482"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Blackburn By 2 Goals"
+id="215158485"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Blackburn By 3 Goals"
+id="215158486"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Blackburn By 1 Goal"
+id="215158484"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:07"
+handicap=""/>
+<participant
+name="Blackburn By 4 Or More Goals"
+id="215158487"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:19"
+handicap=""/>
+<participant
+name="Middlesbrough By 1 Goal"
+id="215158479"
+odds="12/5"
+oddsDecimal="3.40"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:19"
+handicap=""/>
+</market>
+<market
+id="52833400"
+name="Bolton v Sheff Wed - Winning Margin Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798312/Bolton%2dv%2dSheff%2dWed"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:07"
+>
+<participant
+name="Sheff Wed By 1 Goal"
+id="215158968"
+odds="19/10"
+oddsDecimal="2.90"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:23"
+handicap=""/>
+<participant
+name="Bolton By 3 Goals"
+id="215158965"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:23"
+handicap=""/>
+<participant
+name="Sheff Wed By 2 Goals"
+id="215158969"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:22"
+handicap=""/>
+<participant
+name="Bolton By 4 Or More Goals"
+id="215158966"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:22"
+handicap=""/>
+<participant
+name="Bolton By 2 Goals"
+id="215158964"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:22"
+handicap=""/>
+<participant
+name="Bolton By 1 Goal"
+id="215158963"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:22"
+handicap=""/>
+<participant
+name="Sheff Wed By 3 Goals"
+id="215158970"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:23"
+handicap=""/>
+<participant
+name="Sheff Wed By 4 Or More Goals"
+id="215158971"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:23"
+handicap=""/>
+<participant
+name="Draw"
+id="215158967"
+odds="23/10"
+oddsDecimal="3.30"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:23"
+handicap=""/>
+</market>
+<market
+id="52841345"
+name="Huddersfield v Blackpool - Winning Margin Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798309/Huddersfield%2dv%2dBlackpool"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:03:42"
+>
+<participant
+name="Huddersfield By 2 Goals"
+id="215187889"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:04"
+handicap=""/>
+<participant
+name="Huddersfield By 4 Or More Goals"
+id="215187891"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:04"
+handicap=""/>
+<participant
+name="Draw"
+id="215187892"
+odds="17/10"
+oddsDecimal="2.70"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:04"
+handicap=""/>
+<participant
+name="Blackpool By 1 Goal"
+id="215187893"
+odds="27/10"
+oddsDecimal="3.70"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:04"
+handicap=""/>
+<participant
+name="Blackpool By 3 Goals"
+id="215187895"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:04"
+handicap=""/>
+<participant
+name="Blackpool By 4 Or More Goals"
+id="215187896"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:04"
+handicap=""/>
+<participant
+name="Blackpool By 2 Goals"
+id="215187894"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:20:00"
+handicap=""/>
+<participant
+name="Huddersfield By 1 Goal"
+id="215187888"
+odds="7/2"
+oddsDecimal="4.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:04"
+handicap=""/>
+<participant
+name="Huddersfield By 3 Goals"
+id="215187890"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:04"
+handicap=""/>
+</market>
+<market
+id="52841538"
+name="Hull v Leicester - Winning Margin Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798308/Hull%2dv%2dLeicester"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:36"
+>
+<participant
+name="Leicester By 4 Or More Goals"
+id="215188951"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:43"
+handicap=""/>
+<participant
+name="Hull By 4 Or More Goals"
+id="215188943"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:44"
+handicap=""/>
+<participant
+name="Hull By 2 Goals"
+id="215188941"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:01"
+handicap=""/>
+<participant
+name="Hull By 3 Goals"
+id="215188942"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:01"
+handicap=""/>
+<participant
+name="Draw"
+id="215188944"
+odds="6/4"
+oddsDecimal="2.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:01"
+handicap=""/>
+<participant
+name="Leicester By 3 Goals"
+id="215188949"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:01"
+handicap=""/>
+<participant
+name="Leicester By 2 Goals"
+id="215188947"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:01"
+handicap=""/>
+<participant
+name="Hull By 1 Goal"
+id="215188940"
+odds="3/1"
+oddsDecimal="4.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:43"
+handicap=""/>
+<participant
+name="Leicester By 1 Goal"
+id="215188946"
+odds="3/1"
+oddsDecimal="4.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:43"
+handicap=""/>
+</market>
+</type>
+<type
+id="295"
+name="English Premier League"
+url="http://sports.williamhill.com/bet/betting/t/295"
+lastUpdateDate="2012-11-05"
+lastUpdateTime="05:15:24">
+<market
+id="52835317"
+name="Sunderland v Man City - Winning Margin Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798275/Sunderland%2dv%2dMan%2dCity"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:23"
+>
+<participant
+name="Man City By 1 Goal"
+id="215165230"
+odds="2/1"
+oddsDecimal="3.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:18"
+handicap=""/>
+<participant
+name="Man City By 4 Or More Goals"
+id="215165233"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:18"
+handicap=""/>
+<participant
+name="Draw"
+id="215165229"
+odds="21/10"
+oddsDecimal="3.10"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:03"
+handicap=""/>
+<participant
+name="Man City By 2 Goals"
+id="215165231"
+odds="15/4"
+oddsDecimal="4.75"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:03"
+handicap=""/>
+<participant
+name="Sunderland By 1 Goal"
+id="215165225"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:03"
+handicap=""/>
+<participant
+name="Man City By 3 Goals"
+id="215165232"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:03"
+handicap=""/>
+<participant
+name="Sunderland By 2 Goals"
+id="215165226"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:20:18"
+handicap=""/>
+<participant
+name="Sunderland By 3 Goals"
+id="215165227"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:18"
+handicap=""/>
+</market>
+<market
+id="52835455"
+name="Man Utd v Newcastle - Winning Margin Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798277/Man%2dUtd%2dv%2dNewcastle"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:45"
+>
+<participant
+name="Man Utd By 3 Goals"
+id="215166011"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:57"
+handicap=""/>
+<participant
+name="Newcastle By 4 Or More Goals"
+id="215166017"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="Man Utd By 1 Goal"
+id="215166009"
+odds="3/1"
+oddsDecimal="4.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="Newcastle By 1 Goal"
+id="215166014"
+odds="16/5"
+oddsDecimal="4.20"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="Newcastle By 2 Goals"
+id="215166015"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="Newcastle By 3 Goals"
+id="215166016"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="Man Utd By 4 Or More Goals"
+id="215166012"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="Draw"
+id="215166013"
+odds="21/10"
+oddsDecimal="3.10"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:34"
+handicap=""/>
+<participant
+name="Man Utd By 2 Goals"
+id="215166010"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:57"
+handicap=""/>
+</market>
+<market
+id="52835593"
+name="Everton v Wigan - Winning Margin Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798279/Everton%2dv%2dWigan"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:12"
+>
+<participant
+name="Wigan By 1 Goal"
+id="215166684"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:23"
+handicap=""/>
+<participant
+name="Wigan By 3 Goals"
+id="215166686"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:41"
+handicap=""/>
+<participant
+name="Everton By 2 Goals"
+id="215166680"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:41"
+handicap=""/>
+<participant
+name="Everton By 4 Or More Goals"
+id="215166682"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:42"
+handicap=""/>
+<participant
+name="Everton By 3 Goals"
+id="215166681"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:42"
+handicap=""/>
+<participant
+name="Draw"
+id="215166683"
+odds="19/10"
+oddsDecimal="2.90"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:42"
+handicap=""/>
+<participant
+name="Wigan By 2 Goals"
+id="215166685"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:21:19"
+handicap=""/>
+<participant
+name="Everton By 1 Goal"
+id="215166679"
+odds="11/5"
+oddsDecimal="3.20"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:21:19"
+handicap=""/>
+</market>
+<market
+id="52835731"
+name="Norwich v Chelsea - Winning Margin Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798280/Norwich%2dv%2dChelsea"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:57"
+>
+<participant
+name="Draw"
+id="215167167"
+odds="15/8"
+oddsDecimal="2.88"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:00"
+handicap=""/>
+<participant
+name="Chelsea By 1 Goal"
+id="215167168"
+odds="11/5"
+oddsDecimal="3.20"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:00"
+handicap=""/>
+<participant
+name="Chelsea By 4 Or More Goals"
+id="215167171"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Norwich By 2 Goals"
+id="215167164"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Norwich By 3 Goals"
+id="215167165"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:38"
+handicap=""/>
+<participant
+name="Chelsea By 3 Goals"
+id="215167170"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:37"
+handicap=""/>
+<participant
+name="Norwich By 1 Goal"
+id="215167163"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:37"
+handicap=""/>
+<participant
+name="Chelsea By 2 Goals"
+id="215167169"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:21:40"
+handicap=""/>
+</market>
+<market
+id="52835869"
+name="Reading v Swansea - Winning Margin Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798274/Reading%2dv%2dSwansea"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:24"
+>
+<participant
+name="Draw"
+id="215167651"
+odds="6/4"
+oddsDecimal="2.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:20"
+handicap=""/>
+<participant
+name="Reading By 1 Goal"
+id="215167647"
+odds="17/5"
+oddsDecimal="4.40"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:03"
+handicap=""/>
+<participant
+name="Swansea By 1 Goal"
+id="215167652"
+odds="27/10"
+oddsDecimal="3.70"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:59"
+handicap=""/>
+<participant
+name="Reading By 3 Goals"
+id="215167649"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:59"
+handicap=""/>
+<participant
+name="Reading By 2 Goals"
+id="215167648"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:59"
+handicap=""/>
+<participant
+name="Reading By 4 Or More Goals"
+id="215167650"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:59"
+handicap=""/>
+<participant
+name="Swansea By 2 Goals"
+id="215167653"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:20"
+handicap=""/>
+<participant
+name="Swansea By 4 Or More Goals"
+id="215167655"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:20"
+handicap=""/>
+<participant
+name="Swansea By 3 Goals"
+id="215167654"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:20"
+handicap=""/>
+</market>
+<market
+id="52836145"
+name="Fulham v Southampton - Winning Margin Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798278/Fulham%2dv%2dSouthampton"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:13"
+>
+<participant
+name="Fulham By 3 Goals"
+id="215168432"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:17:03"
+handicap=""/>
+<participant
+name="Southampton By 1 Goal"
+id="215168435"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Draw"
+id="215168434"
+odds="18/5"
+oddsDecimal="4.60"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Southampton By 3 Goals"
+id="215168437"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Southampton By 2 Goals"
+id="215168436"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Fulham By 2 Goals"
+id="215168431"
+odds="5/2"
+oddsDecimal="3.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Fulham By 1 Goal"
+id="215168430"
+odds="17/10"
+oddsDecimal="2.70"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Fulham By 4 Or More Goals"
+id="215168433"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+</market>
+<market
+id="52836007"
+name="QPR v West Brom - Winning Margin Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798273/QPR%2dv%2dWest%2dBrom"
+date="2012-12-26"
+time="15:11:00"
+betTillDate="2012-12-26"
+betTillTime="15:11:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:11:37"
+>
+<participant
+name="QPR By 3 Goals"
+id="215168133"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="West Brom By 2 Goals"
+id="215168137"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:17"
+handicap=""/>
+<participant
+name="West Brom By 4 Or More Goals"
+id="215168139"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:17"
+handicap=""/>
+<participant
+name="West Brom By 3 Goals"
+id="215168138"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:17"
+handicap=""/>
+<participant
+name="Draw"
+id="215168135"
+odds="7/4"
+oddsDecimal="2.75"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:18"
+handicap=""/>
+<participant
+name="QPR By 4 Or More Goals"
+id="215168134"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:18"
+handicap=""/>
+<participant
+name="QPR By 2 Goals"
+id="215168132"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:18"
+handicap=""/>
+<participant
+name="West Brom By 1 Goal"
+id="215168136"
+odds="7/2"
+oddsDecimal="4.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="QPR By 1 Goal"
+id="215168131"
+odds="27/10"
+oddsDecimal="3.70"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+</market>
+</type>
+</class>
+<disclaimer>
+WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place, Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;) relating to information contained on its main trading website. By using the Website You agree to these full Terms of Use available at http://developer.williamhill.com
+</disclaimer>
+</williamhill>
+</response>
+</oxip>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>  <!-- OXi dbPublish--> <!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved.-->
+<oxip version="7.1" created="2012-12-26 14:49:54" lastMsgId="4547578551" requestTime="0.0158">
+  <response request="getClasses" code="001" message="success" debug="" provider="williamhill">
+    <disclaimer></disclaimer>
+    <class id="19" displayOrder="9999" name="American Football" category="AMERICAN_FB" channels="IPLYFBJSCMHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="15" displayOrder="9999" name="Baseball" category="BASEBALL" channels="IPYFBJSCMHQGNAEZ" lastUpdateDate=""
+           lastUpdateTime=""/>
+    <class id="336" displayOrder="-999" name="US Basketball" category="BASKETBALL" channels="IPLYFBJSCMHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="273" displayOrder="40" name="European Basketball" category="BASKETBALL" channels="IPLYFBJSCMHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="42" displayOrder="9999" name="International Cricket" category="CRICKET" channels="IPLYFBJSCMHQGNEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="337" displayOrder="90" name="Indian Premier League" category="CRICKET" channels="IPLYFBJSCMHQGNEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="9" displayOrder="9999" name="UK Domestic Cricket" category="CRICKET" channels="IPLYFBJSCMHQGNEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="383" displayOrder="9999" name="Cricket Specials" category="CRICKET" channels="IPLYFBJSCMHQGNEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="335" displayOrder="9999" name="Darts" category="DARTS" channels="IPLYFBJSCMHQGNEZ" lastUpdateDate=""
+           lastUpdateTime=""/>
+    <class id="384" displayOrder="9999" name="Darts Specials" category="DARTS" channels="IPLYFBJSCMTHQGNEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="1" displayOrder="160" name="UK Football" category="FOOTBALL" channels="IPLYFBJSCMTHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="36" displayOrder="-999" name="International Football" category="FOOTBALL" channels="IPLYFBJSCMTHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="46" displayOrder="9999" name="European Major Leagues" category="FOOTBALL" channels="IPLYFBJSCMTHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="274" displayOrder="9999" name="Other League Football" category="FOOTBALL" channels="IPLYFBJSCMTHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="275" displayOrder="284" name="UEFA Club Competitions" category="FOOTBALL" channels="IPLYFBJSCMTHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="276" displayOrder="9999" name="Football Specials" category="FOOTBALL" channels="IPLYFBJSCMTHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="436" displayOrder="9999" name="Football - Virtual" category="FOOTBALL" channels="IPLYFBJSCMTHQGZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="8" displayOrder="195" name="Golf Majors" category="GOLF" channels="IPLYFBJSCMTHQGNEZ" lastUpdateDate=""
+           lastUpdateTime=""/>
+    <class id="40" displayOrder="190" name="Mens Golf" category="GOLF" channels="IPLYFBJSCMTHQGNAEZ" lastUpdateDate=""
+           lastUpdateTime=""/>
+    <class id="277" displayOrder="9999" name="Womens Golf" category="GOLF" channels="IPLYFBJSCMHQGNEZ" lastUpdateDate=""
+           lastUpdateTime=""/>
+    <class id="385" displayOrder="210" name="Golf Specials" category="GOLF" channels="IPLYFBJSCMTHQGNEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="3" displayOrder="8920" name="Greyhounds - Live" category="GREYHOUNDS" channels="IPLYFBJSCMHQGNZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="438" displayOrder="9999" name="Greyhound Hurdles - Virtual" category="GREYHOUNDS" channels="IZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="330" displayOrder="9999" name="Greyhounds - Virtual" category="GREYHOUNDS" channels="IYFBJSCMHQNZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="17" displayOrder="9999" name="Greyhounds - Antepost" category="GREYHOUNDS" channels="IPLYFBJSCMHQGNZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="386" displayOrder="9999" name="Greyhounds - Specials" category="GREYHOUNDS" channels="IPLYFBJSCMHQGNZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="2" displayOrder="9999" name="Horse Racing - Live" category="HORSE_RACING" channels="IPLYFBJSCMTHQGNZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="439" displayOrder="9999" name="Horse Racing Sprint - Virtual" category="HORSE_RACING"
+           channels="IPLYFBJSCMTHQGNZ" lastUpdateDate="" lastUpdateTime=""/>
+    <class id="442" displayOrder="9999" name="Horse National Hunt - Virtual" category="HORSE_RACING" channels="IZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="13" displayOrder="9999" name="Horse Racing - Antepost" category="HORSE_RACING"
+           channels="IPLYFBJSCMTHQGNZ" lastUpdateDate="" lastUpdateTime=""/>
+    <class id="38" displayOrder="9999" name="Horse Racing - Tote Pools" category="HORSE_RACING"
+           channels="IPLYFBJSCMHQGNZ" lastUpdateDate="" lastUpdateTime=""/>
+    <class id="323" displayOrder="0" name="Horse Racing - Specials" category="HORSE_RACING" channels="IPLYFBJSCMTHQGNZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="32" displayOrder="9999" name="NHL" category="ICE_HOCKEY" channels="IPLYFBJSCMHQGNAEZ" lastUpdateDate=""
+           lastUpdateTime=""/>
+    <class id="401" displayOrder="9999" name="International Ice Hockey" category="ICE_HOCKEY"
+           channels="IPYFBJSCMHQGNAEZ" lastUpdateDate="" lastUpdateTime=""/>
+    <class id="283" displayOrder="9999" name="European Ice Hockey" category="ICE_HOCKEY" channels="IPLYFBJSCMHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="5" displayOrder="9999" name="Formula 1" category="MOTOR_RACING" channels="IPLYFBJSCMHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="412" displayOrder="9999" name="Motor" category="MOTOR_RACING" channels="IPLYFBJSCHQGNZ" lastUpdateDate=""
+           lastUpdateTime=""/>
+    <class id="413" displayOrder="9999" name="Speedway" category="MOTOR_RACING" channels="IPLYFBJSCHQGNZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="420" displayOrder="9999" name="Moto GP" category="MOTORBIKES" channels="IPLYFBJSCMTHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="419" displayOrder="9999" name="Speedway" category="MOTORBIKES" channels="IPLYFBJSCMTHQGNEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="295" displayOrder="9999" name="Athletics" category="OTHER_SPORTS" channels="IPLYFBJSCMHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="18" displayOrder="9999" name="Australian Rules" category="OTHER_SPORTS" channels="IPLYFBJSCMHQGNEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="297" displayOrder="9999" name="Bandy" category="OTHER_SPORTS" channels="IPLYFBJSCMHQGNEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="10" displayOrder="9999" name="Boxing" category="OTHER_SPORTS" channels="IPLYFBJSCMHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="301" displayOrder="9999" name="Cycling" category="OTHER_SPORTS" channels="IPLYFBJSCMHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="437" displayOrder="9999" name="Cycling - Virtual" category="OTHER_SPORTS" channels="IZ" lastUpdateDate=""
+           lastUpdateTime=""/>
+    <class id="348" displayOrder="9999" name="GAA Football" category="OTHER_SPORTS" channels="IPLYFBJSCMHQGNEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="303" displayOrder="9999" name="Handball" category="OTHER_SPORTS" channels="IPYFBJSCMHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="349" displayOrder="9999" name="GAA Hurling" category="OTHER_SPORTS" channels="IPLYFBJSCMHQGNEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="34" displayOrder="9999" name="Pool" category="OTHER_SPORTS" channels="IPLYFBJSCMHQGNEZ" lastUpdateDate=""
+           lastUpdateTime=""/>
+    <class id="402" displayOrder="9999" name="UFC / MMA" category="OTHER_SPORTS" channels="IPLYFBJSCMHQGNEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="320" displayOrder="9999" name="Volleyball" category="OTHER_SPORTS" channels="IPYFBJSCMHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="52" displayOrder="9999" name="Politics" category="POLITICS" channels="IPLYFBJSCMHQGNZ" lastUpdateDate=""
+           lastUpdateTime=""/>
+    <class id="325" displayOrder="9999" name="Rugby League" category="RUGBY_LEAGUE" channels="IPLYFBJSCMTHQGNEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="7" displayOrder="9999" name="Rugby Union" category="RUGBY_UNION" channels="IPLYFBJSCMHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="334" displayOrder="9999" name="Snooker" category="SNOOKER" channels="IPLYFBJSCMHQGNEZ" lastUpdateDate=""
+           lastUpdateTime=""/>
+    <class id="291" displayOrder="9999" name="Film Specials" category="SPECIALS" channels="IPLYFBJSCMHQGNZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="37" displayOrder="9999" name="TV Specials" category="SPECIALS" channels="IPLYFBJSCMHQGNZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="294" displayOrder="9999" name="Other Specials" category="SPECIALS" channels="IPLYFBJSCMHQGNZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="292" displayOrder="9999" name="Music Specials" category="SPECIALS" channels="IPLYFBJSCMHQGNZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="293" displayOrder="9999" name="Weather Specials" category="SPECIALS" channels="IPLYFBJSCMHQGNZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="45" displayOrder="-999" name="Grand Slam Tennis" category="TENNIS" channels="IPLYFBJSCMTHQGNAEZ"
+           lastUpdateDate="" lastUpdateTime=""/>
+    <class id="392" displayOrder="1260" name="Tennis Specials" category="TENNIS" channels="IPLYFBJSCMHQGNZAE"
+           lastUpdateDate="" lastUpdateTime=""/>
+  </response>
+</oxip>

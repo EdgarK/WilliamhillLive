@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish-->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved.-->
+<oxip version="7.1" created="2012-12-26 15:36:25" lastMsgId="4548290543"  requestTime="0.0912">
+<response request="getHierarchyByMarketType" code="001" message="success" debug="">
+<williamhill>
+<class id="46" name="European Major Leagues" maxRepDate="2012-12-26" maxRepTime="15:31:53">
+<type
+id="182"
+name="Northern Irish Premiership"
+url="http://sports.williamhill.com/bet/betting/t/182"
+lastUpdateDate="2012-11-05"
+lastUpdateTime="05:39:42">
+<market
+id="52886816"
+name="Linfield v Glentoran - Double Result Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798247/Linfield%2dv%2dGlentoran"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:08:04"
+>
+<participant
+name="Glentoran/Draw"
+id="215345151"
+odds="27/10"
+oddsDecimal="3.70"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="Glentoran/Glentoran"
+id="215345152"
+odds="7/4"
+oddsDecimal="2.75"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+<participant
+name="Linfield/Linfield"
+id="215345144"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="Linfield/Draw"
+id="215345145"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="Linfield/Glentoran"
+id="215345146"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="Draw/Linfield"
+id="215345147"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="Draw/Draw"
+id="215345148"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="Draw/Glentoran"
+id="215345149"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="Glentoran/Linfield"
+id="215345150"
+odds="3/1"
+oddsDecimal="4.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+</market>
+</type>
+<type
+id="4435"
+name="Israel Premier League Cup"
+url="http://sports.williamhill.com/bet/betting/t/4435"
+lastUpdateDate="2012-12-22"
+lastUpdateTime="16:36:41">
+<market
+id="52958062"
+name="Hapoel Ramat Gan v Hapoel Be&amp;apos;er Sheva FC - Double Result Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3877777/Hapoel%2dRamat%2dGan%2dv%2dHapoel%2dBe%2der%2dSheva%2dFC"
+date="2012-12-26"
+time="15:30:00"
+betTillDate="2012-12-26"
+betTillTime="15:30:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:53"
+>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC/Hapoel Be&amp;apos;er Sheva FC"
+id="215619582"
+odds="18/5"
+oddsDecimal="4.60"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan/Hapoel Be&amp;apos;er Sheva FC"
+id="215619576"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+<participant
+name="Draw/Draw"
+id="215619578"
+odds="16/5"
+oddsDecimal="4.20"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+<participant
+name="Draw/Hapoel Ramat Gan"
+id="215619577"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan/Hapoel Ramat Gan"
+id="215619574"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC/Hapoel Ramat Gan"
+id="215619580"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:40"
+handicap=""/>
+<participant
+name="Draw/Hapoel Be&amp;apos;er Sheva FC"
+id="215619579"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:39"
+handicap=""/>
+<participant
+name="Hapoel Be&amp;apos;er Sheva FC/Draw"
+id="215619581"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:52"
+handicap=""/>
+<participant
+name="Hapoel Ramat Gan/Draw"
+id="215619575"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:52"
+handicap=""/>
+</market>
+</type>
+</class>
+<disclaimer>
+WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place, Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;) relating to information contained on its main trading website. By using the Website You agree to these full Terms of Use available at http://developer.williamhill.com
+</disclaimer>
+</williamhill>
+</response>
+</oxip>

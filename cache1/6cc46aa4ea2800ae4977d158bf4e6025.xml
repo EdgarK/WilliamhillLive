@@ -1,0 +1,8513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OXi dbPublish-->
+<!-- Copyright (c) 2001, 2002, 2003 Orbis Technology Ltd. All rights reserved.-->
+<oxip version="7.1" created="2012-12-26 15:36:44" lastMsgId="4548294235"  requestTime="1.4978">
+<response request="getHierarchyByMarketType" code="001" message="success" debug="">
+<williamhill>
+<class id="1" name="UK Football" maxRepDate="2012-12-26" maxRepTime="15:34:59">
+<type
+id="2"
+name="Scottish Division 1"
+url="http://sports.williamhill.com/bet/betting/t/2"
+lastUpdateDate="2012-11-05"
+lastUpdateTime="05:18:20">
+<market
+id="52838232"
+name="Partick v Morton - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798243/Partick%2dv%2dMorton"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:03:59"
+>
+<participant
+name="Morton 4-1"
+id="215176636"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Partick 5-1"
+id="215176604"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Partick 4-2"
+id="215176601"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Partick 5-2"
+id="215176605"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Partick 4-3"
+id="215176602"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Partick 4-0"
+id="215176599"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Partick 4-1"
+id="215176600"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Partick 3-1"
+id="215176597"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Partick 3-2"
+id="215176598"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Partick 2-1"
+id="215176595"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Partick 3-0"
+id="215176596"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Morton 4-2"
+id="215176637"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Morton 3-2"
+id="215176634"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Morton 3-1"
+id="215176633"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215176626"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215176625"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Morton 2-1"
+id="215176631"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215176624"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Partick 2-0"
+id="215176594"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Partick 1-0"
+id="215176593"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Morton 4-3"
+id="215176638"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Partick 5-3"
+id="215176606"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Partick 6-0"
+id="215176608"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Partick 6-1"
+id="215176609"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+<participant
+name="Partick 5-0"
+id="215176603"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:47"
+handicap=""/>
+</market>
+<market
+id="52838233"
+name="Partick v Morton - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798243/Partick%2dv%2dMorton"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:12:43"
+>
+<participant
+name="Morton 2-1"
+id="215176698"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:17"
+handicap=""/>
+<participant
+name="Partick 2-0"
+id="215176672"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:17"
+handicap=""/>
+<participant
+name="Partick 2-1"
+id="215176673"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:17"
+handicap=""/>
+<participant
+name="Partick 3-0"
+id="215176674"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:17"
+handicap=""/>
+<participant
+name="Partick 3-1"
+id="215176675"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:17"
+handicap=""/>
+<participant
+name="Partick 1-0"
+id="215176671"
+odds="2/7"
+oddsDecimal="1.29"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:17"
+handicap=""/>
+<participant
+name="Partick 4-0"
+id="215176677"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:38"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215176692"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:17"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215176693"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:17"
+handicap=""/>
+</market>
+</type>
+<type
+id="291"
+name="English Blue Square Premier"
+url="http://sports.williamhill.com/bet/betting/t/291"
+lastUpdateDate="2012-11-05"
+lastUpdateTime="05:20:48">
+<market
+id="52833693"
+name="Stockport v Hyde - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798318/Stockport%2dv%2dHyde"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:59:56"
+>
+<participant
+name="Hyde 4-0"
+id="215159806"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+<participant
+name="Hyde 4-1"
+id="215159807"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+<participant
+name="Hyde 4-2"
+id="215159808"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+<participant
+name="Hyde 4-3"
+id="215159809"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+<participant
+name="Hyde 6-2"
+id="215159817"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+<participant
+name="Hyde 6-1"
+id="215159816"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+<participant
+name="Hyde 5-3"
+id="215159813"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+<participant
+name="Hyde 5-2"
+id="215159812"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+<participant
+name="Hyde 6-0"
+id="215159815"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+<participant
+name="Hyde 5-1"
+id="215159811"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+<participant
+name="Stockport 5-2"
+id="215159776"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:19:50"
+handicap=""/>
+<participant
+name="Hyde 3-1"
+id="215159804"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:39"
+handicap=""/>
+<participant
+name="Stockport 5-3"
+id="215159777"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:40"
+handicap=""/>
+<participant
+name="Hyde 5-4"
+id="215159814"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:00"
+handicap=""/>
+<participant
+name="Stockport 3-2"
+id="215159769"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="Hyde 5-0"
+id="215159810"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="Stockport 4-2"
+id="215159772"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="Stockport 4-3"
+id="215159773"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:21"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215159796"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:37"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215159797"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:37"
+handicap=""/>
+<participant
+name="Draw 4-4"
+id="215159798"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+<participant
+name="Hyde 2-0"
+id="215159801"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+<participant
+name="Hyde 2-1"
+id="215159802"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+<participant
+name="Hyde 3-0"
+id="215159803"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+<participant
+name="Hyde 3-2"
+id="215159805"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+</market>
+<market
+id="52833694"
+name="Stockport v Hyde - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798318/Stockport%2dv%2dHyde"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:59:56"
+>
+<participant
+name="Hyde 2-0"
+id="215159868"
+odds="2/11"
+oddsDecimal="1.18"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:38"
+handicap=""/>
+<participant
+name="Hyde 2-1"
+id="215159869"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:38"
+handicap=""/>
+<participant
+name="Hyde 3-0"
+id="215159870"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:38"
+handicap=""/>
+<participant
+name="Hyde 4-0"
+id="215159873"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:38"
+handicap=""/>
+<participant
+name="Hyde 3-2"
+id="215159872"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:59"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215159864"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:38"
+handicap=""/>
+<participant
+name="Hyde 3-1"
+id="215159871"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:38"
+handicap=""/>
+</market>
+</type>
+<type
+id="292"
+name="English Championship"
+url="http://sports.williamhill.com/bet/betting/t/292"
+lastUpdateDate="2012-11-05"
+lastUpdateTime="05:15:50">
+<market
+id="52832865"
+name="Cardiff v Crystal Palace - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798313/Cardiff%2dv%2dC%2dPalace"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:28"
+>
+<participant
+name="Cardiff 2-1"
+id="215156890"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:43"
+handicap=""/>
+<participant
+name="Crystal Palace 3-2"
+id="215156929"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:43"
+handicap=""/>
+<participant
+name="Crystal Palace 4-0"
+id="215156930"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:43"
+handicap=""/>
+<participant
+name="Crystal Palace 2-0"
+id="215156925"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Cardiff 3-2"
+id="215156893"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Cardiff 4-2"
+id="215156896"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Cardiff 5-2"
+id="215156900"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Cardiff 5-1"
+id="215156899"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Crystal Palace 4-3"
+id="215156933"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Crystal Palace 4-2"
+id="215156932"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Crystal Palace 5-2"
+id="215156936"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Crystal Palace 3-1"
+id="215156928"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:00"
+handicap=""/>
+<participant
+name="Cardiff 4-1"
+id="215156895"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:00"
+handicap=""/>
+<participant
+name="Crystal Palace 5-1"
+id="215156935"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:00"
+handicap=""/>
+<participant
+name="Crystal Palace 2-1"
+id="215156926"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:18:00"
+handicap=""/>
+<participant
+name="Crystal Palace 3-0"
+id="215156927"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:09:02"
+handicap=""/>
+<participant
+name="Crystal Palace 4-1"
+id="215156931"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:03"
+handicap=""/>
+<participant
+name="Cardiff 3-1"
+id="215156892"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:09:02"
+handicap=""/>
+<participant
+name="Crystal Palace 1-0"
+id="215156924"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:03"
+handicap=""/>
+<participant
+name="Cardiff 4-3"
+id="215156897"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:03"
+handicap=""/>
+<participant
+name="Crystal Palace 5-0"
+id="215156934"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:03"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215156921"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:43"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215156919"
+odds="7/2"
+oddsDecimal="4.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:43"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215156920"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:43"
+handicap=""/>
+</market>
+<market
+id="52832866"
+name="Cardiff v Crystal Palace - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798313/Cardiff%2dv%2dC%2dPalace"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:23"
+>
+<participant
+name="Crystal Palace 3-0"
+id="215156994"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:18"
+handicap=""/>
+<participant
+name="Cardiff 2-1"
+id="215156968"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:18"
+handicap=""/>
+<participant
+name="Crystal Palace 2-1"
+id="215156993"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:41"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215156988"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:18"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215156987"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:18"
+handicap=""/>
+<participant
+name="Crystal Palace 2-0"
+id="215156992"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:18"
+handicap=""/>
+<participant
+name="Crystal Palace 1-0"
+id="215156991"
+odds="2/9"
+oddsDecimal="1.22"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:18"
+handicap=""/>
+</market>
+<market
+id="52833003"
+name="Burnley v Derby - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798317/Burnley%2dv%2dDerby"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:03:24"
+>
+<participant
+name="Derby 2-0"
+id="215157224"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:40"
+handicap=""/>
+<participant
+name="Derby 2-1"
+id="215157225"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:40"
+handicap=""/>
+<participant
+name="Derby 1-0"
+id="215157223"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:40"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215157220"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:40"
+handicap=""/>
+<participant
+name="Derby 3-2"
+id="215157228"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:39"
+handicap=""/>
+<participant
+name="Burnley 4-1"
+id="215157194"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:02"
+handicap=""/>
+<participant
+name="Burnley 4-2"
+id="215157195"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:02"
+handicap=""/>
+<participant
+name="Burnley 4-0"
+id="215157193"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:02"
+handicap=""/>
+<participant
+name="Burnley 1-0"
+id="215157187"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:02"
+handicap=""/>
+<participant
+name="Burnley 2-0"
+id="215157188"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:02"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215157218"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:02"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215157219"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:02"
+handicap=""/>
+<participant
+name="Derby 3-0"
+id="215157226"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:02"
+handicap=""/>
+<participant
+name="Derby 4-0"
+id="215157229"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:02"
+handicap=""/>
+<participant
+name="Derby 4-1"
+id="215157230"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:02"
+handicap=""/>
+<participant
+name="Derby 4-2"
+id="215157231"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:25"
+handicap=""/>
+<participant
+name="Burnley 5-0"
+id="215157197"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:07:19"
+handicap=""/>
+<participant
+name="Burnley 3-0"
+id="215157190"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215157217"
+odds="18/5"
+oddsDecimal="4.60"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Derby 3-1"
+id="215157227"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Burnley 5-1"
+id="215157198"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:02"
+handicap=""/>
+<participant
+name="Burnley 3-2"
+id="215157192"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:40"
+handicap=""/>
+<participant
+name="Burnley 3-1"
+id="215157191"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:40"
+handicap=""/>
+<participant
+name="Burnley 2-1"
+id="215157189"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:40"
+handicap=""/>
+</market>
+<market
+id="52833141"
+name="Barnsley v Birmingham - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798316/Barnsley%2dv%2dBirmingham"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:32"
+>
+<participant
+name="Birmingham 5-0"
+id="215157902"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215157887"
+odds="18/5"
+oddsDecimal="4.60"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Birmingham 2-0"
+id="215157893"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Birmingham 2-1"
+id="215157894"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215157889"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Birmingham 1-0"
+id="215157892"
+odds="19/5"
+oddsDecimal="4.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Birmingham 4-1"
+id="215157899"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Birmingham 4-0"
+id="215157898"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Birmingham 3-2"
+id="215157897"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Birmingham 3-1"
+id="215157896"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Birmingham 3-0"
+id="215157895"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Birmingham 4-2"
+id="215157900"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Barnsley 4-2"
+id="215157864"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Barnsley 2-1"
+id="215157858"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Barnsley 3-2"
+id="215157861"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Barnsley 3-1"
+id="215157860"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Barnsley 4-1"
+id="215157863"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Barnsley 5-1"
+id="215157867"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Barnsley 4-3"
+id="215157865"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Birmingham 5-2"
+id="215157904"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Birmingham 4-3"
+id="215157901"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Birmingham 5-1"
+id="215157903"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215157888"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:11"
+handicap=""/>
+</market>
+<market
+id="52833279"
+name="Middlesbrough v Blackburn - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798314/Middlesbrough%2dv%2dBlackburn"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:27"
+>
+<participant
+name="Blackburn 4-2"
+id="215158385"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:24:23"
+handicap=""/>
+<participant
+name="Blackburn 2-0"
+id="215158378"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:12:46"
+handicap=""/>
+<participant
+name="Middlesbrough 2-0"
+id="215158342"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:24:22"
+handicap=""/>
+<participant
+name="Blackburn 3-0"
+id="215158380"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:24:23"
+handicap=""/>
+<participant
+name="Middlesbrough 4-0"
+id="215158347"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:24:23"
+handicap=""/>
+<participant
+name="Blackburn 3-2"
+id="215158382"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Blackburn 3-1"
+id="215158381"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Blackburn 4-1"
+id="215158384"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Blackburn 4-0"
+id="215158383"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Middlesbrough 1-0"
+id="215158341"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Blackburn 1-0"
+id="215158377"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Middlesbrough 2-1"
+id="215158343"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Middlesbrough 3-0"
+id="215158344"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Blackburn 2-1"
+id="215158379"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Middlesbrough 3-2"
+id="215158346"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Middlesbrough 3-1"
+id="215158345"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Middlesbrough 5-1"
+id="215158352"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Middlesbrough 5-0"
+id="215158351"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Middlesbrough 4-1"
+id="215158348"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Middlesbrough 4-2"
+id="215158349"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215158373"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215158372"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215158371"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215158374"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:22"
+handicap=""/>
+</market>
+<market
+id="52833280"
+name="Middlesbrough v Blackburn - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798314/Middlesbrough%2dv%2dBlackburn"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:26"
+>
+<participant
+name="Middlesbrough 1-0"
+id="215158419"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:41"
+handicap=""/>
+<participant
+name="Blackburn 2-0"
+id="215158445"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:01"
+handicap=""/>
+<participant
+name="Middlesbrough 2-0"
+id="215158420"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:01"
+handicap=""/>
+<participant
+name="Blackburn 1-0"
+id="215158444"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:41"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215158439"
+odds="1/5"
+oddsDecimal="1.20"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:41"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215158440"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:41"
+handicap=""/>
+</market>
+<market
+id="52833417"
+name="Bolton v Sheff Wed - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798312/Bolton%2dv%2dSheff%2dWed"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:08"
+>
+<participant
+name="Bolton 4-3"
+id="215158835"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Bolton 4-1"
+id="215158833"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:17:58"
+handicap=""/>
+<participant
+name="Sheff Wed 2-0"
+id="215158863"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:01"
+handicap=""/>
+<participant
+name="Bolton 5-1"
+id="215158837"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:02"
+handicap=""/>
+<participant
+name="Bolton 5-2"
+id="215158838"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:02"
+handicap=""/>
+<participant
+name="Sheff Wed 2-1"
+id="215158864"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:02"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215158859"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:00"
+handicap=""/>
+<participant
+name="Draw 4-4"
+id="215158860"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:00"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215158857"
+odds="19/5"
+oddsDecimal="4.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215158858"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Sheff Wed 1-0"
+id="215158862"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Sheff Wed 3-0"
+id="215158865"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Sheff Wed 3-2"
+id="215158867"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Sheff Wed 3-1"
+id="215158866"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Bolton 2-1"
+id="215158828"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Bolton 3-2"
+id="215158831"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Bolton 3-1"
+id="215158830"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Sheff Wed 4-0"
+id="215158868"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Sheff Wed 4-1"
+id="215158869"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Sheff Wed 4-2"
+id="215158870"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Sheff Wed 4-3"
+id="215158871"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Bolton 4-2"
+id="215158834"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Sheff Wed 5-0"
+id="215158872"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Sheff Wed 5-1"
+id="215158873"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Sheff Wed 5-2"
+id="215158874"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+</market>
+<market
+id="52833418"
+name="Bolton v Sheff Wed - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798312/Bolton%2dv%2dSheff%2dWed"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:07"
+>
+<participant
+name="Sheff Wed 2-0"
+id="215158930"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Bolton 3-1"
+id="215158908"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:18"
+handicap=""/>
+<participant
+name="Sheff Wed 3-0"
+id="215158932"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:18"
+handicap=""/>
+<participant
+name="Sheff Wed 2-1"
+id="215158931"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:18"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215158926"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Bolton 2-1"
+id="215158906"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215158925"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Sheff Wed 1-0"
+id="215158929"
+odds="3/10"
+oddsDecimal="1.30"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Sheff Wed 3-1"
+id="215158933"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+</market>
+<market
+id="52839185"
+name="Wolves v Peterborough - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798315/Wolves%2dv%2dPeterborough"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:03:28"
+>
+<participant
+name="Peterborough 5-1"
+id="215180329"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:43"
+handicap=""/>
+<participant
+name="Draw 4-4"
+id="215180316"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:43"
+handicap=""/>
+<participant
+name="Peterborough 4-0"
+id="215180324"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Wolves 6-1"
+id="215180298"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:23"
+handicap=""/>
+<participant
+name="Peterborough 2-1"
+id="215180320"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:19:02"
+handicap=""/>
+<participant
+name="Wolves 5-2"
+id="215180294"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:21"
+handicap=""/>
+<participant
+name="Peterborough 2-0"
+id="215180319"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:21"
+handicap=""/>
+<participant
+name="Peterborough 1-0"
+id="215180318"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:20"
+handicap=""/>
+<participant
+name="Peterborough 4-3"
+id="215180327"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:20"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215180314"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:20"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215180313"
+odds="17/5"
+oddsDecimal="4.40"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:20"
+handicap=""/>
+<participant
+name="Peterborough 3-0"
+id="215180321"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:20"
+handicap=""/>
+<participant
+name="Wolves 6-2"
+id="215180299"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:19"
+handicap=""/>
+<participant
+name="Peterborough 5-2"
+id="215180330"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:19"
+handicap=""/>
+<participant
+name="Peterborough 5-0"
+id="215180328"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:19"
+handicap=""/>
+<participant
+name="Wolves 5-1"
+id="215180293"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Wolves 4-3"
+id="215180291"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Wolves 3-1"
+id="215180286"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Wolves 4-2"
+id="215180290"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Wolves 4-1"
+id="215180289"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215180315"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Peterborough 4-1"
+id="215180325"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Peterborough 4-2"
+id="215180326"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Peterborough 3-2"
+id="215180323"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Peterborough 3-1"
+id="215180322"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Wolves 5-3"
+id="215180295"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:43"
+handicap=""/>
+<participant
+name="Wolves 2-1"
+id="215180284"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:43"
+handicap=""/>
+<participant
+name="Wolves 3-2"
+id="215180287"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:43"
+handicap=""/>
+</market>
+<market
+id="52841362"
+name="Huddersfield v Blackpool - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798309/Huddersfield%2dv%2dBlackpool"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:03:42"
+>
+<participant
+name="Blackpool 4-2"
+id="215187795"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Blackpool 3-0"
+id="215187790"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:07:21"
+handicap=""/>
+<participant
+name="Huddersfield 4-2"
+id="215187759"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:41"
+handicap=""/>
+<participant
+name="Huddersfield 1-0"
+id="215187751"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:41"
+handicap=""/>
+<participant
+name="Blackpool 5-0"
+id="215187797"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:41"
+handicap=""/>
+<participant
+name="Blackpool 2-1"
+id="215187789"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:41"
+handicap=""/>
+<participant
+name="Huddersfield 4-0"
+id="215187757"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Huddersfield 3-2"
+id="215187756"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Huddersfield 3-1"
+id="215187755"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Huddersfield 3-0"
+id="215187754"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Huddersfield 4-1"
+id="215187758"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Huddersfield 2-0"
+id="215187752"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Huddersfield 2-1"
+id="215187753"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Blackpool 5-1"
+id="215187798"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Blackpool 3-2"
+id="215187792"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Blackpool 3-1"
+id="215187791"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Blackpool 4-1"
+id="215187794"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Blackpool 4-0"
+id="215187793"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Blackpool 1-0"
+id="215187787"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215187784"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Blackpool 2-0"
+id="215187788"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215187783"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215187782"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215187781"
+odds="19/5"
+oddsDecimal="4.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+</market>
+<market
+id="52841363"
+name="Huddersfield v Blackpool - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798309/Huddersfield%2dv%2dBlackpool"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:03:41"
+>
+<participant
+name="Huddersfield 1-0"
+id="215187829"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:59"
+handicap=""/>
+<participant
+name="Huddersfield 2-1"
+id="215187831"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:01"
+handicap=""/>
+<participant
+name="Blackpool 2-1"
+id="215187856"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:43"
+handicap=""/>
+<participant
+name="Blackpool 1-0"
+id="215187854"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:59"
+handicap=""/>
+<participant
+name="Blackpool 2-0"
+id="215187855"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:59"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215187850"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:59"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215187849"
+odds="2/9"
+oddsDecimal="1.22"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:59"
+handicap=""/>
+<participant
+name="Huddersfield 2-0"
+id="215187830"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:59"
+handicap=""/>
+</market>
+<market
+id="52841556"
+name="Hull v Leicester - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798308/Hull%2dv%2dLeicester"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:37"
+>
+<participant
+name="Leicester 3-2"
+id="215188820"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:26"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215188809"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Leicester 3-0"
+id="215188818"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Leicester 4-0"
+id="215188821"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Leicester 4-1"
+id="215188822"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Leicester 3-1"
+id="215188819"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Hull 3-2"
+id="215188773"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:26"
+handicap=""/>
+<participant
+name="Hull 4-2"
+id="215188778"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:44"
+handicap=""/>
+<participant
+name="Hull 3-0"
+id="215188771"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:44"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215188806"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:44"
+handicap=""/>
+<participant
+name="Leicester 2-0"
+id="215188815"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:44"
+handicap=""/>
+<participant
+name="Leicester 4-2"
+id="215188823"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:44"
+handicap=""/>
+<participant
+name="Hull 4-1"
+id="215188776"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:01"
+handicap=""/>
+<participant
+name="Hull 2-1"
+id="215188769"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:01"
+handicap=""/>
+<participant
+name="Leicester 1-0"
+id="215188813"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:01"
+handicap=""/>
+<participant
+name="Leicester 2-1"
+id="215188816"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:01"
+handicap=""/>
+<participant
+name="Hull 3-1"
+id="215188772"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:01"
+handicap=""/>
+<participant
+name="Hull 4-0"
+id="215188775"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:01"
+handicap=""/>
+<participant
+name="Hull 2-0"
+id="215188768"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Hull 1-0"
+id="215188766"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215188804"
+odds="16/5"
+oddsDecimal="4.20"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215188807"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:25"
+handicap=""/>
+</market>
+<market
+id="52841557"
+name="Hull v Leicester - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798308/Hull%2dv%2dLeicester"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:36"
+>
+<participant
+name="Hull 2-0"
+id="215188866"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:21"
+handicap=""/>
+<participant
+name="Hull 1-0"
+id="215188865"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:21"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215188893"
+odds="1/9"
+oddsDecimal="1.11"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:21"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215188894"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:21"
+handicap=""/>
+<participant
+name="Leicester 1-0"
+id="215188898"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:21"
+handicap=""/>
+<participant
+name="Leicester 2-0"
+id="215188899"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:21"
+handicap=""/>
+</market>
+</type>
+<type
+id="293"
+name="English League 1"
+url="http://sports.williamhill.com/bet/betting/t/293"
+lastUpdateDate="2012-11-05"
+lastUpdateTime="05:15:58">
+<market
+id="52833816"
+name="Carlisle v Hartlepool - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798298/Carlisle%2dv%2dHartlepool"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:18"
+>
+<participant
+name="Hartlepool 3-2"
+id="215160289"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Carlisle 4-0"
+id="215160254"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:08"
+handicap=""/>
+<participant
+name="Carlisle 5-0"
+id="215160258"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:08"
+handicap=""/>
+<participant
+name="Carlisle 2-1"
+id="215160250"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:08"
+handicap=""/>
+<participant
+name="Hartlepool 4-2"
+id="215160292"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:08"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215160280"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:08"
+handicap=""/>
+<participant
+name="Draw 4-4"
+id="215160282"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:08"
+handicap=""/>
+<participant
+name="Carlisle 7-0"
+id="215160268"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:08"
+handicap=""/>
+<participant
+name="Carlisle 7-1"
+id="215160269"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:08"
+handicap=""/>
+<participant
+name="Carlisle 6-1"
+id="215160264"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:58"
+handicap=""/>
+<participant
+name="Carlisle 4-3"
+id="215160257"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:58"
+handicap=""/>
+<participant
+name="Carlisle 4-1"
+id="215160255"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:58"
+handicap=""/>
+<participant
+name="Carlisle 5-1"
+id="215160259"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Carlisle 5-2"
+id="215160260"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Carlisle 5-3"
+id="215160261"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Carlisle 6-0"
+id="215160263"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Carlisle 6-2"
+id="215160265"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Carlisle 4-2"
+id="215160256"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Carlisle 3-2"
+id="215160253"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Carlisle 3-0"
+id="215160251"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Carlisle 2-0"
+id="215160249"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Hartlepool 4-3"
+id="215160293"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215160281"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Carlisle 3-1"
+id="215160252"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:08"
+handicap=""/>
+</market>
+<market
+id="52833817"
+name="Carlisle v Hartlepool - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798298/Carlisle%2dv%2dHartlepool"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:18"
+>
+<participant
+name="Draw 2-2"
+id="215160348"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+<participant
+name="Carlisle 3-0"
+id="215160329"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Carlisle 2-1"
+id="215160328"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:18"
+handicap=""/>
+<participant
+name="Carlisle 2-0"
+id="215160327"
+odds="2/9"
+oddsDecimal="1.22"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:39"
+handicap=""/>
+<participant
+name="Carlisle 3-1"
+id="215160330"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+<participant
+name="Carlisle 4-0"
+id="215160332"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:38"
+handicap=""/>
+</market>
+<market
+id="52833954"
+name="Sheff Utd v Scunthorpe - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798301/Sheff%2dUtd%2dv%2dScunthorpe"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:12"
+>
+<participant
+name="Scunthorpe 3-2"
+id="215160773"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Sheff Utd 5-2"
+id="215160744"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Sheff Utd 5-1"
+id="215160743"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Sheff Utd 5-0"
+id="215160742"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:00"
+handicap=""/>
+<participant
+name="Sheff Utd 4-2"
+id="215160740"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:00"
+handicap=""/>
+<participant
+name="Sheff Utd 4-1"
+id="215160739"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:00"
+handicap=""/>
+<participant
+name="Sheff Utd 4-0"
+id="215160738"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:00"
+handicap=""/>
+<participant
+name="Sheff Utd 3-1"
+id="215160736"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:00"
+handicap=""/>
+<participant
+name="Sheff Utd 6-0"
+id="215160747"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:58"
+handicap=""/>
+<participant
+name="Sheff Utd 6-1"
+id="215160748"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:58"
+handicap=""/>
+<participant
+name="Scunthorpe 4-1"
+id="215160775"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:58"
+handicap=""/>
+<participant
+name="Sheff Utd 3-2"
+id="215160737"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:58"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215160764"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:24"
+handicap=""/>
+<participant
+name="Sheff Utd 4-3"
+id="215160741"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:24"
+handicap=""/>
+<participant
+name="Scunthorpe 4-3"
+id="215160777"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:25:55"
+handicap=""/>
+<participant
+name="Scunthorpe 4-2"
+id="215160776"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:25:54"
+handicap=""/>
+<participant
+name="Sheff Utd 3-0"
+id="215160735"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:25:54"
+handicap=""/>
+<participant
+name="Scunthorpe 2-1"
+id="215160770"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:18:00"
+handicap=""/>
+<participant
+name="Sheff Utd 2-1"
+id="215160734"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:08:21"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215160763"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Sheff Utd 2-0"
+id="215160733"
+odds="18/5"
+oddsDecimal="4.60"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Sheff Utd 1-0"
+id="215160732"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215160765"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Scunthorpe 3-1"
+id="215160772"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+</market>
+<market
+id="52833955"
+name="Sheff Utd v Scunthorpe - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798301/Sheff%2dUtd%2dv%2dScunthorpe"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:12"
+>
+<participant
+name="Sheff Utd 3-0"
+id="215160813"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:18"
+handicap=""/>
+<participant
+name="Scunthorpe 2-1"
+id="215160837"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215160831"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Sheff Utd 2-1"
+id="215160812"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Sheff Utd 2-0"
+id="215160811"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Sheff Utd 1-0"
+id="215160810"
+odds="2/11"
+oddsDecimal="1.18"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Sheff Utd 3-1"
+id="215160814"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:18"
+handicap=""/>
+</market>
+<market
+id="52834092"
+name="Shrewsbury v Notts County - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798300/Shrewsbury%2dv%2dNotts%2dCounty"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:42"
+>
+<participant
+name="Notts County 5-3"
+id="215161265"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:02"
+handicap=""/>
+<participant
+name="Shrewsbury 3-1"
+id="215161220"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:24:16"
+handicap=""/>
+<participant
+name="Notts County 3-1"
+id="215161256"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:24:16"
+handicap=""/>
+<participant
+name="Notts County 6-1"
+id="215161268"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:24:16"
+handicap=""/>
+<participant
+name="Shrewsbury 4-1"
+id="215161223"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:34"
+handicap=""/>
+<participant
+name="Notts County 5-1"
+id="215161263"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:40"
+handicap=""/>
+<participant
+name="Shrewsbury 5-3"
+id="215161229"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:41"
+handicap=""/>
+<participant
+name="Notts County 4-3"
+id="215161261"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Notts County 3-2"
+id="215161257"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Shrewsbury 3-2"
+id="215161221"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Notts County 4-1"
+id="215161259"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Notts County 4-2"
+id="215161260"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Shrewsbury 2-1"
+id="215161218"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Notts County 2-1"
+id="215161254"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Draw 4-4"
+id="215161250"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215161248"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215161249"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215161247"
+odds="19/5"
+oddsDecimal="4.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Notts County 6-2"
+id="215161269"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:02"
+handicap=""/>
+<participant
+name="Shrewsbury 5-1"
+id="215161227"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:02"
+handicap=""/>
+<participant
+name="Shrewsbury 4-3"
+id="215161225"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:02"
+handicap=""/>
+<participant
+name="Shrewsbury 4-2"
+id="215161224"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:02"
+handicap=""/>
+<participant
+name="Shrewsbury 5-2"
+id="215161228"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:02"
+handicap=""/>
+<participant
+name="Notts County 5-2"
+id="215161264"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:02"
+handicap=""/>
+</market>
+<market
+id="52834093"
+name="Shrewsbury v Notts County - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798300/Shrewsbury%2dv%2dNotts%2dCounty"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:41"
+>
+<participant
+name="Draw 2-2"
+id="215161316"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:02"
+handicap=""/>
+<participant
+name="Notts County 2-1"
+id="215161321"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:20"
+handicap=""/>
+<participant
+name="Notts County 3-1"
+id="215161323"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:20"
+handicap=""/>
+<participant
+name="Shrewsbury 3-1"
+id="215161298"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:20"
+handicap=""/>
+<participant
+name="Shrewsbury 2-1"
+id="215161296"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:20"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215161315"
+odds="1/5"
+oddsDecimal="1.20"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:20"
+handicap=""/>
+<participant
+name="Shrewsbury 3-2"
+id="215161299"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:19"
+handicap=""/>
+<participant
+name="Notts County 3-2"
+id="215161324"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:19"
+handicap=""/>
+</market>
+<market
+id="52834368"
+name="Oldham v Doncaster - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798303/Oldham%2dv%2dDoncaster"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:03:07"
+>
+<participant
+name="Oldham 6-1"
+id="215162200"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:18"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215162217"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Doncaster 2-1"
+id="215162222"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Oldham 3-2"
+id="215162189"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Doncaster 4-2"
+id="215162228"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:03"
+handicap=""/>
+<participant
+name="Draw 4-4"
+id="215162218"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:18"
+handicap=""/>
+<participant
+name="Oldham 4-1"
+id="215162191"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:18"
+handicap=""/>
+<participant
+name="Oldham 4-3"
+id="215162193"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:18"
+handicap=""/>
+<participant
+name="Oldham 5-1"
+id="215162195"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:18"
+handicap=""/>
+<participant
+name="Oldham 5-2"
+id="215162196"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:18"
+handicap=""/>
+<participant
+name="Oldham 3-1"
+id="215162188"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:18"
+handicap=""/>
+<participant
+name="Oldham 2-1"
+id="215162186"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:18"
+handicap=""/>
+<participant
+name="Doncaster 4-3"
+id="215162229"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:18"
+handicap=""/>
+<participant
+name="Doncaster 3-2"
+id="215162225"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:18"
+handicap=""/>
+<participant
+name="Doncaster 3-1"
+id="215162224"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:03"
+handicap=""/>
+<participant
+name="Oldham 5-3"
+id="215162197"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:04"
+handicap=""/>
+<participant
+name="Doncaster 5-1"
+id="215162231"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:30"
+handicap=""/>
+<participant
+name="Doncaster 5-2"
+id="215162232"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:30"
+handicap=""/>
+<participant
+name="Doncaster 5-3"
+id="215162233"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:30"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215162216"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:30"
+handicap=""/>
+<participant
+name="Doncaster 4-1"
+id="215162227"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:29"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215162215"
+odds="10/3"
+oddsDecimal="4.33"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:18"
+handicap=""/>
+<participant
+name="Oldham 4-2"
+id="215162192"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:18"
+handicap=""/>
+</market>
+<market
+id="52834369"
+name="Oldham v Doncaster - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798303/Oldham%2dv%2dDoncaster"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:03:06"
+>
+<participant
+name="Doncaster 2-1"
+id="215162289"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:41"
+handicap=""/>
+<participant
+name="Oldham 3-1"
+id="215162266"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:40"
+handicap=""/>
+<participant
+name="Oldham 2-1"
+id="215162264"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:40"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215162283"
+odds="2/9"
+oddsDecimal="1.22"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:40"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215162284"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:40"
+handicap=""/>
+<participant
+name="Oldham 3-2"
+id="215162267"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:43"
+handicap=""/>
+<participant
+name="Doncaster 3-1"
+id="215162291"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:41"
+handicap=""/>
+</market>
+<market
+id="52834506"
+name="Preston v Bury - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798302/Preston%2dv%2dBury"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:32"
+>
+<participant
+name="Bury 2-0"
+id="215162705"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:39"
+handicap=""/>
+<participant
+name="Preston 3-1"
+id="215162672"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:41"
+handicap=""/>
+<participant
+name="Bury 1-0"
+id="215162704"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:39"
+handicap=""/>
+<participant
+name="Preston 1-0"
+id="215162668"
+odds="17/5"
+oddsDecimal="4.40"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:39"
+handicap=""/>
+<participant
+name="Preston 3-2"
+id="215162673"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:41"
+handicap=""/>
+<participant
+name="Preston 4-0"
+id="215162674"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:41"
+handicap=""/>
+<participant
+name="Preston 4-1"
+id="215162675"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:41"
+handicap=""/>
+<participant
+name="Preston 4-2"
+id="215162676"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:40"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215162701"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:40"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215162700"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:39"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215162698"
+odds="18/5"
+oddsDecimal="4.60"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:39"
+handicap=""/>
+<participant
+name="Bury 3-2"
+id="215162709"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:39"
+handicap=""/>
+<participant
+name="Preston 3-0"
+id="215162671"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:01"
+handicap=""/>
+<participant
+name="Preston 5-0"
+id="215162678"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:01"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215162699"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:00"
+handicap=""/>
+<participant
+name="Bury 3-1"
+id="215162708"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:00"
+handicap=""/>
+<participant
+name="Preston 2-1"
+id="215162670"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:00"
+handicap=""/>
+<participant
+name="Preston 5-1"
+id="215162679"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:50"
+handicap=""/>
+<participant
+name="Bury 4-1"
+id="215162711"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:50"
+handicap=""/>
+<participant
+name="Preston 2-0"
+id="215162669"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:50"
+handicap=""/>
+<participant
+name="Bury 4-0"
+id="215162710"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:20:40"
+handicap=""/>
+<participant
+name="Bury 3-0"
+id="215162707"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:39"
+handicap=""/>
+<participant
+name="Bury 2-1"
+id="215162706"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:39"
+handicap=""/>
+</market>
+<market
+id="52834507"
+name="Preston v Bury - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798302/Preston%2dv%2dBury"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:32"
+>
+<participant
+name="Bury 2-0"
+id="215162772"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:58"
+handicap=""/>
+<participant
+name="Preston 2-1"
+id="215162748"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:00"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215162767"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:58"
+handicap=""/>
+<participant
+name="Preston 2-0"
+id="215162747"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:58"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215162766"
+odds="2/9"
+oddsDecimal="1.22"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:58"
+handicap=""/>
+<participant
+name="Bury 1-0"
+id="215162771"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:58"
+handicap=""/>
+<participant
+name="Preston 1-0"
+id="215162746"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:58"
+handicap=""/>
+</market>
+<market
+id="52834644"
+name="MK Dons v Walsall - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798306/MK%2dDons%2dv%2dWalsall"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:52"
+>
+<participant
+name="MK Dons 6-3"
+id="215163170"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Walsall 6-4"
+id="215163207"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:40"
+handicap=""/>
+<participant
+name="MK Dons 3-2"
+id="215163157"
+odds="18/5"
+oddsDecimal="4.60"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Walsall 5-3"
+id="215163201"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="MK Dons 4-3"
+id="215163161"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="MK Dons 4-2"
+id="215163160"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215163184"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Draw 4-4"
+id="215163186"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Walsall 4-3"
+id="215163197"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Draw 5-5"
+id="215163187"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:53"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215163185"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:53"
+handicap=""/>
+<participant
+name="MK Dons 7-2"
+id="215163174"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:59"
+handicap=""/>
+<participant
+name="MK Dons 5-4"
+id="215163166"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="MK Dons 5-3"
+id="215163165"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="Walsall 6-2"
+id="215163205"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:40"
+handicap=""/>
+<participant
+name="MK Dons 6-2"
+id="215163169"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:59"
+handicap=""/>
+<participant
+name="Walsall 6-3"
+id="215163206"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:40"
+handicap=""/>
+<participant
+name="Walsall 5-2"
+id="215163200"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:40"
+handicap=""/>
+<participant
+name="Walsall 5-4"
+id="215163202"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:40"
+handicap=""/>
+<participant
+name="Walsall 3-2"
+id="215163193"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:59"
+handicap=""/>
+<participant
+name="Walsall 4-2"
+id="215163196"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:59"
+handicap=""/>
+<participant
+name="MK Dons 8-2"
+id="215163178"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:59"
+handicap=""/>
+<participant
+name="MK Dons 5-2"
+id="215163164"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:59"
+handicap=""/>
+<participant
+name="MK Dons 7-3"
+id="215163175"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+<participant
+name="MK Dons 6-4"
+id="215163171"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:01"
+handicap=""/>
+</market>
+<market
+id="52834645"
+name="MK Dons v Walsall - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798306/MK%2dDons%2dv%2dWalsall"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:52"
+>
+<participant
+name="Walsall 4-2"
+id="215163263"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215163252"
+odds="3/10"
+oddsDecimal="1.30"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="MK Dons 4-2"
+id="215163238"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Walsall 3-2"
+id="215163260"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="MK Dons 3-2"
+id="215163235"
+odds="18/5"
+oddsDecimal="4.60"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Walsall 4-3"
+id="215163264"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:59"
+handicap=""/>
+<participant
+name="MK Dons 5-2"
+id="215163242"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+<participant
+name="MK Dons 4-3"
+id="215163239"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215163253"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+</market>
+<market
+id="52834782"
+name="Stevenage v Coventry - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798299/Stevenage%2dv%2dCoventry"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:36"
+>
+<participant
+name="Stevenage 5-0"
+id="215163646"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Stevenage 5-2"
+id="215163648"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Coventry 3-1"
+id="215163676"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="Coventry 3-2"
+id="215163677"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="Coventry 2-1"
+id="215163674"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:21"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215163668"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:21"
+handicap=""/>
+<participant
+name="Stevenage 2-0"
+id="215163637"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:21"
+handicap=""/>
+<participant
+name="Stevenage 3-0"
+id="215163639"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:21"
+handicap=""/>
+<participant
+name="Stevenage 5-1"
+id="215163647"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:21"
+handicap=""/>
+<participant
+name="Coventry 5-1"
+id="215163683"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:21"
+handicap=""/>
+<participant
+name="Coventry 5-2"
+id="215163684"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:21"
+handicap=""/>
+<participant
+name="Coventry 4-3"
+id="215163681"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:21"
+handicap=""/>
+<participant
+name="Coventry 4-1"
+id="215163679"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:21"
+handicap=""/>
+<participant
+name="Coventry 4-2"
+id="215163680"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:21"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215163669"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:42"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215163667"
+odds="17/5"
+oddsDecimal="4.40"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:42"
+handicap=""/>
+<participant
+name="Stevenage 2-1"
+id="215163638"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:42"
+handicap=""/>
+<participant
+name="Stevenage 1-0"
+id="215163636"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:42"
+handicap=""/>
+<participant
+name="Stevenage 3-1"
+id="215163640"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Stevenage 4-0"
+id="215163642"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Stevenage 3-2"
+id="215163641"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Stevenage 4-2"
+id="215163644"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Stevenage 4-1"
+id="215163643"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+<participant
+name="Stevenage 4-3"
+id="215163645"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:43"
+handicap=""/>
+</market>
+<market
+id="52834783"
+name="Stevenage v Coventry - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798299/Stevenage%2dv%2dCoventry"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:36"
+>
+<participant
+name="Stevenage 1-0"
+id="215163714"
+odds="2/9"
+oddsDecimal="1.22"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Stevenage 2-0"
+id="215163715"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Coventry 2-1"
+id="215163741"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Stevenage 2-1"
+id="215163716"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Stevenage 3-0"
+id="215163717"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215163735"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Stevenage 3-1"
+id="215163718"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:59"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215163736"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:25"
+handicap=""/>
+</market>
+<market
+id="52850200"
+name="Colchester v Brentford - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798296/Colchester%2dv%2dBrentford"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="14:59:48"
+>
+<participant
+name="Brentford 4-1"
+id="215213950"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:22:13"
+handicap=""/>
+<participant
+name="Brentford 7-1"
+id="215213964"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Brentford 7-3"
+id="215213966"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Brentford 6-3"
+id="215213961"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Brentford 2-1"
+id="215213945"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215213939"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Brentford 5-1"
+id="215213954"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Brentford 5-2"
+id="215213955"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Brentford 5-3"
+id="215213956"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Brentford 3-1"
+id="215213947"
+odds="7/2"
+oddsDecimal="4.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Brentford 4-2"
+id="215213951"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Brentford 8-2"
+id="215213969"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215213940"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:04"
+handicap=""/>
+<participant
+name="Colchester 4-3"
+id="215213916"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:22:13"
+handicap=""/>
+<participant
+name="Colchester 4-2"
+id="215213915"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:22:13"
+handicap=""/>
+<participant
+name="Draw 4-4"
+id="215213941"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:22:13"
+handicap=""/>
+<participant
+name="Brentford 5-4"
+id="215213957"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:22:13"
+handicap=""/>
+<participant
+name="Brentford 6-1"
+id="215213959"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:22:13"
+handicap=""/>
+<participant
+name="Brentford 7-2"
+id="215213965"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:22:13"
+handicap=""/>
+<participant
+name="Brentford 6-2"
+id="215213960"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:22:13"
+handicap=""/>
+<participant
+name="Brentford 4-3"
+id="215213952"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:22:13"
+handicap=""/>
+<participant
+name="Colchester 3-2"
+id="215213912"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:22:13"
+handicap=""/>
+<participant
+name="Brentford 3-2"
+id="215213948"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:22:13"
+handicap=""/>
+<participant
+name="Brentford 8-1"
+id="215213968"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:11:21"
+handicap=""/>
+</market>
+<market
+id="52850201"
+name="Colchester v Brentford - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798296/Colchester%2dv%2dBrentford"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:05:06"
+>
+<participant
+name="Brentford 3-1"
+id="215214014"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:58"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215214007"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:01"
+handicap=""/>
+<participant
+name="Colchester 3-2"
+id="215213990"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:01"
+handicap=""/>
+<participant
+name="Brentford 3-2"
+id="215214015"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:01"
+handicap=""/>
+<participant
+name="Brentford 2-1"
+id="215214012"
+odds="1/4"
+oddsDecimal="1.25"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:01"
+handicap=""/>
+<participant
+name="Brentford 5-1"
+id="215214021"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:58"
+handicap=""/>
+<participant
+name="Brentford 4-2"
+id="215214018"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:58"
+handicap=""/>
+<participant
+name="Brentford 4-1"
+id="215214017"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:58"
+handicap=""/>
+</market>
+</type>
+<type
+id="294"
+name="English League 2"
+url="http://sports.williamhill.com/bet/betting/t/294"
+lastUpdateDate="2012-11-05"
+lastUpdateTime="05:15:59">
+<market
+id="52850338"
+name="Burton v Rochdale - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798288/Burton%2dv%2dRochdale"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:02"
+>
+<participant
+name="Draw 4-4"
+id="215214610"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:15"
+handicap=""/>
+<participant
+name="Rochdale 4-2"
+id="215214620"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:15"
+handicap=""/>
+<participant
+name="Burton 3-2"
+id="215214581"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:15"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215214609"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:09"
+handicap=""/>
+<participant
+name="Burton 2-1"
+id="215214578"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:09"
+handicap=""/>
+<participant
+name="Burton 4-1"
+id="215214583"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:09"
+handicap=""/>
+<participant
+name="Burton 3-0"
+id="215214579"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:09"
+handicap=""/>
+<participant
+name="Burton 3-1"
+id="215214580"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:09"
+handicap=""/>
+<participant
+name="Burton 4-3"
+id="215214585"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:09"
+handicap=""/>
+<participant
+name="Burton 5-2"
+id="215214588"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:09"
+handicap=""/>
+<participant
+name="Burton 5-1"
+id="215214587"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:09"
+handicap=""/>
+<participant
+name="Burton 6-1"
+id="215214592"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:09"
+handicap=""/>
+<participant
+name="Burton 6-2"
+id="215214593"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:09"
+handicap=""/>
+<participant
+name="Burton 6-0"
+id="215214591"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:09"
+handicap=""/>
+<participant
+name="Burton 5-3"
+id="215214589"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:09"
+handicap=""/>
+<participant
+name="Burton 4-2"
+id="215214584"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:09"
+handicap=""/>
+<participant
+name="Rochdale 4-3"
+id="215214621"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:09"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215214608"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:14"
+handicap=""/>
+<participant
+name="Burton 2-0"
+id="215214577"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:09"
+handicap=""/>
+<participant
+name="Rochdale 3-2"
+id="215214617"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:14"
+handicap=""/>
+<participant
+name="Burton 4-0"
+id="215214582"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:14"
+handicap=""/>
+<participant
+name="Burton 5-0"
+id="215214586"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:26:14"
+handicap=""/>
+</market>
+</type>
+<type
+id="295"
+name="English Premier League"
+url="http://sports.williamhill.com/bet/betting/t/295"
+lastUpdateDate="2012-11-05"
+lastUpdateTime="05:15:24">
+<market
+id="52835334"
+name="Sunderland v Man City - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798275/Sunderland%2dv%2dMan%2dCity"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:23"
+>
+<participant
+name="Sunderland 3-1"
+id="215165092"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:46"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215165119"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:15:42"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215165118"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:00"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215165120"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:00"
+handicap=""/>
+<participant
+name="Sunderland 2-0"
+id="215165089"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:00"
+handicap=""/>
+<participant
+name="Man City 2-0"
+id="215165125"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:00"
+handicap=""/>
+<participant
+name="Man City 1-0"
+id="215165124"
+odds="3/1"
+oddsDecimal="4.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:00"
+handicap=""/>
+<participant
+name="Man City 3-2"
+id="215165129"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:00"
+handicap=""/>
+<participant
+name="Man City 4-0"
+id="215165130"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:00"
+handicap=""/>
+<participant
+name="Man City 3-0"
+id="215165127"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:00"
+handicap=""/>
+<participant
+name="Man City 3-1"
+id="215165128"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:00"
+handicap=""/>
+<participant
+name="Man City 4-2"
+id="215165132"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:00"
+handicap=""/>
+<participant
+name="Man City 4-1"
+id="215165131"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:00"
+handicap=""/>
+<participant
+name="Man City 5-1"
+id="215165135"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:00"
+handicap=""/>
+<participant
+name="Sunderland 2-1"
+id="215165090"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:46"
+handicap=""/>
+<participant
+name="Sunderland 3-0"
+id="215165091"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:46"
+handicap=""/>
+<participant
+name="Sunderland 3-2"
+id="215165093"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:46"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215165121"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:46"
+handicap=""/>
+<participant
+name="Man City 2-1"
+id="215165126"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:46"
+handicap=""/>
+<participant
+name="Sunderland 1-0"
+id="215165088"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:33"
+handicap=""/>
+<participant
+name="Man City 5-0"
+id="215165134"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:33"
+handicap=""/>
+<participant
+name="Man City 6-0"
+id="215165139"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:33"
+handicap=""/>
+</market>
+<market
+id="52835335"
+name="Sunderland v Man City - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798275/Sunderland%2dv%2dMan%2dCity"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:22"
+>
+<participant
+name="Man City 2-1"
+id="215165193"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:41"
+handicap=""/>
+<participant
+name="Man City 3-0"
+id="215165194"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:41"
+handicap=""/>
+<participant
+name="Sunderland 1-0"
+id="215165166"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:18"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215165187"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:18"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215165186"
+odds="2/9"
+oddsDecimal="1.22"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:18"
+handicap=""/>
+<participant
+name="Man City 2-0"
+id="215165192"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:18"
+handicap=""/>
+<participant
+name="Sunderland 2-0"
+id="215165167"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:18"
+handicap=""/>
+<participant
+name="Man City 1-0"
+id="215165191"
+odds="15/4"
+oddsDecimal="4.75"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:18"
+handicap=""/>
+</market>
+<market
+id="52835472"
+name="Man Utd v Newcastle - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798277/Man%2dUtd%2dv%2dNewcastle"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:46"
+>
+<participant
+name="Man Utd 3-2"
+id="215165877"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:34"
+handicap=""/>
+<participant
+name="Newcastle 4-2"
+id="215165916"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:34"
+handicap=""/>
+<participant
+name="Man Utd 6-4"
+id="215165891"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:34"
+handicap=""/>
+<participant
+name="Man Utd 5-4"
+id="215165886"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:34"
+handicap=""/>
+<participant
+name="Newcastle 5-3"
+id="215165921"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:34"
+handicap=""/>
+<participant
+name="Newcastle 5-2"
+id="215165920"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:34"
+handicap=""/>
+<participant
+name="Newcastle 5-4"
+id="215165922"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:34"
+handicap=""/>
+<participant
+name="Man Utd 4-3"
+id="215165881"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:34"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215165905"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:34"
+handicap=""/>
+<participant
+name="Draw 4-4"
+id="215165906"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:34"
+handicap=""/>
+<participant
+name="Newcastle 3-1"
+id="215165912"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="Newcastle 4-1"
+id="215165915"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="Newcastle 2-1"
+id="215165910"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="Newcastle 5-1"
+id="215165919"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:42"
+handicap=""/>
+<participant
+name="Man Utd 7-3"
+id="215165895"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:42"
+handicap=""/>
+<participant
+name="Man Utd 6-3"
+id="215165890"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:42"
+handicap=""/>
+<participant
+name="Newcastle 4-3"
+id="215165917"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:42"
+handicap=""/>
+<participant
+name="Man Utd 5-3"
+id="215165885"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:20"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215165904"
+odds="17/5"
+oddsDecimal="4.40"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:20"
+handicap=""/>
+<participant
+name="Man Utd 5-2"
+id="215165884"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="Man Utd 4-2"
+id="215165880"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="Man Utd 7-2"
+id="215165894"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="Man Utd 6-2"
+id="215165889"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="Man Utd 8-2"
+id="215165898"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="Newcastle 3-2"
+id="215165913"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+</market>
+<market
+id="52835473"
+name="Man Utd v Newcastle - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798277/Man%2dUtd%2dv%2dNewcastle"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:42"
+>
+<participant
+name="Draw 3-3"
+id="215165973"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+<participant
+name="Newcastle 4-2"
+id="215165983"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:24"
+handicap=""/>
+<participant
+name="Newcastle 4-1"
+id="215165982"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Newcastle 2-1"
+id="215165977"
+odds="4/11"
+oddsDecimal="1.36"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215165972"
+odds="3/1"
+oddsDecimal="4.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:24"
+handicap=""/>
+<participant
+name="Newcastle 3-1"
+id="215165979"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:24"
+handicap=""/>
+<participant
+name="Newcastle 3-2"
+id="215165980"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:24"
+handicap=""/>
+<participant
+name="Man Utd 4-2"
+id="215165958"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:24"
+handicap=""/>
+<participant
+name="Man Utd 3-2"
+id="215165955"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:24"
+handicap=""/>
+</market>
+<market
+id="52835610"
+name="Everton v Wigan - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798279/Everton%2dv%2dWigan"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:15"
+>
+<participant
+name="Everton 5-1"
+id="215166553"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:01"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215166573"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:11"
+handicap=""/>
+<participant
+name="Wigan 3-0"
+id="215166581"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:01"
+handicap=""/>
+<participant
+name="Everton 3-0"
+id="215166545"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:01"
+handicap=""/>
+<participant
+name="Everton 2-0"
+id="215166543"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:01"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215166575"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:01"
+handicap=""/>
+<participant
+name="Everton 4-2"
+id="215166550"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:58"
+handicap=""/>
+<participant
+name="Everton 4-0"
+id="215166548"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:58"
+handicap=""/>
+<participant
+name="Wigan 1-0"
+id="215166578"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:58"
+handicap=""/>
+<participant
+name="Everton 5-0"
+id="215166552"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:59"
+handicap=""/>
+<participant
+name="Everton 4-1"
+id="215166549"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:59"
+handicap=""/>
+<participant
+name="Wigan 3-2"
+id="215166583"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Everton 3-2"
+id="215166547"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Everton 3-1"
+id="215166546"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Wigan 3-1"
+id="215166582"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Everton 2-1"
+id="215166544"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Wigan 2-1"
+id="215166580"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Everton 1-0"
+id="215166542"
+odds="3/1"
+oddsDecimal="4.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215166574"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Wigan 2-0"
+id="215166579"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215166572"
+odds="19/5"
+oddsDecimal="4.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+</market>
+<market
+id="52835611"
+name="Everton v Wigan - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798279/Everton%2dv%2dWigan"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:11"
+>
+<participant
+name="Everton 2-0"
+id="215166621"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+<participant
+name="Everton 2-1"
+id="215166622"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:40"
+handicap=""/>
+<participant
+name="Wigan 1-0"
+id="215166645"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+<participant
+name="Wigan 2-0"
+id="215166646"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215166641"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215166640"
+odds="2/9"
+oddsDecimal="1.22"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+<participant
+name="Everton 1-0"
+id="215166620"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:21"
+handicap=""/>
+</market>
+<market
+id="52835748"
+name="Norwich v Chelsea - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798280/Norwich%2dv%2dChelsea"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:57"
+>
+<participant
+name="Chelsea 4-0"
+id="215167068"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:25:55"
+handicap=""/>
+<participant
+name="Chelsea 3-1"
+id="215167066"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:05"
+handicap=""/>
+<participant
+name="Norwich 4-1"
+id="215167033"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:05"
+handicap=""/>
+<participant
+name="Norwich 3-2"
+id="215167031"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:05"
+handicap=""/>
+<participant
+name="Norwich 3-1"
+id="215167030"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:05"
+handicap=""/>
+<participant
+name="Chelsea 4-2"
+id="215167070"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:05"
+handicap=""/>
+<participant
+name="Norwich 2-0"
+id="215167027"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:23"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215167057"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:23"
+handicap=""/>
+<participant
+name="Chelsea 5-1"
+id="215167073"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:25:55"
+handicap=""/>
+<participant
+name="Chelsea 1-0"
+id="215167062"
+odds="17/5"
+oddsDecimal="4.40"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:20"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215167059"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:20"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215167058"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:20"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215167056"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:20"
+handicap=""/>
+<participant
+name="Chelsea 4-1"
+id="215167069"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="Chelsea 2-0"
+id="215167063"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="Norwich 3-0"
+id="215167029"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="Chelsea 3-0"
+id="215167065"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="Norwich 1-0"
+id="215167026"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:19"
+handicap=""/>
+<participant
+name="Chelsea 5-0"
+id="215167072"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:19"
+handicap=""/>
+<participant
+name="Chelsea 3-2"
+id="215167067"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:05"
+handicap=""/>
+<participant
+name="Chelsea 2-1"
+id="215167064"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:05"
+handicap=""/>
+<participant
+name="Norwich 2-1"
+id="215167028"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:05"
+handicap=""/>
+</market>
+<market
+id="52835749"
+name="Norwich v Chelsea - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798280/Norwich%2dv%2dChelsea"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:56"
+>
+<participant
+name="Chelsea 3-0"
+id="215167132"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="Chelsea 2-1"
+id="215167131"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215167125"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:41"
+handicap=""/>
+<participant
+name="Norwich 1-0"
+id="215167104"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:41"
+handicap=""/>
+<participant
+name="Chelsea 2-0"
+id="215167130"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:41"
+handicap=""/>
+<participant
+name="Chelsea 1-0"
+id="215167129"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:42"
+handicap=""/>
+<participant
+name="Norwich 2-0"
+id="215167105"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:42"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215167124"
+odds="2/9"
+oddsDecimal="1.22"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:42"
+handicap=""/>
+</market>
+<market
+id="52835886"
+name="Reading v Swansea - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798274/Reading%2dv%2dSwansea"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:24"
+>
+<participant
+name="Swansea 1-0"
+id="215167546"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:01"
+handicap=""/>
+<participant
+name="Reading 1-0"
+id="215167510"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:01"
+handicap=""/>
+<participant
+name="Reading 3-0"
+id="215167513"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:01"
+handicap=""/>
+<participant
+name="Reading 3-1"
+id="215167514"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:02"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215167540"
+odds="10/3"
+oddsDecimal="4.33"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:02"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215167543"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:02"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215167542"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:02"
+handicap=""/>
+<participant
+name="Reading 2-0"
+id="215167511"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:02"
+handicap=""/>
+<participant
+name="Swansea 4-1"
+id="215167553"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:02"
+handicap=""/>
+<participant
+name="Swansea 3-1"
+id="215167550"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:01"
+handicap=""/>
+<participant
+name="Swansea 3-0"
+id="215167549"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:01"
+handicap=""/>
+<participant
+name="Swansea 4-0"
+id="215167552"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:01"
+handicap=""/>
+<participant
+name="Swansea 3-2"
+id="215167551"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:01"
+handicap=""/>
+<participant
+name="Reading 2-1"
+id="215167512"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:01"
+handicap=""/>
+<participant
+name="Swansea 2-1"
+id="215167548"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:01"
+handicap=""/>
+<participant
+name="Swansea 4-2"
+id="215167554"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:01"
+handicap=""/>
+<participant
+name="Reading 3-2"
+id="215167515"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:01"
+handicap=""/>
+<participant
+name="Reading 4-1"
+id="215167517"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:01"
+handicap=""/>
+<participant
+name="Reading 4-0"
+id="215167516"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:01"
+handicap=""/>
+<participant
+name="Swansea 2-0"
+id="215167547"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:25"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215167541"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:25"
+handicap=""/>
+<participant
+name="Swansea 5-0"
+id="215167556"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:25"
+handicap=""/>
+<participant
+name="Reading 4-2"
+id="215167518"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:20:26"
+handicap=""/>
+</market>
+<market
+id="52835887"
+name="Reading v Swansea - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798274/Reading%2dv%2dSwansea"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:00:23"
+>
+<participant
+name="Draw 0-0"
+id="215167608"
+odds="2/11"
+oddsDecimal="1.18"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:38"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215167609"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:38"
+handicap=""/>
+<participant
+name="Reading 1-0"
+id="215167588"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:38"
+handicap=""/>
+<participant
+name="Reading 2-0"
+id="215167589"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:38"
+handicap=""/>
+<participant
+name="Swansea 1-0"
+id="215167613"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:38"
+handicap=""/>
+<participant
+name="Swansea 2-0"
+id="215167614"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:38"
+handicap=""/>
+<participant
+name="Swansea 2-1"
+id="215167615"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:20"
+handicap=""/>
+</market>
+<market
+id="52836162"
+name="Fulham v Southampton - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798278/Fulham%2dv%2dSouthampton"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:13"
+>
+<participant
+name="Draw 3-3"
+id="215168326"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="Fulham 2-1"
+id="215168295"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:09:48"
+handicap=""/>
+<participant
+name="Fulham 6-0"
+id="215168308"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:18:19"
+handicap=""/>
+<participant
+name="Fulham 6-1"
+id="215168309"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:18:19"
+handicap=""/>
+<participant
+name="Southampton 2-1"
+id="215168331"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:21:20"
+handicap=""/>
+<participant
+name="Southampton 4-1"
+id="215168336"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:21:21"
+handicap=""/>
+<participant
+name="Fulham 4-0"
+id="215168299"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:21:21"
+handicap=""/>
+<participant
+name="Southampton 4-3"
+id="215168338"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:19"
+handicap=""/>
+<participant
+name="Fulham 3-0"
+id="215168296"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:19"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215168325"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:41"
+handicap=""/>
+<participant
+name="Southampton 3-1"
+id="215168333"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="Southampton 3-2"
+id="215168334"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215168324"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="Southampton 4-2"
+id="215168337"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="Fulham 3-1"
+id="215168297"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="Fulham 3-2"
+id="215168298"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="Fulham 4-1"
+id="215168300"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="Fulham 4-2"
+id="215168301"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="Fulham 2-0"
+id="215168294"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="Fulham 1-0"
+id="215168293"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="Fulham 5-2"
+id="215168305"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="Fulham 5-1"
+id="215168304"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="Fulham 5-0"
+id="215168303"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="Fulham 4-3"
+id="215168302"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+</market>
+<market
+id="52836163"
+name="Fulham v Southampton - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798278/Fulham%2dv%2dSouthampton"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:12"
+>
+<participant
+name="Fulham 3-0"
+id="215168374"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:02"
+handicap=""/>
+<participant
+name="Fulham 1-0"
+id="215168371"
+odds="1/5"
+oddsDecimal="1.20"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:02"
+handicap=""/>
+<participant
+name="Fulham 2-1"
+id="215168373"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:02"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215168393"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:18"
+handicap=""/>
+<participant
+name="Fulham 2-0"
+id="215168372"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:02"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215168392"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:02"
+handicap=""/>
+<participant
+name="Southampton 2-1"
+id="215168398"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:02"
+handicap=""/>
+<participant
+name="Fulham 3-1"
+id="215168375"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:19"
+handicap=""/>
+</market>
+<market
+id="52836024"
+name="QPR v West Brom - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798273/QPR%2dv%2dWest%2dBrom"
+date="2012-12-26"
+time="15:11:00"
+betTillDate="2012-12-26"
+betTillTime="15:11:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:11:37"
+>
+<participant
+name="West Brom 3-1"
+id="215168034"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="West Brom 4-2"
+id="215168038"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:22"
+handicap=""/>
+<participant
+name="QPR 2-0"
+id="215167995"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="QPR 1-0"
+id="215167994"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="QPR 4-1"
+id="215168001"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="QPR 4-2"
+id="215168002"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:22"
+handicap=""/>
+<participant
+name="West Brom 3-0"
+id="215168033"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:21"
+handicap=""/>
+<participant
+name="QPR 3-1"
+id="215167998"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="West Brom 3-2"
+id="215168035"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="QPR 3-2"
+id="215167999"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="QPR 2-1"
+id="215167996"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="West Brom 2-1"
+id="215168032"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="West Brom 4-1"
+id="215168037"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="West Brom 4-0"
+id="215168036"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="West Brom 1-0"
+id="215168030"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215168025"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215168026"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215168027"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215168024"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:58"
+handicap=""/>
+<participant
+name="QPR 5-1"
+id="215168005"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:16:42"
+handicap=""/>
+<participant
+name="QPR 3-0"
+id="215167997"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:16:42"
+handicap=""/>
+<participant
+name="West Brom 2-0"
+id="215168031"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:16:42"
+handicap=""/>
+<participant
+name="QPR 4-0"
+id="215168000"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:21:44"
+handicap=""/>
+<participant
+name="QPR 5-0"
+id="215168004"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:21"
+handicap=""/>
+</market>
+<market
+id="52836025"
+name="QPR v West Brom - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798273/QPR%2dv%2dWest%2dBrom"
+date="2012-12-26"
+time="15:11:00"
+betTillDate="2012-12-26"
+betTillTime="15:11:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:11:37"
+>
+<participant
+name="QPR 2-0"
+id="215168073"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="QPR 2-1"
+id="215168074"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="West Brom 2-1"
+id="215168099"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="QPR 3-0"
+id="215168075"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215168093"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215168092"
+odds="1/2"
+oddsDecimal="1.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="QPR 1-0"
+id="215168072"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:57"
+handicap=""/>
+<participant
+name="West Brom 3-0"
+id="215168100"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:21"
+handicap=""/>
+<participant
+name="West Brom 2-0"
+id="215168098"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+<participant
+name="West Brom 1-0"
+id="215168097"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:42"
+handicap=""/>
+</market>
+</type>
+<type
+id="297"
+name="Scottish Premier League"
+url="http://sports.williamhill.com/bet/betting/t/297"
+lastUpdateDate="2012-11-05"
+lastUpdateTime="05:17:37">
+<market
+id="52838493"
+name="Hibernian v Ross County - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798238/Hibernian%2dv%2dRoss%2dCounty"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:45"
+>
+<participant
+name="Hibernian 1-0"
+id="215177716"
+odds="18/5"
+oddsDecimal="4.60"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:38"
+handicap=""/>
+<participant
+name="Hibernian 5-0"
+id="215177726"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:21:42"
+handicap=""/>
+<participant
+name="Hibernian 5-1"
+id="215177727"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:21:42"
+handicap=""/>
+<participant
+name="Ross County 4-0"
+id="215177758"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:21:42"
+handicap=""/>
+<participant
+name="Ross County 2-1"
+id="215177754"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:24"
+handicap=""/>
+<participant
+name="Ross County 2-0"
+id="215177753"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:24"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215177749"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:38"
+handicap=""/>
+<participant
+name="Hibernian 3-2"
+id="215177721"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:38"
+handicap=""/>
+<participant
+name="Hibernian 4-2"
+id="215177724"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:38"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215177747"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:38"
+handicap=""/>
+<participant
+name="Ross County 4-1"
+id="215177759"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:38"
+handicap=""/>
+<participant
+name="Ross County 3-0"
+id="215177755"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:39"
+handicap=""/>
+<participant
+name="Ross County 1-0"
+id="215177752"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:39"
+handicap=""/>
+<participant
+name="Hibernian 3-0"
+id="215177719"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:39"
+handicap=""/>
+<participant
+name="Hibernian 3-1"
+id="215177720"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:39"
+handicap=""/>
+<participant
+name="Hibernian 4-0"
+id="215177722"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:40"
+handicap=""/>
+<participant
+name="Hibernian 4-1"
+id="215177723"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:41"
+handicap=""/>
+<participant
+name="Draw 0-0"
+id="215177746"
+odds="10/3"
+oddsDecimal="4.33"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:41"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215177748"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:41"
+handicap=""/>
+<participant
+name="Hibernian 2-1"
+id="215177718"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:41"
+handicap=""/>
+<participant
+name="Ross County 3-1"
+id="215177756"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:42"
+handicap=""/>
+<participant
+name="Ross County 3-2"
+id="215177757"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:42"
+handicap=""/>
+<participant
+name="Hibernian 2-0"
+id="215177717"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:42"
+handicap=""/>
+</market>
+<market
+id="52838494"
+name="Hibernian v Ross County - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798238/Hibernian%2dv%2dRoss%2dCounty"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:45"
+>
+<participant
+name="Draw 0-0"
+id="215177814"
+odds="2/11"
+oddsDecimal="1.18"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Ross County 1-0"
+id="215177819"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215177815"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Ross County 2-0"
+id="215177820"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Hibernian 1-0"
+id="215177794"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+<participant
+name="Hibernian 2-0"
+id="215177795"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:00"
+handicap=""/>
+</market>
+<market
+id="52838631"
+name="Motherwell v Aberdeen - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798239/Motherwell%2dv%2dAberdeen"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:27"
+>
+<participant
+name="Aberdeen 5-3"
+id="215178064"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Motherwell 5-4"
+id="215178029"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Motherwell 6-3"
+id="215178033"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Motherwell 4-2"
+id="215178023"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Motherwell 4-3"
+id="215178024"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Motherwell 5-2"
+id="215178027"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Motherwell 5-1"
+id="215178026"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Motherwell 5-3"
+id="215178028"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Motherwell 6-1"
+id="215178031"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Aberdeen 5-4"
+id="215178065"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Aberdeen 5-2"
+id="215178063"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Motherwell 6-2"
+id="215178032"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:27"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215178048"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:27"
+handicap=""/>
+<participant
+name="Draw 4-4"
+id="215178049"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:27"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215178047"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:27"
+handicap=""/>
+<participant
+name="Aberdeen 4-2"
+id="215178059"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Aberdeen 4-3"
+id="215178060"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Motherwell 3-2"
+id="215178020"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Motherwell 3-1"
+id="215178019"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Aberdeen 3-2"
+id="215178056"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Motherwell 2-1"
+id="215178017"
+odds="18/5"
+oddsDecimal="4.60"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Motherwell 4-1"
+id="215178022"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+</market>
+<market
+id="52838632"
+name="Motherwell v Aberdeen - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798239/Motherwell%2dv%2dAberdeen"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:21"
+>
+<participant
+name="Motherwell 3-1"
+id="215178097"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:27"
+handicap=""/>
+<participant
+name="Motherwell 3-2"
+id="215178098"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Motherwell 4-1"
+id="215178100"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Motherwell 2-1"
+id="215178095"
+odds="3/10"
+oddsDecimal="1.30"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Aberdeen 3-2"
+id="215178123"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215178116"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Motherwell 4-2"
+id="215178101"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:28"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215178115"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:27"
+handicap=""/>
+</market>
+<market
+id="52838770"
+name="Kilmarnock v Hearts - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798240/Kilmarnock%2dv%2dHearts"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:28"
+>
+<participant
+name="Kilmarnock 4-3"
+id="215178693"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:36"
+handicap=""/>
+<participant
+name="Kilmarnock 2-1"
+id="215178686"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:35"
+handicap=""/>
+<participant
+name="Hearts 5-1"
+id="215178731"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:36"
+handicap=""/>
+<participant
+name="Hearts 4-3"
+id="215178729"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:36"
+handicap=""/>
+<participant
+name="Kilmarnock 5-0"
+id="215178694"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:36"
+handicap=""/>
+<participant
+name="Kilmarnock 5-1"
+id="215178695"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:27:36"
+handicap=""/>
+<participant
+name="Kilmarnock 3-1"
+id="215178688"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:43"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215178715"
+odds="3/1"
+oddsDecimal="4.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:30:45"
+handicap=""/>
+<participant
+name="Kilmarnock 3-2"
+id="215178689"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Kilmarnock 4-2"
+id="215178692"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:42"
+handicap=""/>
+<participant
+name="Hearts 4-2"
+id="215178728"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:43"
+handicap=""/>
+<participant
+name="Hearts 3-2"
+id="215178725"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:43"
+handicap=""/>
+<participant
+name="Kilmarnock 2-0"
+id="215178685"
+odds="11/2"
+oddsDecimal="6.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:03"
+handicap=""/>
+<participant
+name="Kilmarnock 3-0"
+id="215178687"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:03"
+handicap=""/>
+<participant
+name="Kilmarnock 4-0"
+id="215178690"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:04"
+handicap=""/>
+<participant
+name="Kilmarnock 4-1"
+id="215178691"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:04"
+handicap=""/>
+<participant
+name="Hearts 2-1"
+id="215178722"
+odds="8/1"
+oddsDecimal="9.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:04"
+handicap=""/>
+<participant
+name="Hearts 3-1"
+id="215178724"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:04"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215178716"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:04"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215178717"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:04"
+handicap=""/>
+<participant
+name="Kilmarnock 1-0"
+id="215178684"
+odds="16/5"
+oddsDecimal="4.20"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:04"
+handicap=""/>
+<participant
+name="Hearts 4-1"
+id="215178727"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:04"
+handicap=""/>
+</market>
+<market
+id="52838771"
+name="Kilmarnock v Hearts - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798240/Kilmarnock%2dv%2dHearts"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:25"
+>
+<participant
+name="Draw 1-1"
+id="215178783"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:03"
+handicap=""/>
+<participant
+name="Kilmarnock 2-0"
+id="215178763"
+odds="7/1"
+oddsDecimal="8.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:42"
+handicap=""/>
+<participant
+name="Kilmarnock 2-1"
+id="215178764"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:41"
+handicap=""/>
+<participant
+name="Kilmarnock 1-0"
+id="215178762"
+odds="1/4"
+oddsDecimal="1.25"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:41"
+handicap=""/>
+<participant
+name="Kilmarnock 3-0"
+id="215178765"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:41"
+handicap=""/>
+<participant
+name="Kilmarnock 3-1"
+id="215178766"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:41"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215178784"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:41"
+handicap=""/>
+<participant
+name="Hearts 2-1"
+id="215178789"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:03"
+handicap=""/>
+</market>
+<market
+id="52838908"
+name="Inverness v St Mirren - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798237/Inverness%2dv%2dSt%2dMirren"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:53"
+>
+<participant
+name="Inverness 4-1"
+id="215178990"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="St Mirren 4-2"
+id="215179027"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="St Mirren 4-1"
+id="215179026"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="St Mirren 4-0"
+id="215179025"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="St Mirren 3-2"
+id="215179024"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="St Mirren 3-1"
+id="215179023"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="St Mirren 3-0"
+id="215179022"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="Inverness 3-1"
+id="215178987"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="Inverness 2-1"
+id="215178985"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:21"
+handicap=""/>
+<participant
+name="St Mirren 5-1"
+id="215179030"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:09:59"
+handicap=""/>
+<participant
+name="St Mirren 5-0"
+id="215179029"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:09:59"
+handicap=""/>
+<participant
+name="Inverness 6-1"
+id="215178999"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:20:05"
+handicap=""/>
+<participant
+name="Inverness 4-3"
+id="215178992"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:58"
+handicap=""/>
+<participant
+name="Inverness 5-3"
+id="215178996"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:58"
+handicap=""/>
+<participant
+name="Draw 4-4"
+id="215179017"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:58"
+handicap=""/>
+<participant
+name="Inverness 5-2"
+id="215178995"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:58"
+handicap=""/>
+<participant
+name="St Mirren 2-0"
+id="215179020"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:58"
+handicap=""/>
+<participant
+name="Inverness 5-1"
+id="215178994"
+odds="60/1"
+oddsDecimal="61.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:58"
+handicap=""/>
+<participant
+name="St Mirren 5-2"
+id="215179031"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:59"
+handicap=""/>
+<participant
+name="Inverness 3-2"
+id="215178988"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:59"
+handicap=""/>
+<participant
+name="Inverness 4-2"
+id="215178991"
+odds="35/1"
+oddsDecimal="36.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:28:59"
+handicap=""/>
+<participant
+name="St Mirren 1-0"
+id="215179019"
+odds="13/2"
+oddsDecimal="7.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:19"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215179014"
+odds="15/4"
+oddsDecimal="4.75"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:19"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215179016"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:19"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215179015"
+odds="15/2"
+oddsDecimal="8.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:19"
+handicap=""/>
+<participant
+name="St Mirren 2-1"
+id="215179021"
+odds="6/1"
+oddsDecimal="7.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+<participant
+name="St Mirren 4-3"
+id="215179028"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:20"
+handicap=""/>
+</market>
+<market
+id="52838909"
+name="Inverness v St Mirren - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798237/Inverness%2dv%2dSt%2dMirren"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:01:52"
+>
+<participant
+name="Inverness 3-1"
+id="215179065"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:17"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215179083"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:43"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215179082"
+odds="15/4"
+oddsDecimal="4.75"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:33:43"
+handicap=""/>
+<participant
+name="St Mirren 2-1"
+id="215179088"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="St Mirren 3-0"
+id="215179089"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="Inverness 2-1"
+id="215179063"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:20"
+handicap=""/>
+<participant
+name="St Mirren 1-0"
+id="215179086"
+odds="2/7"
+oddsDecimal="1.29"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:43"
+handicap=""/>
+<participant
+name="St Mirren 2-0"
+id="215179087"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:43"
+handicap=""/>
+</market>
+</type>
+<type
+id="1040"
+name="Welsh Premier League"
+url="http://sports.williamhill.com/bet/betting/t/1040"
+lastUpdateDate="2012-11-05"
+lastUpdateTime="05:19:12">
+<market
+id="52864456"
+name="Afan Lido v Port Talbot - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798228/Afan%2dLido%2dv%2dPort%2dTalbot"
+date="2012-12-26"
+time="14:30:00"
+betTillDate="2012-12-26"
+betTillTime="14:30:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:10"
+>
+<participant
+name="Port Talbot 5-4"
+id="215250587"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 3-1"
+id="215250577"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:08:44"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215250570"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:18:59"
+handicap=""/>
+<participant
+name="Port Talbot 5-1"
+id="215250584"
+odds="10/1"
+oddsDecimal="11.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 5-2"
+id="215250585"
+odds="20/1"
+oddsDecimal="21.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 5-3"
+id="215250586"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 4-1"
+id="215250580"
+odds="5/1"
+oddsDecimal="6.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 4-2"
+id="215250581"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 4-3"
+id="215250582"
+odds="33/1"
+oddsDecimal="34.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 5-0"
+id="215250583"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 3-2"
+id="215250578"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 4-0"
+id="215250579"
+odds="4/1"
+oddsDecimal="5.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Afan Lido 4-3"
+id="215250546"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Draw 4-4"
+id="215250571"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 6-2"
+id="215250590"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 6-1"
+id="215250589"
+odds="25/1"
+oddsDecimal="26.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 6-0"
+id="215250588"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 7-1"
+id="215250594"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 7-0"
+id="215250593"
+odds="55/1"
+oddsDecimal="56.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 8-0"
+id="215250597"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 7-2"
+id="215250595"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 6-3"
+id="215250591"
+odds="70/1"
+oddsDecimal="71.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 8-1"
+id="215250598"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+<participant
+name="Port Talbot 3-0"
+id="215250576"
+odds="24/5"
+oddsDecimal="5.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:36:06"
+handicap=""/>
+</market>
+</type>
+<type
+id="9692"
+name="Scottish Division 3"
+url="http://sports.williamhill.com/bet/betting/t/9692"
+lastUpdateDate="2012-11-05"
+lastUpdateTime="05:19:04">
+<market
+id="52857375"
+name="Rangers v Clyde - Live Score"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798232/Rangers%2dv%2dClyde"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:28"
+>
+<participant
+name="Rangers 2-0"
+id="215235902"
+odds="19/5"
+oddsDecimal="4.80"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Rangers 7-1"
+id="215235922"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Rangers 7-0"
+id="215235921"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:00"
+handicap=""/>
+<participant
+name="Rangers 6-1"
+id="215235917"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:00"
+handicap=""/>
+<participant
+name="Draw 2-2"
+id="215235933"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:00"
+handicap=""/>
+<participant
+name="Rangers 8-1"
+id="215235926"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:00"
+handicap=""/>
+<participant
+name="Clyde 2-1"
+id="215235939"
+odds="66/1"
+oddsDecimal="67.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:00"
+handicap=""/>
+<participant
+name="Draw 3-3"
+id="215235934"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:35:00"
+handicap=""/>
+<participant
+name="Rangers 4-2"
+id="215235909"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Rangers 4-0"
+id="215235907"
+odds="9/2"
+oddsDecimal="5.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Rangers 4-1"
+id="215235908"
+odds="14/1"
+oddsDecimal="15.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Rangers 3-1"
+id="215235905"
+odds="11/1"
+oddsDecimal="12.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Rangers 3-2"
+id="215235906"
+odds="45/1"
+oddsDecimal="46.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Rangers 3-0"
+id="215235904"
+odds="16/5"
+oddsDecimal="4.20"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Rangers 1-0"
+id="215235901"
+odds="9/1"
+oddsDecimal="10.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Rangers 6-2"
+id="215235918"
+odds="80/1"
+oddsDecimal="81.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:29:20"
+handicap=""/>
+<participant
+name="Rangers 2-1"
+id="215235903"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:18"
+handicap=""/>
+<participant
+name="Rangers 9-0"
+id="215235928"
+odds="90/1"
+oddsDecimal="91.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:31:18"
+handicap=""/>
+<participant
+name="Rangers 5-0"
+id="215235911"
+odds="17/2"
+oddsDecimal="9.50"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:38"
+handicap=""/>
+<participant
+name="Rangers 6-0"
+id="215235916"
+odds="18/1"
+oddsDecimal="19.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:40"
+handicap=""/>
+<participant
+name="Rangers 8-0"
+id="215235925"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:41"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215235932"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:41"
+handicap=""/>
+<participant
+name="Rangers 5-2"
+id="215235913"
+odds="65/1"
+oddsDecimal="66.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Rangers 5-1"
+id="215235912"
+odds="22/1"
+oddsDecimal="23.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+</market>
+<market
+id="52857376"
+name="Rangers v Clyde - 1st Half Correct Score Live"
+url="http://sports.williamhill.com/bet/en-gb/betting/e/3798232/Rangers%2dv%2dClyde"
+date="2012-12-26"
+time="15:00:00"
+betTillDate="2012-12-26"
+betTillTime="15:00:00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:02:27"
+>
+<participant
+name="Rangers 3-1"
+id="215235983"
+odds="50/1"
+oddsDecimal="51.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:32:18"
+handicap=""/>
+<participant
+name="Rangers 3-0"
+id="215235982"
+odds="12/1"
+oddsDecimal="13.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Rangers 2-0"
+id="215235980"
+odds="12/5"
+oddsDecimal="3.40"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Rangers 2-1"
+id="215235981"
+odds="28/1"
+oddsDecimal="29.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Rangers 4-0"
+id="215235985"
+odds="40/1"
+oddsDecimal="41.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Rangers 1-0"
+id="215235979"
+odds="4/9"
+oddsDecimal="1.44"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+<participant
+name="Draw 1-1"
+id="215236000"
+odds="16/1"
+oddsDecimal="17.00"
+lastUpdateDate="2012-12-26"
+lastUpdateTime="15:34:59"
+handicap=""/>
+</market>
+</type>
+</class>
+<disclaimer>
+WHG (International) Ltd (&quot;We/Us&quot;) of 6/1 Waterport Place, Gibraltar, owns the XML Feed Website ( the &quot;Website&quot;) relating to information contained on its main trading website. By using the Website You agree to these full Terms of Use available at http://developer.williamhill.com
+</disclaimer>
+</williamhill>
+</response>
+</oxip>
