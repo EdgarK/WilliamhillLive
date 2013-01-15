@@ -1,13 +1,14 @@
 require "rubygems"
 require "net/http"
 require "nokogiri"
-
+#require_relative "../uri_cache"
+require "pp"
 class WilliamhillLive
   attr_accessor :sport_name, :home_team, :away_team, :market_type, :league_name, :market, :result, :period
 
   URL = "http://pricefeeds.williamhill.com/bet/en-gb?action=GoPriceFeed"
   LIVE_LINE_NAME = /LIVE Betting In-running/
-  SPORT_NAME_PATTERN = /(Football)|(European Major Leagues)|(Hockey)|(Basketball)|(Volleyball)|(Tennis)/
+  SPORT_NAME_PATTERN = /(Football)|(European Major Leagues)|(Hockey)|(Basketball)|(Volleyball)|(Tennis)|(Cricket)|(Handball)/
   PASS_SPORT_NAMES_PATTERNS = /(Newcastle Hotbox)/
   SPORT_NAME_TRANSLATION = {'Football' => 'soccer', 'European Major Leagues' => 'soccer'}
   PASS_TYPES_PATTERN = /([0-9]+(th|st).* Min(ute|s)|Before\/After [0-9]+ Mins|Puck|Correct Score|Total Pts|Winning Margin|Live Score|minutes|Easy As 1-2-3|To Win To Nil|Highest Scoring Period Live|Clean Sheet|To Score Both Halves|Win To Deuce|Match Betting Live|Set Race To|Set - Point)/
@@ -65,13 +66,13 @@ class WilliamhillLive
           elsif market_type =~ /Handicap [0-9+-]+ Live/
             parse_handicap()
           else
-            #puts "Home => #{home_team} ; Away => #{away_team}    -----     #{market_type}"
+            #puts "Home => #{home_team} ; Away => #{away_team}    -----     #{market_type}" if self.sport_name == 'Cricket'
           end
         end
 
       end
     end
-    puts @result.inspect
+    PP.pp(@result, $>, 79)
   end
 
   def parse_evt_name
@@ -94,10 +95,13 @@ class WilliamhillLive
     #puts "!!!!!!! F1 F2 !!!!!!!!!!!"
     #period = parse_periods(market_type)
     val = market_type.match(/Handicap ([0-9+-]+)/)[1]
-    koefF1 = market.xpath("participant[@name='#{home_team}']").first['oddsDecimal']
-    koefF2 = market.xpath("participant[@name='#{away_team}']").first['oddsDecimal']
-    add_to_result [period, 'F1', val, koefF1]
-    add_to_result [period, 'F2', val, koefF2]
+    koefF1 = market.xpath("participant[@name='#{home_team}']").first
+    koefF2 = market.xpath("participant[@name='#{away_team}']").first
+    koefEHX = market.xpath("participant[@name='Handicap Tie']").first
+    name = (koefEHX)? 'EH' : 'F'
+    add_to_result [period, "#{name}1", koefF1['handicap'], koefF1['oddsDecimal']]
+    add_to_result [period, "#{name}2", koefF2['handicap'], koefF2['oddsDecimal']]
+    add_to_result [period, 'EHX', koefEHX['handicap'], koefEHX['oddsDecimal']] if koefEHX
   end
 
 
@@ -178,8 +182,8 @@ class WilliamhillLive
     #puts "!!!!!!!!!!  BTS_Y  !!!!!!!!!!!!", 1
     koefBTS_Y = market.xpath("participant[@name='Both Teams']").first
     koefBTS_N = market.xpath("participant[@name='Neither']").first
-    add_to_result [period, 'BTS_Y', nil, koefBTS_Y] if koefBTS_Y
-    add_to_result [period, 'BTS_N', nil, koefBTS_N] if koefBTS_N
+    add_to_result [period, 'BTS_Y', nil, koefBTS_Y['oddsDecimal']] if koefBTS_Y
+    add_to_result [period, 'BTS_N', nil, koefBTS_N['oddsDecimal']] if koefBTS_N
   end
 
   def parse_periods()
@@ -199,7 +203,9 @@ class WilliamhillLive
     main_table = nodeset.css('table')
     rows = main_table.css('tr')
     xmls = []
-    rows.each do |row|
+    rows.each_with_index do |row, index|
+      $stdout.flush
+      $stdout.print "downloadding ... #{index} of #{rows.length}\r"
       if row.css('td').first && row.css('td').first['colspan'] == '3'
         if row.css('td').first.text =~ LIVE_LINE_NAME
           next
@@ -217,6 +223,7 @@ class WilliamhillLive
   private
 
   def get(uri)
+    #return UriCache.get(uri)
     response = Net::HTTP.get_response(URI.parse(uri))
     if response.kind_of?(Net::HTTPRedirection)
       body = Net::HTTP.get(URI.parse(redirect_url(response)))
