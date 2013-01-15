@@ -13,6 +13,8 @@ class WilliamhillLive
   SPORT_NAME_TRANSLATION = {'Football' => 'soccer', 'European Major Leagues' => 'soccer'}
   PASS_TYPES_PATTERN = /([0-9]+(th|st).* Min(ute|s)|Before\/After [0-9]+ Mins|Puck|Correct Score|Total Pts|Winning Margin|Live Score|minutes|Easy As 1-2-3|To Win To Nil|Highest Scoring Period Live|Clean Sheet|To Score Both Halves|Win To Deuce|Match Betting Live|Set Race To|Set - Point)/
   UNUSUAL_MAIN_LINE_NUMBERS_PATTERN = /(Tennis|Basketball)/
+  NON_DOWNLOADED = /(Correct score)|(Half-time\/full-time)|(Win\/win)/
+
 
   def initialize()
     @sport_name = @home_team = @away_team = @market_type = @league_name = @period = nil
@@ -107,7 +109,7 @@ class WilliamhillLive
 
   def parse_under_over()
     #puts "!!!!!!!!!! TU TO !!!!!!!!!!!!!!"
-    val = market_type.match(/Under\/Over ([0-9.]+)/)[1]
+    val = market_type.match(/Under\/Over ([0-9.]+)/)[1].to_f
 
     market.xpath('participant').each do |participant|
       name = ''
@@ -121,9 +123,12 @@ class WilliamhillLive
       elsif participant['name'].include? away_team
         name = 'I2'
       end
+      last_letter = participant['name'].match(/(Under|Over)/)[0][0]
 
-      isxod = "#{name}T#{participant['name'].match(/(Under|Over)/)[0][0]}"
-      add_to_result [period, isxod, val, participant['oddsDecimal']]
+      value = val + ((last_letter == 'U')? (-0.5) : 0.5)
+
+      isxod = "#{name}T#{last_letter}"
+      add_to_result [period, isxod, value, participant['oddsDecimal']]
     end
 
   end
@@ -203,9 +208,8 @@ class WilliamhillLive
     main_table = nodeset.css('table')
     rows = main_table.css('tr')
     xmls = []
+    urls = []
     rows.each_with_index do |row, index|
-      $stdout.flush
-      $stdout.print "downloadding ... #{index} of #{rows.length}\r"
       if row.css('td').first && row.css('td').first['colspan'] == '3'
         if row.css('td').first.text =~ LIVE_LINE_NAME
           next
@@ -214,8 +218,13 @@ class WilliamhillLive
         end
       end
       next if row.css('th').length > 0
-      xml_uri = row.css('td')[2].css('a')[0]['href']
-      xmls << get(xml_uri)
+      next if row.css('td')[1].text =~ NON_DOWNLOADED
+      urls << row.css('td')[2].css('a')[0]['href']
+    end
+    urls.each_with_index do |url, index|
+      $stdout.flush
+      $stdout.print "downloading ... #{index} of #{urls.length}\r"
+      xmls << get(url)
     end
     xmls
   end
