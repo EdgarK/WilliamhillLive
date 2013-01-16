@@ -1,7 +1,6 @@
 require "rubygems"
 require "net/http"
 require "nokogiri"
-#require_relative "../uri_cache"
 require "pp"
 class WilliamhillLive
   attr_accessor :sport_name, :home_team, :away_team, :market_type, :league_name, :market, :result, :period
@@ -14,9 +13,13 @@ class WilliamhillLive
   PASS_TYPES_PATTERN = /([0-9]+(th|st).* Min(ute|s)|Before\/After [0-9]+ Mins|Puck|Correct Score|Total Pts|Winning Margin|Live Score|minutes|Easy As 1-2-3|To Win To Nil|Highest Scoring Period Live|Clean Sheet|To Score Both Halves|Win To Deuce|Match Betting Live|Set Race To|Set - Point)/
   UNUSUAL_MAIN_LINE_NUMBERS_PATTERN = /(Tennis|Basketball)/
   NON_DOWNLOADED = /(Correct score)|(Half-time\/full-time)|(Win\/win)/
-
+  def debug
+    return false
+    true
+  end
 
   def initialize()
+    require_relative "../uri_cache" if debug
     @sport_name = @home_team = @away_team = @market_type = @league_name = @period = nil
     @result = {}
   end
@@ -125,7 +128,8 @@ class WilliamhillLive
       end
       last_letter = participant['name'].match(/(Under|Over)/)[0][0]
 
-      value = val + ((last_letter == 'U')? (-0.5) : 0.5)
+      value = val
+      value += val + ((last_letter == 'U')? (-0.5) : 0.5) if market.xpath('participant').length > 2
 
       isxod = "#{name}T#{last_letter}"
       add_to_result [period, isxod, value, participant['oddsDecimal']]
@@ -232,7 +236,7 @@ class WilliamhillLive
   private
 
   def get(uri)
-    #return UriCache.get(uri)
+    return UriCache.get(uri) if debug
     response = Net::HTTP.get_response(URI.parse(uri))
     if response.kind_of?(Net::HTTPRedirection)
       body = Net::HTTP.get(URI.parse(redirect_url(response)))
