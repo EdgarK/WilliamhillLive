@@ -7,7 +7,7 @@ class WilliamhillLive
 
   URL = "http://pricefeeds.williamhill.com/bet/en-gb?action=GoPriceFeed"
   LIVE_LINE_NAME = /LIVE Betting In-running/
-  SPORT_NAME_PATTERN = /(Football)|(European Major Leagues)|(Hockey)|(Basketball)|(Volleyball)|(Tennis)|(Cricket)|(Handball)/
+  SPORT_NAME_PATTERN = /(Football)|(European Major Leagues)|(Hockey)|(Basketball)|(Volleyball)|(Tennis)|(Cricket)|(Handball)|(Golf)/
   PASS_SPORT_NAMES_PATTERNS = /(Newcastle Hotbox)/
   SPORT_NAME_TRANSLATION = {'Football' => 'soccer', 'European Major Leagues' => 'soccer'}
   PASS_TYPES_PATTERN = /([0-9]+(th|st).* Min(ute|s)|Before\/After [0-9]+ Mins|Puck|Correct Score|Total Pts|Winning Margin|Live Score|minutes|Easy As 1-2-3|To Win To Nil|Highest Scoring Period Live|Clean Sheet|To Score Both Halves|Win To Deuce|rMatch rBetting rLive|Set Race To|Set - Point)/
@@ -71,9 +71,9 @@ class WilliamhillLive
           elsif market_type =~ /Handicap [0-9+-]+ Live/
             parse_handicap()
           elsif market_type =~ /Betting Live/
-            puts market
+            parse_beating()
           else
-            puts "Home => #{home_team} ; Away => #{away_team}    -----     #{market_type}" 
+            #puts "Home => #{home_team} ; Away => #{away_team}    -----     #{market_type}" 
           end
         end
 
@@ -98,9 +98,18 @@ class WilliamhillLive
     @result[sport_name][league_name][@evt_name] << arr
   end
 
+  def parse_beating()
+    koef1 = market.xpath("participant[@name='#{home_team}']").first['oddsDecimal']
+    koef2 = market.xpath("participant[@name='#{away_team}']").first['oddsDecimal']
+    koefX = market.xpath("participant[@name='Draw']").first
+    name = (koefX)? '' : 'ML'
+    add_to_result [period,"#{name}1", nil, koef1]
+    add_to_result [period,"#{name}2", nil, koef2]
+    add_to_result [period,"#{name}X", nil, koefX['oddsDecimal']] if koefX
+  end
+
   def parse_handicap()
-    #puts "!!!!!!! F1 F2 !!!!!!!!!!!"
-    #period = parse_periods(market_type)
+    # "!!!!!!! F1 F2 !!!!!!!!!!!"
     val = market_type.match(/Handicap ([0-9+-]+)/)[1]
     koefF1 = market.xpath("participant[@name='#{home_team}']").first
     koefF2 = market.xpath("participant[@name='#{away_team}']").first
@@ -113,7 +122,7 @@ class WilliamhillLive
 
 
   def parse_under_over()
-    #puts "!!!!!!!!!! TU TO !!!!!!!!!!!!!!"
+    # "!!!!!!!!!! TU TO !!!!!!!!!!!!!!"
     val = market_type.match(/Under\/Over ([0-9.]+)/)[1].to_f
 
     market.xpath('participant').each do |participant|
@@ -140,7 +149,7 @@ class WilliamhillLive
   end
 
   def parse_winner()
-    #puts "!!!!!!!!!!1 X 2 1X X2 12!!!!!!!!!!!!"
+    # "!!!!!!!!!!1 X 2 1X X2 12!!!!!!!!!!!!"
     market.xpath('participant').each do |participant|
       name = participant['name']
       has_x = (market.xpath("participant[@name='Draw']").first || market.xpath("participant[@name='Draw/Draw']").first)
@@ -156,7 +165,7 @@ class WilliamhillLive
   end
 
   def parse_draw_no_bet()
-    #puts "!!!!!!!DNB1 DNB2!!!!!!!"
+    # "!!!!!!!DNB1 DNB2!!!!!!!"
     koefDNB1 = market.xpath("participant[@name='#{home_team}']").first['oddsDecimal']
     koefDNB2 = market.xpath("participant[@name='#{away_team}']").first['oddsDecimal']
     add_to_result [period, 'DNB1', nil, koefDNB1]
@@ -190,7 +199,7 @@ class WilliamhillLive
 
 
   def parse_teams_to_score()
-    #puts "!!!!!!!!!!  BTS_Y  !!!!!!!!!!!!", 1
+    # "!!!!!!!!!!  BTS_Y  !!!!!!!!!!!!", 1
     koefBTS_Y = market.xpath("participant[@name='Both Teams']").first
     koefBTS_N = market.xpath("participant[@name='Neither']").first
     add_to_result [period, 'BTS_Y', nil, koefBTS_Y['oddsDecimal']] if koefBTS_Y
@@ -232,6 +241,7 @@ class WilliamhillLive
       $stdout.print "downloading ... #{index} of #{urls.length}\r"
       xmls << get(url)
     end
+    $stdout.print "\n"
     xmls
   end
 
