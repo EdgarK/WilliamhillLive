@@ -14,7 +14,7 @@ class WilliamhillLive
   UNUSUAL_MAIN_LINE_NUMBERS_PATTERN = /(Tennis|Basketball)/
   NON_DOWNLOADED = /(Correct score)|(Half-time\/full-time)|(Win\/win)/
   def debug
-#    return false
+    return false
     true
   end
 
@@ -73,7 +73,7 @@ class WilliamhillLive
           elsif market_type =~ /Betting Live/
             parse_beating()
           else
-            puts "Home => #{home_team} ; Away => #{away_team}    -----     #{market_type}"  if sport_name == 'Golf'
+            #puts "Home => #{home_team} ; Away => #{away_team}    -----     #{market_type}" 
           end
         end
 
