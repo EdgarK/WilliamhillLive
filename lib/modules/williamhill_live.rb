@@ -73,7 +73,7 @@ class WilliamhillLive
           elsif market_type =~ /Betting Live/
             parse_beating()
           else
-            #puts "Home => #{home_team} ; Away => #{away_team}    -----     #{market_type}" 
+            puts "Home => #{home_team} ; Away => #{away_team}    -----     #{market_type}"  if sport_name == 'Golf'
           end
         end
 
