@@ -3,8 +3,9 @@ require "net/http"
 require "digest/md5"
 
 class UriCache
-  def self.get(uri)
+  def self.get(uri, print = false)
     cache_uri = "cache/#{Digest::MD5.hexdigest(uri)}.xml"
+    puts "filename is #{cache_uri}" if print
     Dir.mkdir 'cache' unless File.directory? 'cache'
     if File.file? cache_uri
       body = File.open(cache_uri).read

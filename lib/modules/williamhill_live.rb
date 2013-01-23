@@ -10,11 +10,11 @@ class WilliamhillLive
   SPORT_NAME_PATTERN = /(Football)|(European Major Leagues)|(Hockey)|(Basketball)|(Volleyball)|(Tennis)|(Cricket)|(Handball)/
   PASS_SPORT_NAMES_PATTERNS = /(Newcastle Hotbox)/
   SPORT_NAME_TRANSLATION = {'Football' => 'soccer', 'European Major Leagues' => 'soccer'}
-  PASS_TYPES_PATTERN = /([0-9]+(th|st).* Min(ute|s)|Before\/After [0-9]+ Mins|Puck|Correct Score|Total Pts|Winning Margin|Live Score|minutes|Easy As 1-2-3|To Win To Nil|Highest Scoring Period Live|Clean Sheet|To Score Both Halves|Win To Deuce|Match Betting Live|Set Race To|Set - Point)/
+  PASS_TYPES_PATTERN = /([0-9]+(th|st).* Min(ute|s)|Before\/After [0-9]+ Mins|Puck|Correct Score|Total Pts|Winning Margin|Live Score|minutes|Easy As 1-2-3|To Win To Nil|Highest Scoring Period Live|Clean Sheet|To Score Both Halves|Win To Deuce|rMatch rBetting rLive|Set Race To|Set - Point)/
   UNUSUAL_MAIN_LINE_NUMBERS_PATTERN = /(Tennis|Basketball)/
   NON_DOWNLOADED = /(Correct score)|(Half-time\/full-time)|(Win\/win)/
   def debug
-    return false
+#    return false
     true
   end
 
@@ -70,8 +70,10 @@ class WilliamhillLive
             parse_teams_to_score()
           elsif market_type =~ /Handicap [0-9+-]+ Live/
             parse_handicap()
+          elsif market_type =~ /Betting Live/
+            puts market
           else
-            #puts "Home => #{home_team} ; Away => #{away_team}    -----     #{market_type}" if self.sport_name == 'Cricket'
+            puts "Home => #{home_team} ; Away => #{away_team}    -----     #{market_type}" 
           end
         end
 
@@ -207,7 +209,7 @@ class WilliamhillLive
   end
 
   def get_xmls()
-    body = get(URL)
+    body = get(URL, true)
     nodeset = Nokogiri.parse(body)
     main_table = nodeset.css('table')
     rows = main_table.css('tr')
@@ -235,8 +237,8 @@ class WilliamhillLive
 
   private
 
-  def get(uri)
-    return UriCache.get(uri) if debug
+  def get(uri, print = false)
+    return UriCache.get(uri, print) if debug
     response = Net::HTTP.get_response(URI.parse(uri))
     if response.kind_of?(Net::HTTPRedirection)
       body = Net::HTTP.get(URI.parse(redirect_url(response)))
